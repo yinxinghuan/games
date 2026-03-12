@@ -7,6 +7,13 @@
     "poster": "https://yinxinghuan.github.io/games/posters/pitch.png"
   },
   {
+    "id": "ume-battle",
+    "name": "UMe Battle",
+    "description": "UMe Family角色对战",
+    "url": "https://yinxinghuan.github.io/ume-battle/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-battle.png"
+  },
+  {
     "id": "bsod",
     "name": "BSOD",
     "description": "蓝屏人生 — Laisa的13天生存模拟",
@@ -19,13 +26,6 @@
     "description": "深夜便利店经营 — 遇见形形色色的客人",
     "url": "https://yinxinghuan.github.io/convenience-store/",
     "poster": "https://yinxinghuan.github.io/games/posters/convenience-store.png"
-  },
-  {
-    "id": "ume-battle",
-    "name": "UMe Battle",
-    "description": "UMe Family角色对战",
-    "url": "https://yinxinghuan.github.io/ume-battle/",
-    "poster": "https://yinxinghuan.github.io/games/posters/ume-battle.png"
   },
   {
     "id": "memory-card",
