@@ -15,21 +15,21 @@
   },
   {
     "id": "convenience-store",
-    "name": "便利店",
+    "name": "Convenience Store",
     "description": "深夜便利店经营 — 遇见形形色色的客人",
     "url": "https://yinxinghuan.github.io/convenience-store/",
     "poster": "https://yinxinghuan.github.io/games/posters/convenience-store.png"
   },
   {
     "id": "ume-battle",
-    "name": "UMe大作战",
+    "name": "UMe Battle",
     "description": "UMe Family角色对战",
     "url": "https://yinxinghuan.github.io/ume-battle/",
     "poster": "https://yinxinghuan.github.io/games/posters/ume-battle.png"
   },
   {
     "id": "memory-card",
-    "name": "记忆翻牌",
+    "name": "Memory Card",
     "description": "经典记忆翻牌游戏",
     "url": "https://yinxinghuan.github.io/memory-card/",
     "poster": "https://yinxinghuan.github.io/games/posters/memory-card.png"
@@ -43,7 +43,7 @@
   },
   {
     "id": "whack-a-mole",
-    "name": "打地鼠",
+    "name": "Whack-a-Mole",
     "description": "经典打地鼠游戏",
     "url": "https://yinxinghuan.github.io/whack-a-mole/",
     "poster": "https://yinxinghuan.github.io/games/posters/whack-a-mole.png"
