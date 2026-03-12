@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pitch",
+    "name": "PITCH",
+    "description": "融资倒计时 — Jenny的创业生存游戏",
+    "url": "https://yinxinghuan.github.io/pitch/",
+    "poster": "https://yinxinghuan.github.io/pitch/poster.png"
+  },
+  {
+    "id": "bsod",
+    "name": "BSOD",
+    "description": "蓝屏人生 — Laisa的13天生存模拟",
+    "url": "https://yinxinghuan.github.io/bsod/",
+    "poster": "https://yinxinghuan.github.io/bsod/poster.png"
+  },
+  {
+    "id": "convenience-store",
+    "name": "便利店",
+    "description": "深夜便利店经营 — 遇见形形色色的客人",
+    "url": "https://yinxinghuan.github.io/convenience-store/",
+    "poster": "https://yinxinghuan.github.io/convenience-store/poster.png"
+  },
+  {
+    "id": "ume-battle",
+    "name": "UMe大作战",
+    "description": "UMe Family角色对战",
+    "url": "https://yinxinghuan.github.io/ume-battle/",
+    "poster": "https://yinxinghuan.github.io/ume-battle/poster.png"
+  },
+  {
+    "id": "memory-card",
+    "name": "记忆翻牌",
+    "description": "经典记忆翻牌游戏",
+    "url": "https://yinxinghuan.github.io/memory-card/",
+    "poster": "https://yinxinghuan.github.io/memory-card/poster.png"
+  },
+  {
+    "id": "flappy-bird",
+    "name": "Flappy Bird",
+    "description": "经典飞翔小鸟",
+    "url": "https://yinxinghuan.github.io/flappy-bird/",
+    "poster": "https://yinxinghuan.github.io/flappy-bird/poster.png"
+  },
+  {
+    "id": "whack-a-mole",
+    "name": "打地鼠",
+    "description": "经典打地鼠游戏",
+    "url": "https://yinxinghuan.github.io/whack-a-mole/",
+    "poster": "https://yinxinghuan.github.io/whack-a-mole/poster.png"
+  }
+]
