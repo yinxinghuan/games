@@ -1,5 +1,12 @@
 [
   {
+    "id": "spot-diff",
+    "name": "Spot the Difference",
+    "description": "找茬侦探 — 6个角色房间，发现隐藏的线索",
+    "url": "https://yinxinghuan.github.io/spot-diff/",
+    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff.png"
+  },
+  {
     "id": "pitch",
     "name": "PITCH",
     "description": "融资倒计时 — Jenny的创业生存游戏",
@@ -47,12 +54,5 @@
     "description": "经典打地鼠游戏",
     "url": "https://yinxinghuan.github.io/whack-a-mole/",
     "poster": "https://yinxinghuan.github.io/games/posters/whack-a-mole.png"
-  },
-  {
-    "id": "spot-diff",
-    "name": "Spot the Difference",
-    "description": "找茬大师 — 6个角色场景，找出所有不同",
-    "url": "https://yinxinghuan.github.io/spot-diff/",
-    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff.png"
   }
 ]
