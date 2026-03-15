@@ -1,5 +1,12 @@
 [
   {
+    "id": "my-meme",
+    "name": "MY MEME",
+    "description": "AI角色Meme生成器 — 一键生成专属表情包",
+    "url": "https://yinxinghuan.github.io/my-meme/",
+    "poster": "https://yinxinghuan.github.io/games/posters/my-meme.png"
+  },
+  {
     "id": "spot-diff",
     "name": "Spot the Difference",
     "description": "找茬侦探 — 6个角色房间，发现隐藏的线索",
