@@ -7,6 +7,13 @@
     "poster": "https://yinxinghuan.github.io/games/posters/my-meme.png"
   },
   {
+    "id": "spot-diff-s2",
+    "name": "Spot the Difference II",
+    "description": "找茬侦探第二季 — 和你的好友一起破解谜团",
+    "url": "https://yinxinghuan.github.io/spot-diff-s2/",
+    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff-s2.png"
+  },
+  {
     "id": "spot-diff",
     "name": "Spot the Difference",
     "description": "找茬侦探 — 6个角色房间，发现隐藏的线索",
