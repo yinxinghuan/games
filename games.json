@@ -1,5 +1,12 @@
 [
   {
+    "id": "ghost-garden",
+    "name": "Ghost Garden",
+    "description": "幽灵庄园 — 养育你的小幽灵，探索3D低多边形墓园",
+    "url": "https://yinxinghuan.github.io/ghost-garden/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ghost-garden.png"
+  },
+  {
     "id": "my-meme",
     "name": "MY MEME",
     "description": "AI角色Meme生成器 — 一键生成专属表情包",
