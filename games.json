@@ -1,5 +1,12 @@
 [
   {
+    "id": "ume-boba-shop",
+    "name": "UMe Boba Shop",
+    "description": "UMe 珍珠奶茶小铺 — 放置经营，招聘店员，走向星际",
+    "url": "https://yinxinghuan.github.io/ume-boba-shop/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-boba-shop.png"
+  },
+  {
     "id": "ghost-garden",
     "name": "Ghost Garden",
     "description": "幽灵庄园 — 养育你的小幽灵，探索3D低多边形墓园",
