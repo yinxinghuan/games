@@ -4,83 +4,95 @@
     "name": "UMe Boba Shop",
     "description": "UMe 珍珠奶茶小铺 — 放置经营，招聘店员，走向星际",
     "url": "https://yinxinghuan.github.io/ume-boba-shop/",
-    "poster": "https://yinxinghuan.github.io/games/posters/ume-boba-shop.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-boba-shop.png",
+    "zipurl": "https://github.com/yinxinghuan/ume-boba-shop/archive/refs/heads/master.zip"
   },
   {
     "id": "ghost-garden",
     "name": "Ghost Garden",
     "description": "幽灵庄园 — 养育你的小幽灵，探索3D低多边形墓园",
     "url": "https://yinxinghuan.github.io/ghost-garden/",
-    "poster": "https://yinxinghuan.github.io/games/posters/ghost-garden.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/ghost-garden.png",
+    "zipurl": "https://github.com/yinxinghuan/ghost-garden/archive/refs/heads/master.zip"
   },
   {
     "id": "my-meme",
     "name": "MY MEME",
     "description": "AI角色Meme生成器 — 一键生成专属表情包",
     "url": "https://yinxinghuan.github.io/my-meme/",
-    "poster": "https://yinxinghuan.github.io/games/posters/my-meme.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/my-meme.png",
+    "zipurl": "https://github.com/yinxinghuan/my-meme/archive/refs/heads/master.zip"
   },
   {
     "id": "spot-diff-s2",
     "name": "Spot the Difference II",
     "description": "找茬侦探第二季 — 和你的好友一起破解谜团",
     "url": "https://yinxinghuan.github.io/spot-diff-s2/",
-    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff-s2.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff-s2.png",
+    "zipurl": "https://github.com/yinxinghuan/spot-diff-s2/archive/refs/heads/master.zip"
   },
   {
     "id": "spot-diff",
     "name": "Spot the Difference",
     "description": "找茬侦探 — 6个角色房间，发现隐藏的线索",
     "url": "https://yinxinghuan.github.io/spot-diff/",
-    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/spot-diff.png",
+    "zipurl": "https://github.com/yinxinghuan/spot-diff/archive/refs/heads/master.zip"
   },
   {
     "id": "pitch",
     "name": "PITCH",
     "description": "融资倒计时 — Jenny的创业生存游戏",
     "url": "https://yinxinghuan.github.io/pitch/",
-    "poster": "https://yinxinghuan.github.io/games/posters/pitch.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/pitch.png",
+    "zipurl": "https://github.com/yinxinghuan/pitch/archive/refs/heads/master.zip"
   },
   {
     "id": "ume-battle",
     "name": "UMe Battle",
     "description": "UMe Family角色对战",
     "url": "https://yinxinghuan.github.io/ume-battle/",
-    "poster": "https://yinxinghuan.github.io/games/posters/ume-battle.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-battle.png",
+    "zipurl": "https://github.com/yinxinghuan/ume-battle/archive/refs/heads/master.zip"
   },
   {
     "id": "bsod",
     "name": "BSOD",
     "description": "蓝屏人生 — Isaya的13天生存模拟",
     "url": "https://yinxinghuan.github.io/bsod/",
-    "poster": "https://yinxinghuan.github.io/games/posters/bsod.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/bsod.png",
+    "zipurl": "https://github.com/yinxinghuan/bsod/archive/refs/heads/master.zip"
   },
   {
     "id": "convenience-store",
     "name": "Convenience Store",
     "description": "深夜便利店经营 — 遇见形形色色的客人",
     "url": "https://yinxinghuan.github.io/convenience-store/",
-    "poster": "https://yinxinghuan.github.io/games/posters/convenience-store.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/convenience-store.png",
+    "zipurl": "https://github.com/yinxinghuan/convenience-store/archive/refs/heads/master.zip"
   },
   {
     "id": "memory-card",
     "name": "Memory Card",
     "description": "经典记忆翻牌游戏",
     "url": "https://yinxinghuan.github.io/memory-card/",
-    "poster": "https://yinxinghuan.github.io/games/posters/memory-card.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/memory-card.png",
+    "zipurl": "https://github.com/yinxinghuan/memory-card/archive/refs/heads/master.zip"
   },
   {
     "id": "flappy-bird",
     "name": "Flappy Bird",
     "description": "经典飞翔小鸟",
     "url": "https://yinxinghuan.github.io/flappy-bird/",
-    "poster": "https://yinxinghuan.github.io/games/posters/flappy-bird.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/flappy-bird.png",
+    "zipurl": "https://github.com/yinxinghuan/flappy-bird/archive/refs/heads/master.zip"
   },
   {
     "id": "whack-a-mole",
     "name": "Whack-a-Mole",
     "description": "经典打地鼠游戏",
     "url": "https://yinxinghuan.github.io/whack-a-mole/",
-    "poster": "https://yinxinghuan.github.io/games/posters/whack-a-mole.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/whack-a-mole.png",
+    "zipurl": "https://github.com/yinxinghuan/whack-a-mole/archive/refs/heads/master.zip"
   }
 ]
