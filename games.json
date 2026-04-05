@@ -1,5 +1,13 @@
 [
   {
+    "id": "agent-string",
+    "name": "Agent String",
+    "description": "语义空间实验 — 画圈聚类，画线串联，感受 AI 如何理解词语",
+    "url": "https://yinxinghuan.github.io/agent-string/",
+    "poster": "https://yinxinghuan.github.io/games/posters/agent-string.png",
+    "zipurl": "https://github.com/yinxinghuan/agent-string/archive/refs/heads/master.zip"
+  },
+  {
     "id": "ai-drama",
     "name": "AI Drama",
     "description": "AI 短剧导演 — 选角色、写分镜、一键生成你的短剧",
