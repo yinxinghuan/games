@@ -8,6 +8,14 @@
     "zipurl": "https://github.com/yinxinghuan/depthy/archive/refs/heads/master.zip"
   },
   {
+    "id": "agent-string-v2",
+    "name": "LEXICON",
+    "description": "语言有重力 — 在滚动的文字流中捕获词语，构建连锁评分机器",
+    "url": "https://yinxinghuan.github.io/agent-string-v2/",
+    "poster": "https://yinxinghuan.github.io/games/posters/agent-string-v2.png",
+    "zipurl": "https://github.com/yinxinghuan/agent-string-v2/archive/refs/heads/master.zip"
+  },
+  {
     "id": "agent-string",
     "name": "Agent String",
     "description": "语义空间实验 — 画圈聚类，画线串联，感受 AI 如何理解词语",
