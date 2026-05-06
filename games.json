@@ -2,7 +2,7 @@
   {
     "id": "marbles",
     "name": "Marbles",
-    "description": "重力沙盒 — 点哪儿掉一颗弹珠，倾斜手机改变重力",
+    "description": "重力沙盒 — 同色合并爆裂、连击奖励彩虹雨，倾斜改重力、摇晃即弹跳",
     "url": "https://yinxinghuan.github.io/marbles/",
     "poster": "https://yinxinghuan.github.io/games/posters/marbles.png",
     "zipurl": "https://github.com/yinxinghuan/marbles/archive/refs/heads/master.zip"
