@@ -1,5 +1,13 @@
 [
   {
+    "id": "marbles",
+    "name": "Marbles",
+    "description": "重力沙盒 — 点哪儿掉一颗弹珠，倾斜手机改变重力",
+    "url": "https://yinxinghuan.github.io/marbles/",
+    "poster": "https://yinxinghuan.github.io/games/posters/marbles.png",
+    "zipurl": "https://github.com/yinxinghuan/marbles/archive/refs/heads/master.zip"
+  },
+  {
     "id": "depthy",
     "name": "Depthy",
     "description": "谁偷了画？— 罗生门式悬疑问话，四个嫌疑人，五种结局",
