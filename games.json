@@ -1,5 +1,13 @@
 [
   {
+    "id": "wind-chime",
+    "name": "Wind Chime",
+    "description": "風鈴 — 月下庭院、轻拨铜管的五声音律，无目标、无计分",
+    "url": "https://yinxinghuan.github.io/wind-chime/",
+    "poster": "https://yinxinghuan.github.io/games/posters/wind-chime.png",
+    "zipurl": "https://github.com/yinxinghuan/wind-chime/archive/refs/heads/master.zip"
+  },
+  {
     "id": "marbles",
     "name": "Marbles",
     "description": "重力沙盒 — 同色合并爆裂、连击奖励彩虹雨，倾斜改重力、摇晃即弹跳",
