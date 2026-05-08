@@ -1,5 +1,13 @@
 [
   {
+    "id": "aurora",
+    "name": "Aurora",
+    "description": "极光 — 触摸夜空，柔光帘随手指流淌，三种夜色：极地翠绿、暮粉霞紫、午夜深蓝",
+    "url": "https://yinxinghuan.github.io/aurora/",
+    "poster": "https://yinxinghuan.github.io/games/posters/aurora.png",
+    "zipurl": "https://github.com/yinxinghuan/aurora/archive/refs/heads/master.zip"
+  },
+  {
     "id": "bubble-wrap",
     "name": "Bubble Wrap",
     "description": "气泡膜 — 戳爆每一颗都会回弹补充，三种主题：星云、蜂蜜、彩虹皂泡",
