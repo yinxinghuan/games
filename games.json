@@ -8,6 +8,14 @@
     "zipurl": "https://github.com/yinxinghuan/wind-chime/archive/refs/heads/master.zip"
   },
   {
+    "id": "bubble-wrap",
+    "name": "Bubble Wrap",
+    "description": "气泡膜 — 戳爆每一颗都会回弹补充，三种主题：星云、蜂蜜、彩虹皂泡",
+    "url": "https://yinxinghuan.github.io/bubble-wrap/",
+    "poster": "https://yinxinghuan.github.io/games/posters/bubble-wrap.png",
+    "zipurl": "https://github.com/yinxinghuan/bubble-wrap/archive/refs/heads/master.zip"
+  },
+  {
     "id": "marbles",
     "name": "Marbles",
     "description": "重力沙盒 — 同色合并爆裂、连击奖励彩虹雨，倾斜改重力、摇晃即弹跳",
