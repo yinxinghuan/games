@@ -1,19 +1,19 @@
 [
   {
-    "id": "wind-chime",
-    "name": "Wind Chime",
-    "description": "風鈴 — 月下庭院、轻拨铜管的五声音律，无目标、无计分",
-    "url": "https://yinxinghuan.github.io/wind-chime/",
-    "poster": "https://yinxinghuan.github.io/games/posters/wind-chime.png",
-    "zipurl": "https://github.com/yinxinghuan/wind-chime/archive/refs/heads/master.zip"
-  },
-  {
     "id": "bubble-wrap",
     "name": "Bubble Wrap",
     "description": "气泡膜 — 戳爆每一颗都会回弹补充，三种主题：星云、蜂蜜、彩虹皂泡",
     "url": "https://yinxinghuan.github.io/bubble-wrap/",
     "poster": "https://yinxinghuan.github.io/games/posters/bubble-wrap.png",
     "zipurl": "https://github.com/yinxinghuan/bubble-wrap/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "wind-chime",
+    "name": "Wind Chime",
+    "description": "風鈴 — 月下庭院、轻拨铜管的五声音律，无目标、无计分",
+    "url": "https://yinxinghuan.github.io/wind-chime/",
+    "poster": "https://yinxinghuan.github.io/games/posters/wind-chime.png",
+    "zipurl": "https://github.com/yinxinghuan/wind-chime/archive/refs/heads/master.zip"
   },
   {
     "id": "marbles",
