@@ -1,5 +1,13 @@
 [
   {
+    "id": "iron-filings",
+    "name": "Iron Filings",
+    "description": "Touch the field — 手指就是磁极，铁屑被吸成一坨。快点一下爆出连环冲击波，长按 0.5 秒钉一颗常驻磁铁，摆出经典磁感线雕塑",
+    "url": "https://yinxinghuan.github.io/iron-filings/",
+    "poster": "https://yinxinghuan.github.io/games/posters/iron-filings.png",
+    "zipurl": "https://github.com/yinxinghuan/iron-filings/archive/refs/heads/master.zip"
+  },
+  {
     "id": "atomic",
     "name": "Atomic",
     "description": "One tap, big bang — 屏幕上漂浮的原子，点一下引爆核心，链式反应能跑多远全看你选的点。爆链越久爆炸圈越大，雪球停不下来",
