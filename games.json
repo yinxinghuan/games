@@ -1,5 +1,13 @@
 [
   {
+    "id": "layer-pop",
+    "name": "Layer Pop",
+    "description": "Pop your fun — 1000 层霓虹圈嵌套，拖拽对齐缺口让小球穿透，连过 3 关进入 FEVER MODE，玻璃碎裂的爽片",
+    "url": "https://yinxinghuan.github.io/layer-pop/",
+    "poster": "https://yinxinghuan.github.io/games/posters/layer-pop.png",
+    "zipurl": "https://github.com/yinxinghuan/layer-pop/archive/refs/heads/master.zip"
+  },
+  {
     "id": "lava-lamp",
     "name": "Lava Lamp",
     "description": "熔岩灯 — 蜡块在油里慢慢漂浮，点击瓶身加热让蜡上升；三种主题：经典橙、Y2K 紫、生物荧光蓝",
