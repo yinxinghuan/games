@@ -1,5 +1,13 @@
 [
   {
+    "id": "lava-lamp",
+    "name": "Lava Lamp",
+    "description": "熔岩灯 — 蜡块在油里慢慢漂浮，点击瓶身加热让蜡上升；三种主题：经典橙、Y2K 紫、生物荧光蓝",
+    "url": "https://yinxinghuan.github.io/lava-lamp/",
+    "poster": "https://yinxinghuan.github.io/games/posters/lava-lamp.png",
+    "zipurl": "https://github.com/yinxinghuan/lava-lamp/archive/refs/heads/master.zip"
+  },
+  {
     "id": "aurora",
     "name": "Aurora",
     "description": "极光 — 触摸夜空，柔光帘随手指流淌，三种夜色：极地翠绿、暮粉霞紫、午夜深蓝",
