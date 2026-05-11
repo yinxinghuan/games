@@ -32,6 +32,14 @@
     "zipurl": "https://github.com/yinxinghuan/marbles/archive/refs/heads/master.zip"
   },
   {
+    "id": "snowglobe",
+    "name": "Snowglobe",
+    "description": "雪球 — 玻璃球内三种夜：冬夜松林、樱花夕暮、宇宙漂流；摇晃成雪、倾斜成风，时刻 · 月相 · 诗句在脚下流转",
+    "url": "https://yinxinghuan.github.io/snowglobe/",
+    "poster": "https://yinxinghuan.github.io/games/posters/snowglobe.png",
+    "zipurl": "https://github.com/yinxinghuan/snowglobe/archive/refs/heads/master.zip"
+  },
+  {
     "id": "depthy",
     "name": "Depthy",
     "description": "谁偷了画？— 罗生门式悬疑问话，四个嫌疑人，五种结局",
