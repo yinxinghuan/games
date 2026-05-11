@@ -1,5 +1,13 @@
 [
   {
+    "id": "atomic",
+    "name": "Atomic",
+    "description": "One tap, big bang — 屏幕上漂浮的原子，点一下引爆核心，链式反应能跑多远全看你选的点。爆链越久爆炸圈越大，雪球停不下来",
+    "url": "https://yinxinghuan.github.io/atomic/",
+    "poster": "https://yinxinghuan.github.io/games/posters/atomic.png",
+    "zipurl": "https://github.com/yinxinghuan/atomic/archive/refs/heads/master.zip"
+  },
+  {
     "id": "layer-pop",
     "name": "Layer Pop",
     "description": "Pop your fun — 1000 层霓虹圈嵌套，拖拽对齐缺口让小球穿透，连过 3 关进入 FEVER MODE，玻璃碎裂的爽片",
