@@ -1,5 +1,13 @@
 [
   {
+    "id": "stack",
+    "name": "Stack",
+    "description": "Time the tap — 候选块在塔顶滑动，点屏幕落下，没对齐的部分切掉飞落。完美对齐能让塔重新长粗、combo 累积爆奖。",
+    "url": "https://yinxinghuan.github.io/stack/",
+    "poster": "https://yinxinghuan.github.io/games/posters/stack.png",
+    "zipurl": "https://github.com/yinxinghuan/stack/archive/refs/heads/master.zip"
+  },
+  {
     "id": "iron-filings",
     "name": "Iron Filings",
     "description": "Touch the field — 手指就是磁极，铁屑被吸成一坨。快点一下爆出连环冲击波，长按 0.5 秒钉一颗常驻磁铁，摆出经典磁感线雕塑",
