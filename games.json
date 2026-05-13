@@ -80,6 +80,14 @@
     "zipurl": "https://github.com/yinxinghuan/snowglobe/archive/refs/heads/master.zip"
   },
   {
+    "id": "hourglass",
+    "name": "Hourglass",
+    "description": "沙漏 — 沙粒一颗颗从颈口漏下，上腔自漏斗、下腔堆成锥；空了自动翻转。三种调：撒哈拉暖金、紫水晶、深海生物荧光",
+    "url": "https://yinxinghuan.github.io/hourglass/",
+    "poster": "https://yinxinghuan.github.io/games/posters/hourglass.png",
+    "zipurl": "https://github.com/yinxinghuan/hourglass/archive/refs/heads/master.zip"
+  },
+  {
     "id": "depthy",
     "name": "Depthy",
     "description": "谁偷了画？— 罗生门式悬疑问话，四个嫌疑人，五种结局",
