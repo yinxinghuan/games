@@ -1,5 +1,13 @@
 [
   {
+    "id": "magnet-drop",
+    "name": "Magnet Drop",
+    "description": "Same color chains — 拖手指出一个磁铁,卷走同色粒子,串得越长爆得越响。换色?直接戳那颗就行,磁铁会自动重新调色",
+    "url": "https://yinxinghuan.github.io/magnet-drop/",
+    "poster": "https://yinxinghuan.github.io/games/posters/magnet-drop.png",
+    "zipurl": "https://github.com/yinxinghuan/magnet-drop/archive/refs/heads/master.zip"
+  },
+  {
     "id": "tiny-farm",
     "name": "Tiny Farm",
     "description": "Build · Tend · Watch — 8×8 体素小岛自由摆放 12 种工具，牛羊鸡自走，5 分钟一天的昼夜更替，云影/烟囱/风吹草动",
