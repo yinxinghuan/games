@@ -8,14 +8,6 @@
     "zipurl": "https://github.com/yinxinghuan/tiny-farm/archive/refs/heads/main.zip"
   },
   {
-    "id": "spin-lock",
-    "name": "Spin Lock",
-    "description": "Align the marks — 同心齿轮,拖一圈转一圈,所有标记一起对齐顶部对位线就 BURST,锁会越加越多圈,圈数每加一档难度也跟着升",
-    "url": "https://yinxinghuan.github.io/spin-lock/",
-    "poster": "https://yinxinghuan.github.io/games/posters/spin-lock.png",
-    "zipurl": "https://github.com/yinxinghuan/spin-lock/archive/refs/heads/master.zip"
-  },
-  {
     "id": "stack",
     "name": "Stack",
     "description": "Time the tap — 候选块在塔顶滑动，点屏幕落下，没对齐的部分切掉飞落。完美对齐能让塔重新长粗、combo 累积爆奖。",
