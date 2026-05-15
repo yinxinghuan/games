@@ -1,5 +1,13 @@
 [
   {
+    "id": "rhythm-machine",
+    "name": "Rhythm Machine",
+    "description": "Tap the grid, make a beat — 8 instruments × adjustable 4–32 steps, 7 genre presets that auto-fit, and an AI prompt to spit out a starting groove",
+    "url": "https://yinxinghuan.github.io/rhythm-machine/",
+    "poster": "https://yinxinghuan.github.io/games/posters/rhythm-machine.png",
+    "zipurl": "https://github.com/yinxinghuan/rhythm-machine/archive/refs/heads/master.zip"
+  },
+  {
     "id": "magnet-drop",
     "name": "Magnet Drop",
     "description": "Same color chains — 拖手指出一个磁铁,卷走同色粒子,串得越长爆得越响。换色?直接戳那颗就行,磁铁会自动重新调色",
