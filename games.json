@@ -1,5 +1,13 @@
 [
   {
+    "id": "sand-mandala",
+    "name": "Sand Mandala",
+    "description": "Draw a kaleidoscopic sand mandala with 4/6/8/12-fold symmetry. Frame your work or long-press the center to dissolve it — the dissolution becomes the seed of the next one.",
+    "url": "https://yinxinghuan.github.io/sand-mandala/",
+    "poster": "https://yinxinghuan.github.io/games/posters/sand-mandala.png",
+    "zipurl": "https://github.com/yinxinghuan/sand-mandala/archive/refs/heads/master.zip"
+  },
+  {
     "id": "meow-machine",
     "name": "Meow Machine",
     "description": "Tap. Cats sing. — 8 cats × 8 steps, three moods (NAP / PARTY / ZOOMIES), one shuffle button, zero training required",
