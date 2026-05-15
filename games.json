@@ -1,5 +1,13 @@
 [
   {
+    "id": "meow-machine",
+    "name": "Meow Machine",
+    "description": "Tap. Cats sing. — 8 cats × 8 steps, three moods (NAP / PARTY / ZOOMIES), one shuffle button, zero training required",
+    "url": "https://yinxinghuan.github.io/meow-machine/",
+    "poster": "https://yinxinghuan.github.io/games/posters/meow-machine.png",
+    "zipurl": "https://github.com/yinxinghuan/meow-machine/archive/refs/heads/master.zip"
+  },
+  {
     "id": "rhythm-machine",
     "name": "Rhythm Machine",
     "description": "Tap the grid, make a beat — 8 instruments × adjustable 4–32 steps, 7 genre presets that auto-fit, and an AI prompt to spit out a starting groove",
