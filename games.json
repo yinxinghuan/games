@@ -1,5 +1,13 @@
 [
   {
+    "id": "mykonos-island",
+    "name": "Alter Isle",
+    "description": "A sandbox for your alter self — 等距方块小岛建造，教堂、风车、橄榄树和小巷自由摆，无目标无计分，AlterU 调色板下的禅意创意玩具",
+    "url": "https://yinxinghuan.github.io/mykonos-island/",
+    "poster": "https://yinxinghuan.github.io/games/posters/mykonos-island.png",
+    "zipurl": "https://github.com/yinxinghuan/mykonos-island/archive/refs/heads/main.zip"
+  },
+  {
     "id": "penguin-rescue",
     "name": "Penguin Rescue",
     "description": "Save the babies. Dodge the skua. — 摇杆拖动母企鹅穿过浮冰，把走失小企鹅一只只接成长龙；天上的南极贼鸥会朝你俯冲，碰一下就 game over",
