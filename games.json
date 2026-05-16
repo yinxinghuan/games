@@ -1,5 +1,13 @@
 [
   {
+    "id": "alter-isle-mini",
+    "name": "Alter Isle Mini",
+    "description": "Tap to build — Alter Isle 的手机精简版，35 个素材底部 dock，长按擦除，双指缩放，自动保存。一指 = 全部",
+    "url": "https://yinxinghuan.github.io/alter-isle-mini/",
+    "poster": "https://yinxinghuan.github.io/games/posters/alter-isle-mini.png",
+    "zipurl": "https://github.com/yinxinghuan/alter-isle-mini/archive/refs/heads/main.zip"
+  },
+  {
     "id": "mykonos-island",
     "name": "Alter Isle",
     "description": "A sandbox for your alter self — 等距方块小岛建造，教堂、风车、橄榄树和小巷自由摆，无目标无计分，AlterU 调色板下的禅意创意玩具",
