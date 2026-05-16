@@ -1,5 +1,13 @@
 [
   {
+    "id": "piper-sheepdog",
+    "name": "Pied Piper",
+    "description": "Whistle up the chain — 牧羊犬把同色羊带进对的圈门，狼会撞散队伍，按 BARK 把狼吓晕。双门同时分拣，连对涨倍率，关卡和狼随之加多",
+    "url": "https://yinxinghuan.github.io/piper-sheepdog/",
+    "poster": "https://yinxinghuan.github.io/games/posters/piper-sheepdog.png",
+    "zipurl": "https://github.com/yinxinghuan/piper-sheepdog/archive/refs/heads/master.zip"
+  },
+  {
     "id": "alter-isle-mini",
     "name": "Alter Isle Mini",
     "description": "Tap to build — Alter Isle 的手机精简版，35 个素材底部 dock，长按擦除，双指缩放，自动保存。一指 = 全部",
