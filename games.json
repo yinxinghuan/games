@@ -1,5 +1,13 @@
 [
   {
+    "id": "penguin-rescue",
+    "name": "Penguin Rescue",
+    "description": "Save the babies. Dodge the skua. — 摇杆拖动母企鹅穿过浮冰，把走失小企鹅一只只接成长龙；天上的南极贼鸥会朝你俯冲，碰一下就 game over",
+    "url": "https://yinxinghuan.github.io/penguin-rescue/",
+    "poster": "https://yinxinghuan.github.io/games/posters/penguin-rescue.png",
+    "zipurl": "https://github.com/yinxinghuan/penguin-rescue/archive/refs/heads/master.zip"
+  },
+  {
     "id": "slap-cam",
     "name": "Slap Cam",
     "description": "Swipe to slap — 划过角色脸抽飞 6 个 AlterU 头颅，X 眼连击，30 秒卡通乱斗配马戏团 oompa BGM",
