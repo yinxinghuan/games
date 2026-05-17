@@ -1,5 +1,13 @@
 [
   {
+    "id": "beat-drop",
+    "name": "Beat Drop",
+    "description": "Pull the crowd — DJ silhouette + flashlight in a dark club. Lead same-color dancers to the matching stage door, dodge bouncers, MIC DROP to stun them. Dual-gate sort, combo multiplier, sweeping techno lights, 128 BPM 4-on-the-floor BGM",
+    "url": "https://yinxinghuan.github.io/beat-drop/",
+    "poster": "https://yinxinghuan.github.io/games/posters/beat-drop.png",
+    "zipurl": "https://github.com/yinxinghuan/beat-drop/archive/refs/heads/master.zip"
+  },
+  {
     "id": "piper-sheepdog",
     "name": "Pied Piper",
     "description": "Whistle up the chain — 牧羊犬把同色羊带进对的圈门，狼会撞散队伍，按 BARK 把狼吓晕。双门同时分拣，连对涨倍率，关卡和狼随之加多",
