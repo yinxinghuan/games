@@ -1,5 +1,13 @@
 [
   {
+    "id": "penguin-sumo",
+    "name": "Penguin Sumo",
+    "description": "1v3 ice-rink push battle — hold the stick to charge, release to body-slam. Knock all 3 rival sumo penguins off the dohyō, or survive the 60-second bout. Three AI personalities (rookie / bruiser / sniper) keep every match different",
+    "url": "https://yinxinghuan.github.io/penguin-sumo/",
+    "poster": "https://yinxinghuan.github.io/games/posters/penguin-sumo.png",
+    "zipurl": "https://github.com/yinxinghuan/penguin-sumo/archive/refs/heads/master.zip"
+  },
+  {
     "id": "beat-drop",
     "name": "Beat Drop",
     "description": "Pull the crowd — DJ silhouette + flashlight in a dark club. Lead same-color dancers to the matching stage door, dodge bouncers, MIC DROP to stun them. Dual-gate sort, combo multiplier, sweeping techno lights, 128 BPM 4-on-the-floor BGM",
