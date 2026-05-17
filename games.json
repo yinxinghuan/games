@@ -1,5 +1,13 @@
 [
   {
+    "id": "murmuration",
+    "name": "Murmuration",
+    "description": "Drag to gather the flock — your finger is the attractor, a swarm of birds / fireflies / dandelion seeds chases it, swirls into shape, then disperses when you let go. Three scenes: starlings at dusk, fireflies in the forest, dandelion seeds in the spring meadow.",
+    "url": "https://yinxinghuan.github.io/murmuration/",
+    "poster": "https://yinxinghuan.github.io/games/posters/murmuration.png",
+    "zipurl": "https://github.com/yinxinghuan/murmuration/archive/refs/heads/master.zip"
+  },
+  {
     "id": "lantern",
     "name": "Lantern",
     "description": "Explore a dark cave by lantern light. Pick up 4 crystal types — red grows your halo, green is a 5s flood, blue is a wall, gold scores. Monsters lurk just past the light; linger in the dark and a dark-hand swipe ends the run.",
