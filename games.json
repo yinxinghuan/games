@@ -1,5 +1,13 @@
 [
   {
+    "id": "frosted-window",
+    "name": "Frosted Window",
+    "description": "Drag to wipe the steam — finger-paint hearts and swirls through fog, watch them slowly mist over. Three scenes through the glass: warm vanity mirror, rainy neon city, winter cabin at dawn. Live drips, ambient pads, your lifetime wipe count.",
+    "url": "https://yinxinghuan.github.io/frosted-window/",
+    "poster": "https://yinxinghuan.github.io/games/posters/frosted-window.png",
+    "zipurl": "https://github.com/yinxinghuan/frosted-window/archive/refs/heads/master.zip"
+  },
+  {
     "id": "penguin-sumo",
     "name": "Penguin Sumo",
     "description": "1v3 ice-rink push battle — hold the stick to charge, release to body-slam. Knock all 3 rival sumo penguins off the dohyō, or survive the 60-second bout. Three AI personalities (rookie / bruiser / sniper) keep every match different",
