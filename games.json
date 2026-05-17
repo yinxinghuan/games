@@ -1,5 +1,13 @@
 [
   {
+    "id": "lantern",
+    "name": "Lantern",
+    "description": "Explore a dark cave by lantern light. Pick up 4 crystal types — red grows your halo, green is a 5s flood, blue is a wall, gold scores. Monsters lurk just past the light; linger in the dark and a dark-hand swipe ends the run.",
+    "url": "https://yinxinghuan.github.io/lantern/",
+    "poster": "https://yinxinghuan.github.io/games/posters/lantern.png",
+    "zipurl": "https://github.com/yinxinghuan/lantern/archive/refs/heads/master.zip"
+  },
+  {
     "id": "frosted-window",
     "name": "Frosted Window",
     "description": "Drag to wipe the steam — fast swipe = thin line, slow drag = wide brush, hold still to fatten. Six scenes through the glass: vanity mirror, rainy neon city, winter cabin, aquarium, sunset palms, cherry blossom. Live drips + ambient pads + your lifetime wipe count.",
