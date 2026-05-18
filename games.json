@@ -2,7 +2,7 @@
   {
     "id": "endless-slice",
     "name": "Endless Slice",
-    "description": "Mindless tap-chop. A food sits on the cutting board for a few seconds — tap anywhere on it to drop a knife. Each tap is a clean slice. Rapid taps build a ×1 → ×10 combo so points snowball; an idle hand resets the multiplier. After ten foods (baguette / cucumber / sausage / sushi / cake / croissant), each window shorter than the last, you cash in the total. No fail, no timing — just chop.",
+    "description": "Swipe to slice. Tomatoes, bananas, cucumbers, watermelons, oranges and sushi rolls arc up from the bottom — drag your finger through them to cut them in half with juice particles flying. Slice multiple in one continuous swipe for a combo (×1, ×2, ×3...). Watch out for bombs and don't drop more than three foods. Endless score; the spawn rate ramps until you can't keep up.",
     "url": "https://yinxinghuan.github.io/endless-slice/",
     "poster": "https://yinxinghuan.github.io/games/posters/endless-slice.png",
     "zipurl": "https://github.com/yinxinghuan/endless-slice/archive/refs/heads/master.zip"
