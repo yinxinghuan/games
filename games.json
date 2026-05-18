@@ -2,7 +2,7 @@
   {
     "id": "endless-slice",
     "name": "Endless Slice",
-    "description": "Rhythm-tap slicer. A bright scan line sweeps across food on a cutting board — tap when it crosses the dashed marks. PERFECT lines up with the target, GOOD is close, OK is loose. Chain perfects for a combo multiplier. Six foods rotate (baguette / cucumber / sausage / sushi / cake / croissant) and the scan accelerates with every clean board. Miss more than 40% of a food and it's game over.",
+    "description": "Mindless tap-chop. A food sits on the cutting board for a few seconds — tap anywhere on it to drop a knife. Each tap is a clean slice. Rapid taps build a ×1 → ×10 combo so points snowball; an idle hand resets the multiplier. After ten foods (baguette / cucumber / sausage / sushi / cake / croissant), each window shorter than the last, you cash in the total. No fail, no timing — just chop.",
     "url": "https://yinxinghuan.github.io/endless-slice/",
     "poster": "https://yinxinghuan.github.io/games/posters/endless-slice.png",
     "zipurl": "https://github.com/yinxinghuan/endless-slice/archive/refs/heads/master.zip"
