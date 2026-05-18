@@ -1,8 +1,8 @@
 [
   {
     "id": "endless-slice",
-    "name": "Endless Slice",
-    "description": "Swipe to slice. Tomatoes, bananas, cucumbers, watermelons, oranges and sushi rolls arc up from the bottom — drag your finger through them to cut them in half with juice particles flying. Slice multiple in one continuous swipe for a combo (×1, ×2, ×3...). Watch out for bombs and don't drop more than three foods. Endless score; the spawn rate ramps until you can't keep up.",
+    "name": "Brain Rot",
+    "description": "Swipe through the Italian AI brain rot creatures arcing up from below — Tralalero Tralala (the 3-legged Nike shark), Tung Tung Sahur (log with a bat), Lirili Larila (elephant-cactus), Brrr Brrr Patapim (tree-monkey). Drag through them in one continuous swipe to chain combos (×2, ×3, MULTI, MASSIVE). Cappuccino Assassino is golden bonus. Bombardiro Crocodilo is the bomb — slash it and it's game over.",
     "url": "https://yinxinghuan.github.io/endless-slice/",
     "poster": "https://yinxinghuan.github.io/games/posters/endless-slice.png",
     "zipurl": "https://github.com/yinxinghuan/endless-slice/archive/refs/heads/master.zip"
