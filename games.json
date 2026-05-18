@@ -1,5 +1,13 @@
 [
   {
+    "id": "liquid-drop",
+    "name": "Liquid Drop",
+    "description": "Tap to bloom — drops of color bloom across the canvas, overlap, and slowly fade. Three liquids through the glass: oil beads with glossy highlights on a midnight pool, cream blooming into coffee, vivid acrylic paint mixing on black. Each tap rings a new pentatonic note.",
+    "url": "https://yinxinghuan.github.io/liquid-drop/",
+    "poster": "https://yinxinghuan.github.io/games/posters/liquid-drop.png",
+    "zipurl": "https://github.com/yinxinghuan/liquid-drop/archive/refs/heads/master.zip"
+  },
+  {
     "id": "murmuration",
     "name": "Murmuration",
     "description": "Drag to gather the flock — your finger is the attractor, a swarm of birds / fireflies / dandelion seeds chases it, swirls into shape, then disperses when you let go. Three scenes: starlings at dusk, fireflies in the forest, dandelion seeds in the spring meadow.",
