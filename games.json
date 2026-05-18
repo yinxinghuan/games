@@ -26,7 +26,7 @@
   {
     "id": "sumo-king",
     "name": "Sumo King",
-    "description": "Top-down penguin sumo. 1v3 in a 60-second round on a circular ice ring. Hold the joystick to charge a dash, release to ram opponents off the platform. Three AI styles — rookie pokes, bruiser charges nearest, sniper picks edges. Survive to win; KOs each pay +50.",
+    "description": "Mecha sumo over a lava pit. 1v3 in a 60-second bout on a steel deck with cyan + magenta neon rims. Hold the joystick to charge plasma, release to ram opponents into the lava. Three AI archetypes (rookie / bruiser / sniper) and a hot/cool palette set this apart from the penguin-rink edition.",
     "url": "https://yinxinghuan.github.io/sumo-king/",
     "poster": "https://yinxinghuan.github.io/games/posters/sumo-king.png",
     "zipurl": "https://github.com/yinxinghuan/sumo-king/archive/refs/heads/master.zip"
