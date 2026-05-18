@@ -1,5 +1,13 @@
 [
   {
+    "id": "endless-slice",
+    "name": "Endless Slice",
+    "description": "Rhythm-tap slicer. A bright scan line sweeps across food on a cutting board — tap when it crosses the dashed marks. PERFECT lines up with the target, GOOD is close, OK is loose. Chain perfects for a combo multiplier. Six foods rotate (baguette / cucumber / sausage / sushi / cake / croissant) and the scan accelerates with every clean board. Miss more than 40% of a food and it's game over.",
+    "url": "https://yinxinghuan.github.io/endless-slice/",
+    "poster": "https://yinxinghuan.github.io/games/posters/endless-slice.png",
+    "zipurl": "https://github.com/yinxinghuan/endless-slice/archive/refs/heads/master.zip"
+  },
+  {
     "id": "tidal-survive",
     "name": "Tidal Survive",
     "description": "Stack tiles, dodge sharks, outrun the rising tide. The water level rises every 5 seconds on an 8×8 sand grid — pick up planks (+1), boulders (+2, slow carry) or paddles (+5s buffer) and stack them under your feet. Stay too long in the water and the circling sharks will lunge. Endless mode + Aigram leaderboard.",
