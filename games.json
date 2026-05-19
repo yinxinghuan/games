@@ -2,7 +2,7 @@
   {
     "id": "crack-tap",
     "name": "Crack Tap",
-    "description": "Charge. Release. Shatter. — Press and hold to charge a strike, let go and a glowing fracture network races across the orb. Drive enough damage and it bursts into flying shards. Chain shatters for a combo multiplier, hit ×4 to enter Fever. Three materials: amethyst crystal, terracotta ceramic, molten geode.",
+    "description": "Press & hold and watch it break. Holding fills an integrity ring around a crystal / ceramic / molten-geode orb while a glowing fracture network spiders out across its surface in real time — fill the ring and it bursts into Voronoi shards. Chain shatters for a combo multiplier, hit ×4 for Fever. Release early and the cracks stay; no fail, infinite.",
     "url": "https://yinxinghuan.github.io/crack-tap/",
     "poster": "https://yinxinghuan.github.io/games/posters/crack-tap.png",
     "zipurl": "https://github.com/yinxinghuan/crack-tap/archive/refs/heads/master.zip"
