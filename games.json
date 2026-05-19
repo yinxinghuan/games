@@ -1,5 +1,13 @@
 [
   {
+    "id": "crack-tap",
+    "name": "Crack Tap",
+    "description": "Charge. Release. Shatter. — Press and hold to charge a strike, let go and a glowing fracture network races across the orb. Drive enough damage and it bursts into flying shards. Chain shatters for a combo multiplier, hit ×4 to enter Fever. Three materials: amethyst crystal, terracotta ceramic, molten geode.",
+    "url": "https://yinxinghuan.github.io/crack-tap/",
+    "poster": "https://yinxinghuan.github.io/games/posters/crack-tap.png",
+    "zipurl": "https://github.com/yinxinghuan/crack-tap/archive/refs/heads/master.zip"
+  },
+  {
     "id": "endless-slice",
     "name": "Farm to Table",
     "description": "Swipe to slice through the farm — cartoon pig, cow, chicken, sheep and duck heads arc up from below; drag your finger through them in one continuous motion and they split in half, revealing a thick pink ham cross-section with bone in the middle. Chain hits in one swipe for combo multipliers (×2, ×3, MULTI, MASSIVE). Wagyu A5 cubes are golden bonus +100. The red 'no-cleaver' sign is the bomb — slash it and the run ends.",
