@@ -1,5 +1,13 @@
 [
   {
+    "id": "swipe-storm",
+    "name": "Swipe Storm",
+    "description": "A dating-app parody. Profile cards stack in the middle — swipe right on green flags (rare gems with 9-5 jobs and emotional regulation), swipe left on the red flags (looking for someone to fund their startup, living with mom for 5 years, MLM recruiters, freshly-broken-up). Catfishes wear lipstick on a pig — swipe right on one and the run ends. Soulmate ✨ profiles are golden +100. 3 hearts. Procedurally drawn avatars, no two alike. Sister-game to Farm to Table — AlterU After Dark.",
+    "url": "https://yinxinghuan.github.io/swipe-storm/",
+    "poster": "https://yinxinghuan.github.io/games/posters/swipe-storm.png",
+    "zipurl": "https://github.com/yinxinghuan/swipe-storm/archive/refs/heads/master.zip"
+  },
+  {
     "id": "crack-tap",
     "name": "Crack Tap",
     "description": "Press & hold and watch it break. Holding fills an integrity ring around a crystal / ceramic / molten-geode orb while a glowing fracture network spiders out across its surface in real time — fill the ring and it bursts into Voronoi shards. Chain shatters for a combo multiplier, hit ×4 for Fever. Release early and the cracks stay; no fail, infinite.",
