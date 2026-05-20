@@ -36,7 +36,7 @@
     "name": "Tidal Survive",
     "description": "Stack tiles, dodge sharks, outrun the rising tide. The water level rises every 5 seconds on an 8×8 sand grid — pick up planks (+1), boulders (+2, slow carry) or paddles (+5s buffer) and stack them under your feet. Stay too long in the water and the circling sharks will lunge. Endless mode + Aigram leaderboard.",
     "url": "https://yinxinghuan.github.io/tidal-survive/",
-    "poster": "https://yinxinghuan.github.io/games/posters/tidal-survive.jpg",
+    "poster": "https://yinxinghuan.github.io/games/posters/tidal-survive.png",
     "zipurl": "https://github.com/yinxinghuan/tidal-survive/archive/refs/heads/master.zip"
   },
   {
