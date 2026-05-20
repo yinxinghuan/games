@@ -1,19 +1,19 @@
 [
   {
+    "id": "botfish",
+    "name": "Botfish",
+    "description": "约会软件 parody，但你要找出 AI 生成的假照片。每张资料卡片都是 AI 生成的人像 — 大部分看着像真人，但部分藏着明显破绽：6 根手指、塑料皮肤、阴影方向不对、卡通小鬼从胳膊里冒出来、电线杆穿过身体。右滑（LIKE）真人 → +10 配对；左滑（NOPE）识破 AI → +20 抓 bot。但一旦右滑到 AI 照片 → 立即游戏结束，被骗了。Hinge 风酒粉香菜配色 + 黄色 ♥ 按钮。AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/botfish/",
+    "poster": "https://yinxinghuan.github.io/games/posters/botfish.png",
+    "zipurl": "https://github.com/yinxinghuan/botfish/archive/refs/heads/master.zip"
+  },
+  {
     "id": "corner-office",
     "name": "Corner Office",
     "description": "Doodle Jump 职场升迁噩梦。拖动一只匿名西装男往上爬办公塔——办公桌、转椅、立会圆毯、康普茶弹簧塔。捡拿铁加速、股票背心（挡一次崩溃）、Adderall（火箭跳）；躲红色「崩溃」气泡（掉 3 层）。爬到顶层 100 = EXECUTIVE LIFETIME ACHIEVEMENT，棺材打开。屏幕越往上越红，电梯背景音乐穿插着 3-5 秒沉默。AlterU After Dark 系列。",
     "url": "https://yinxinghuan.github.io/corner-office/",
     "poster": "https://yinxinghuan.github.io/games/posters/corner-office.png",
     "zipurl": "https://github.com/yinxinghuan/corner-office/archive/refs/heads/master.zip"
-  },
-  {
-    "id": "swipe-storm",
-    "name": "Swipe Storm",
-    "description": "A dating-app parody. Profile cards stack in the middle — swipe right on green flags (rare gems with 9-5 jobs and emotional regulation), swipe left on the red flags (looking for someone to fund their startup, living with mom for 5 years, MLM recruiters, freshly-broken-up). Catfishes wear lipstick on a pig — swipe right on one and the run ends. Soulmate ✨ profiles are golden +100. 3 hearts. Procedurally drawn avatars, no two alike. Sister-game to Farm to Table — AlterU After Dark.",
-    "url": "https://yinxinghuan.github.io/swipe-storm/",
-    "poster": "https://yinxinghuan.github.io/games/posters/swipe-storm.png",
-    "zipurl": "https://github.com/yinxinghuan/swipe-storm/archive/refs/heads/master.zip"
   },
   {
     "id": "crack-tap",
