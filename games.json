@@ -1,6 +1,7 @@
 [
   {
     "id": "botfish",
+    "uuid": "1243f25d-9955-4068-9587-652d5f707eae",
     "name": "Botfish",
     "description": "约会软件 parody，但你要找出 AI 生成的假照片。每张资料卡片都是 AI 生成的人像 — 大部分看着像真人，但部分藏着明显破绽：6 根手指、塑料皮肤、阴影方向不对、卡通小鬼从胳膊里冒出来、电线杆穿过身体。右滑（LIKE）真人 → +10 配对；左滑（NOPE）识破 AI → +20 抓 bot。但一旦右滑到 AI 照片 → 立即游戏结束，被骗了。Hinge 风酒粉香菜配色 + 黄色 ♥ 按钮。AlterU After Dark 系列。",
     "url": "https://yinxinghuan.github.io/botfish/",
@@ -9,6 +10,7 @@
   },
   {
     "id": "corner-office",
+    "uuid": "910f692c-e6f8-4684-9bb5-21df37def71c",
     "name": "Corner Office",
     "description": "Doodle Jump 职场升迁噩梦。拖动一只匿名西装男往上爬办公塔——办公桌、转椅、立会圆毯、康普茶弹簧塔。捡拿铁加速、股票背心（挡一次崩溃）、Adderall（火箭跳）；躲红色「崩溃」气泡（掉 3 层）。爬到顶层 100 = EXECUTIVE LIFETIME ACHIEVEMENT，棺材打开。屏幕越往上越红，电梯背景音乐穿插着 3-5 秒沉默。AlterU After Dark 系列。",
     "url": "https://yinxinghuan.github.io/corner-office/",
@@ -17,6 +19,7 @@
   },
   {
     "id": "crack-tap",
+    "uuid": "10b8a17b-313c-4f2e-a78e-6d68c6037253",
     "name": "Crack Tap",
     "description": "A risk-and-reward fortune crystal ball. Press & hold and a fracture network spiders across the orb — the deeper you dare (Whisper → Vision → Revelation → the Brink), the rarer the omen you can draw. Release to lock the reading: a fortune from Tarot, Oracle Bone or Rune lore, the crack pattern itself the sign. Push past the brink and it shatters into a Shattered Vision — blazing glory or dust. Realistic crystal, Voronoi break, singing-bowl reveal.",
     "url": "https://yinxinghuan.github.io/crack-tap/",
@@ -25,6 +28,7 @@
   },
   {
     "id": "endless-slice",
+    "uuid": "2296d825-fc9c-441a-a761-a9e055218c93",
     "name": "Farm to Table",
     "description": "Swipe to slice through the farm — cartoon pig, cow, chicken, sheep and duck heads arc up from below; drag your finger through them in one continuous motion and they split in half, revealing a thick pink ham cross-section with bone in the middle. Chain hits in one swipe for combo multipliers (×2, ×3, MULTI, MASSIVE). Wagyu A5 cubes are golden bonus +100. The red 'no-cleaver' sign is the bomb — slash it and the run ends.",
     "url": "https://yinxinghuan.github.io/endless-slice/",
@@ -33,6 +37,7 @@
   },
   {
     "id": "tidal-survive",
+    "uuid": "25016dfc-3362-4105-a61e-45169e03584a",
     "name": "Tidal Survive",
     "description": "Stack tiles, dodge sharks, outrun the rising tide. The water level rises every 5 seconds on an 8×8 sand grid — pick up planks (+1), boulders (+2, slow carry) or paddles (+5s buffer) and stack them under your feet. Stay too long in the water and the circling sharks will lunge. Endless mode + Aigram leaderboard.",
     "url": "https://yinxinghuan.github.io/tidal-survive/",
@@ -41,6 +46,7 @@
   },
   {
     "id": "liquid-drop",
+    "uuid": "e1a50130-a97a-400c-a4c9-458bb2c26223",
     "name": "Liquid Drop",
     "description": "Tap to bloom — drops of color bloom across the canvas, overlap, and slowly fade. Three liquids through the glass: oil beads with glossy highlights on a midnight pool, cream blooming into coffee, vivid acrylic paint mixing on black. Each tap rings a new pentatonic note.",
     "url": "https://yinxinghuan.github.io/liquid-drop/",
@@ -49,6 +55,7 @@
   },
   {
     "id": "murmuration",
+    "uuid": "80a9c76c-12d0-46cd-be04-b3368cb05319",
     "name": "Murmuration",
     "description": "Drag to gather the flock — your finger is the attractor, a swarm of birds / fireflies / dandelion seeds chases it, swirls into shape, then disperses when you let go. Three scenes: starlings at dusk, fireflies in the forest, dandelion seeds in the spring meadow.",
     "url": "https://yinxinghuan.github.io/murmuration/",
@@ -57,6 +64,7 @@
   },
   {
     "id": "sumo-king",
+    "uuid": "111ac5e8-9093-47d0-a532-fedb76a6c42b",
     "name": "Sumo King",
     "description": "Mecha sumo over a lava pit. 1v3 in a 60-second bout on a steel deck with cyan + magenta neon rims. Hold the joystick to charge plasma, release to ram opponents into the lava. Three AI archetypes (rookie / bruiser / sniper) and a hot/cool palette set this apart from the penguin-rink edition.",
     "url": "https://yinxinghuan.github.io/sumo-king/",
@@ -65,6 +73,7 @@
   },
   {
     "id": "lantern",
+    "uuid": "f70734b6-75ed-451f-bca6-45d6a89fc1b3",
     "name": "Lantern",
     "description": "Explore a dark cave by lantern light. Pick up 4 crystal types — red grows your halo, green is a 5s flood, blue is a wall, gold scores. Monsters lurk just past the light; linger in the dark and a dark-hand swipe ends the run.",
     "url": "https://yinxinghuan.github.io/lantern/",
@@ -73,6 +82,7 @@
   },
   {
     "id": "frosted-window",
+    "uuid": "1f9d3ce7-4ded-4ab1-8556-58310a8e5b29",
     "name": "Frosted Window",
     "description": "Drag to wipe the steam — fast swipe = thin line, slow drag = wide brush, hold still to fatten. Six scenes through the glass: vanity mirror, rainy neon city, winter cabin, aquarium, sunset palms, cherry blossom. Live drips + ambient pads + your lifetime wipe count.",
     "url": "https://yinxinghuan.github.io/frosted-window/",
@@ -81,6 +91,7 @@
   },
   {
     "id": "penguin-sumo",
+    "uuid": "7a3feacb-736b-472e-95ca-34de679b0ad0",
     "name": "Penguin Sumo",
     "description": "1v3 ice-rink push battle — hold the stick to charge, release to body-slam. Knock all 3 rival sumo penguins off the dohyō, or survive the 60-second bout. Three AI personalities (rookie / bruiser / sniper) keep every match different",
     "url": "https://yinxinghuan.github.io/penguin-sumo/",
@@ -89,6 +100,7 @@
   },
   {
     "id": "beat-drop",
+    "uuid": "48962b1d-20d1-4121-8fab-2b807554fd13",
     "name": "Beat Drop",
     "description": "Pull the crowd — DJ silhouette + flashlight in a dark club. Lead same-color dancers to the matching stage door, dodge bouncers, MIC DROP to stun them. Dual-gate sort, combo multiplier, sweeping techno lights, 128 BPM 4-on-the-floor BGM",
     "url": "https://yinxinghuan.github.io/beat-drop/",
@@ -97,6 +109,7 @@
   },
   {
     "id": "piper-sheepdog",
+    "uuid": "c0fe2319-1af6-41a9-afb0-fd04078b4a12",
     "name": "Pied Piper",
     "description": "Whistle up the chain — 牧羊犬把同色羊带进对的圈门，狼会撞散队伍，按 BARK 把狼吓晕。双门同时分拣，连对涨倍率，关卡和狼随之加多",
     "url": "https://yinxinghuan.github.io/piper-sheepdog/",
@@ -105,6 +118,7 @@
   },
   {
     "id": "alter-isle-mini",
+    "uuid": "5df90f00-de82-4149-a8f5-cb8a1b4167cb",
     "name": "Alter Isle Mini",
     "description": "Tap to build — Alter Isle 的手机精简版，35 个素材底部 dock，长按擦除，双指缩放，自动保存。一指 = 全部",
     "url": "https://yinxinghuan.github.io/alter-isle-mini/",
@@ -113,6 +127,7 @@
   },
   {
     "id": "mykonos-island",
+    "uuid": "0fd75c90-0c86-4c65-8b17-84aaa0dfa2a4",
     "name": "Alter Isle",
     "description": "A sandbox for your alter self — 等距方块小岛建造，教堂、风车、橄榄树和小巷自由摆，无目标无计分，AlterU 调色板下的禅意创意玩具",
     "url": "https://yinxinghuan.github.io/mykonos-island/",
@@ -121,6 +136,7 @@
   },
   {
     "id": "penguin-rescue",
+    "uuid": "e9ff7785-d890-4a24-a575-7b781e67b99a",
     "name": "Penguin Rescue",
     "description": "Save the babies. Dodge the skua. — 摇杆拖动母企鹅穿过浮冰，把走失小企鹅一只只接成长龙；天上的南极贼鸥会朝你俯冲，碰一下就 game over",
     "url": "https://yinxinghuan.github.io/penguin-rescue/",
@@ -129,6 +145,7 @@
   },
   {
     "id": "slap-cam",
+    "uuid": "bf777cd4-3afe-48ad-8d98-7df28610a14b",
     "name": "Slap Cam",
     "description": "Swipe to slap — 划过角色脸抽飞 6 个 AlterU 头颅，X 眼连击，30 秒卡通乱斗配马戏团 oompa BGM",
     "url": "https://yinxinghuan.github.io/slap-cam/",
@@ -137,6 +154,7 @@
   },
   {
     "id": "sand-mandala",
+    "uuid": "4fad1cd0-4f60-4ba5-a14c-4853dd556cdc",
     "name": "Sand Mandala",
     "description": "Draw a kaleidoscopic sand mandala with 4/6/8/12-fold symmetry. Frame your work or long-press the center to dissolve it — the dissolution becomes the seed of the next one.",
     "url": "https://yinxinghuan.github.io/sand-mandala/",
@@ -145,6 +163,7 @@
   },
   {
     "id": "meow-machine",
+    "uuid": "7824cec6-9510-44be-809f-e2253504a561",
     "name": "Meow Machine",
     "description": "Tap. Cats sing. — 8 cats × 8 steps, three moods (NAP / PARTY / ZOOMIES), one shuffle button, zero training required",
     "url": "https://yinxinghuan.github.io/meow-machine/",
@@ -153,6 +172,7 @@
   },
   {
     "id": "rhythm-machine",
+    "uuid": "d3b8d8b4-ecba-4ac9-8b35-30a2f9c02677",
     "name": "Rhythm Machine",
     "description": "Tap the grid, make a beat — 8 instruments × adjustable 4–32 steps, 7 genre presets that auto-fit, and an AI prompt to spit out a starting groove",
     "url": "https://yinxinghuan.github.io/rhythm-machine/",
@@ -161,6 +181,7 @@
   },
   {
     "id": "magnet-drop",
+    "uuid": "414afe34-82fe-41a6-8b16-17c175ede45a",
     "name": "Magnet Drop",
     "description": "Same color chains — 拖手指出一个磁铁,卷走同色粒子,串得越长爆得越响。换色?直接戳那颗就行,磁铁会自动重新调色",
     "url": "https://yinxinghuan.github.io/magnet-drop/",
@@ -169,6 +190,7 @@
   },
   {
     "id": "tiny-farm",
+    "uuid": "36bdcfe0-87b0-4288-9a72-fd8a26b42998",
     "name": "Tiny Farm",
     "description": "Build · Tend · Watch — 8×8 体素小岛自由摆放 12 种工具，牛羊鸡自走，5 分钟一天的昼夜更替，云影/烟囱/风吹草动",
     "url": "https://yinxinghuan.github.io/tiny-farm/",
@@ -177,6 +199,7 @@
   },
   {
     "id": "stack",
+    "uuid": "ff62e46e-212d-4a61-8085-2b99bb5fc760",
     "name": "Stack",
     "description": "Time the tap — 候选块在塔顶滑动，点屏幕落下，没对齐的部分切掉飞落。完美对齐能让塔重新长粗、combo 累积爆奖。",
     "url": "https://yinxinghuan.github.io/stack/",
@@ -185,6 +208,7 @@
   },
   {
     "id": "iron-filings",
+    "uuid": "3414291d-d2ed-4678-9f0f-1e55dbc8e7ce",
     "name": "Iron Filings",
     "description": "Touch the field — 手指就是磁极，铁屑被吸成一坨。快点一下爆出连环冲击波，长按 0.5 秒钉一颗常驻磁铁，摆出经典磁感线雕塑",
     "url": "https://yinxinghuan.github.io/iron-filings/",
@@ -193,6 +217,7 @@
   },
   {
     "id": "atomic",
+    "uuid": "11d74d8f-be44-4644-8828-3d3f3e927d84",
     "name": "Atomic",
     "description": "One tap, big bang — 屏幕上漂浮的原子，点一下引爆核心，链式反应能跑多远全看你选的点。爆链越久爆炸圈越大，雪球停不下来",
     "url": "https://yinxinghuan.github.io/atomic/",
@@ -201,6 +226,7 @@
   },
   {
     "id": "layer-pop",
+    "uuid": "d8d3b9bf-05a7-420a-b441-6b3357020d02",
     "name": "Layer Pop",
     "description": "Pop your fun — 1000 层霓虹圈嵌套，拖拽对齐缺口让小球穿透，连过 3 关进入 FEVER MODE，玻璃碎裂的爽片",
     "url": "https://yinxinghuan.github.io/layer-pop/",
@@ -209,6 +235,7 @@
   },
   {
     "id": "lava-lamp",
+    "uuid": "9d86a3fd-d9cf-4e22-9ac6-7db673ac3d22",
     "name": "Lava Lamp",
     "description": "熔岩灯 — 蜡块在油里慢慢漂浮，点击瓶身加热让蜡上升；三种主题：经典橙、Y2K 紫、生物荧光蓝",
     "url": "https://yinxinghuan.github.io/lava-lamp/",
@@ -217,6 +244,7 @@
   },
   {
     "id": "aurora",
+    "uuid": "a273a407-d9a9-4c93-a8f0-a97486bcbe4c",
     "name": "Aurora",
     "description": "极光 — 触摸夜空，柔光帘随手指流淌，三种夜色：极地翠绿、暮粉霞紫、午夜深蓝",
     "url": "https://yinxinghuan.github.io/aurora/",
@@ -225,6 +253,7 @@
   },
   {
     "id": "bubble-wrap",
+    "uuid": "768fc21f-d730-4015-acaf-355e9bf7bf60",
     "name": "Bubble Wrap",
     "description": "气泡膜 — 戳爆每一颗都会回弹补充，三种主题：星云、蜂蜜、彩虹皂泡",
     "url": "https://yinxinghuan.github.io/bubble-wrap/",
@@ -233,6 +262,7 @@
   },
   {
     "id": "wind-chime",
+    "uuid": "56158461-2bd7-43ea-a468-ab067cc174dc",
     "name": "Wind Chime",
     "description": "風鈴 — 月下庭院、轻拨铜管的五声音律，无目标、无计分",
     "url": "https://yinxinghuan.github.io/wind-chime/",
@@ -241,6 +271,7 @@
   },
   {
     "id": "marbles",
+    "uuid": "399ef6c5-aa3f-437a-96a7-52bd002aa59e",
     "name": "Marbles",
     "description": "重力沙盒 — 同色合并爆裂、连击奖励彩虹雨，倾斜改重力、摇晃即弹跳",
     "url": "https://yinxinghuan.github.io/marbles/",
@@ -249,6 +280,7 @@
   },
   {
     "id": "snowglobe",
+    "uuid": "6d399823-6e11-40f8-88ee-7369d2895d17",
     "name": "Snowglobe",
     "description": "雪球 — 玻璃球内三种夜：冬夜松林、樱花夕暮、宇宙漂流；摇晃成雪、倾斜成风，时刻 · 月相 · 诗句在脚下流转",
     "url": "https://yinxinghuan.github.io/snowglobe/",
@@ -257,6 +289,7 @@
   },
   {
     "id": "hourglass",
+    "uuid": "ebdb2dd3-5183-469a-bbe0-87c531c2211b",
     "name": "Hourglass",
     "description": "沙漏 — 沙粒一颗颗从颈口漏下，上腔自漏斗、下腔堆成锥；空了自动翻转。三种调：撒哈拉暖金、紫水晶、深海生物荧光",
     "url": "https://yinxinghuan.github.io/hourglass/",
@@ -265,6 +298,7 @@
   },
   {
     "id": "depthy",
+    "uuid": "94a85e92-26f8-446a-abe0-c0a8a5776472",
     "name": "Depthy",
     "description": "谁偷了画？— 罗生门式悬疑问话，四个嫌疑人，五种结局",
     "url": "https://yinxinghuan.github.io/depthy/",
@@ -273,6 +307,7 @@
   },
   {
     "id": "agent-string-v2",
+    "uuid": "45a331af-b0c9-42e4-a16d-5229a700cd80",
     "name": "LEXICON",
     "description": "语言有重力 — 在滚动的文字流中捕获词语，构建连锁评分机器",
     "url": "https://yinxinghuan.github.io/agent-string-v2/",
@@ -281,6 +316,7 @@
   },
   {
     "id": "agent-string",
+    "uuid": "316c0d68-7da5-4d44-93ec-93628ed9350c",
     "name": "Agent String",
     "description": "语义空间实验 — 画圈聚类，画线串联，感受 AI 如何理解词语",
     "url": "https://yinxinghuan.github.io/agent-string/",
@@ -289,6 +325,7 @@
   },
   {
     "id": "ai-drama",
+    "uuid": "1d28ce76-54b5-4fb7-b099-9ecfc029847d",
     "name": "AI Drama",
     "description": "AI 短剧导演 — 选角色、写分镜、一键生成你的短剧",
     "url": "https://yinxinghuan.github.io/ai-drama/",
@@ -297,6 +334,7 @@
   },
   {
     "id": "ume-boba-shop",
+    "uuid": "e899ae8a-f80f-4336-aff0-c98c93e0a787",
     "name": "UMe Boba Shop",
     "description": "UMe 珍珠奶茶小铺 — 放置经营，招聘店员，走向星际",
     "url": "https://yinxinghuan.github.io/ume-boba-shop/",
@@ -305,6 +343,7 @@
   },
   {
     "id": "ghost-garden",
+    "uuid": "54112bb3-9829-4ad1-a012-1c461c689058",
     "name": "Ghost Garden",
     "description": "幽灵庄园 — 养育你的小幽灵，探索3D低多边形墓园",
     "url": "https://yinxinghuan.github.io/ghost-garden/",
@@ -313,6 +352,7 @@
   },
   {
     "id": "my-meme",
+    "uuid": "4f267b8e-d465-486c-bcc5-0d4974bc2ef9",
     "name": "MY MEME",
     "description": "AI角色Meme生成器 — 一键生成专属表情包",
     "url": "https://yinxinghuan.github.io/my-meme/",
@@ -321,6 +361,7 @@
   },
   {
     "id": "spot-diff-s2",
+    "uuid": "1c87b224-10ad-4daf-acd4-f6c4081e4474",
     "name": "Spot the Difference II",
     "description": "找茬侦探第二季 — 和你的好友一起破解谜团",
     "url": "https://yinxinghuan.github.io/spot-diff-s2/",
@@ -329,6 +370,7 @@
   },
   {
     "id": "spot-diff",
+    "uuid": "0cfe5315-5f31-4d64-a04c-013fd231df79",
     "name": "Spot the Difference",
     "description": "找茬侦探 — 6个角色房间，发现隐藏的线索",
     "url": "https://yinxinghuan.github.io/spot-diff/",
@@ -337,6 +379,7 @@
   },
   {
     "id": "pitch",
+    "uuid": "14bc271d-e4a1-4df8-a7a5-d5dcb67e209b",
     "name": "PITCH",
     "description": "融资倒计时 — Jenny的创业生存游戏",
     "url": "https://yinxinghuan.github.io/pitch/",
@@ -345,6 +388,7 @@
   },
   {
     "id": "ume-battle",
+    "uuid": "e08819d5-0838-4757-9e2f-88f9f3045ad6",
     "name": "UMe Battle",
     "description": "UMe Family角色对战",
     "url": "https://yinxinghuan.github.io/ume-battle/",
@@ -353,6 +397,7 @@
   },
   {
     "id": "bsod",
+    "uuid": "5967450f-6d60-41ff-9fa6-52f6a5a0916e",
     "name": "BSOD",
     "description": "蓝屏人生 — Isaya的13天生存模拟",
     "url": "https://yinxinghuan.github.io/bsod/",
@@ -361,6 +406,7 @@
   },
   {
     "id": "convenience-store",
+    "uuid": "d2b2c029-4cdb-4571-8f4b-81995244803c",
     "name": "Convenience Store",
     "description": "深夜便利店经营 — 遇见形形色色的客人",
     "url": "https://yinxinghuan.github.io/convenience-store/",
@@ -369,6 +415,7 @@
   },
   {
     "id": "memory-card",
+    "uuid": "af3a5ec2-3753-4031-b8f9-d5d945a2cf19",
     "name": "Memory Card",
     "description": "经典记忆翻牌游戏",
     "url": "https://yinxinghuan.github.io/memory-card/",
@@ -377,6 +424,7 @@
   },
   {
     "id": "flappy-bird",
+    "uuid": "de6a8562-2aa1-44b6-a360-45850fcfc9f7",
     "name": "Flappy Bird",
     "description": "经典飞翔小鸟",
     "url": "https://yinxinghuan.github.io/flappy-bird/",
@@ -385,6 +433,7 @@
   },
   {
     "id": "whack-a-mole",
+    "uuid": "2a9966e1-0e48-4ea2-9320-d47c0759ad60",
     "name": "Whack-a-Mole",
     "description": "经典打地鼠游戏",
     "url": "https://yinxinghuan.github.io/whack-a-mole/",
