@@ -1,13 +1,5 @@
 [
   {
-    "id": "slime-stretch",
-    "name": "Slime Stretch",
-    "description": "Pull a slime · let it snap · cascade. Drag any blob and it stretches into an elastic teardrop with a thin neck — release past the threshold and it SNAPS, recoiling into a shockwave that jiggles its neighbours. Knock the right one and the whole field bursts in a chain reaction. CHAIN multiplier scales score, FRENZY at chain ×5. Three glossy materials (mochi / oil / crystal goo) rolled per session.",
-    "url": "https://yinxinghuan.github.io/slime-stretch/",
-    "poster": "https://yinxinghuan.github.io/games/posters/slime-stretch.png",
-    "zipurl": "https://github.com/yinxinghuan/slime-stretch/archive/refs/heads/master.zip"
-  },
-  {
     "id": "botfish",
     "name": "Botfish",
     "description": "约会软件 parody，但你要找出 AI 生成的假照片。每张资料卡片都是 AI 生成的人像 — 大部分看着像真人，但部分藏着明显破绽：6 根手指、塑料皮肤、阴影方向不对、卡通小鬼从胳膊里冒出来、电线杆穿过身体。右滑（LIKE）真人 → +10 配对；左滑（NOPE）识破 AI → +20 抓 bot。但一旦右滑到 AI 照片 → 立即游戏结束，被骗了。Hinge 风酒粉香菜配色 + 黄色 ♥ 按钮。AlterU After Dark 系列。",
