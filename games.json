@@ -439,5 +439,14 @@
     "url": "https://yinxinghuan.github.io/whack-a-mole/",
     "poster": "https://yinxinghuan.github.io/games/posters/whack-a-mole.png",
     "zipurl": "https://github.com/yinxinghuan/whack-a-mole/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "one-tap-a-day",
+    "uuid": "339da758-f70f-4d70-a8a8-127ca6140b24",
+    "name": "One Tap a Day",
+    "description": "每天只能按一次的大铜钮。一下点完，剩下 24 小时只能看。看自己连续多少天、今天全球多少人也点了、距离 100 人解锁今日图腾还差多远——满了，AI 实时生成一张当日图腾画 + 一句神谕，全员看揭晓。错过当天图腾就永远归档了。Streak 断了会留墓碑。一个日常仪式，一个集体玩具。AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/one-tap-a-day/",
+    "poster": "https://yinxinghuan.github.io/games/posters/one-tap-a-day.png",
+    "zipurl": "https://github.com/yinxinghuan/one-tap-a-day/archive/refs/heads/master.zip"
   }
 ]
