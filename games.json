@@ -448,5 +448,14 @@
     "url": "https://yinxinghuan.github.io/one-tap-a-day/",
     "poster": "https://yinxinghuan.github.io/games/posters/one-tap-a-day.png",
     "zipurl": "https://github.com/yinxinghuan/one-tap-a-day/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "album-cover-generator",
+    "uuid": "25f12820-e10d-40aa-9169-3d54922acc06",
+    "name": "Album Cover Generator",
+    "description": "Three words → one album. Type any three words (a feeling, an image, a color) and the game presses an indie record for you: AI generates the cover art (random pick between shoegaze dream-pop or DIY xerox post-punk), invents a band name, and titles the LP. Visit the wall to flip through the last six pressings from other players. AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/album-cover-generator/",
+    "poster": "https://yinxinghuan.github.io/games/posters/album-cover-generator.png",
+    "zipurl": "https://github.com/yinxinghuan/album-cover-generator/archive/refs/heads/master.zip"
   }
 ]
