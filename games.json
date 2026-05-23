@@ -466,5 +466,14 @@
     "url": "https://yinxinghuan.github.io/mugshot-booth/",
     "poster": "https://yinxinghuan.github.io/games/posters/mugshot-booth.png",
     "zipurl": "https://github.com/yinxinghuan/mugshot-booth/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "confession-booth",
+    "uuid": "d50286e6-d7e7-4a0b-afbd-5af7d598a4b8",
+    "name": "Confession Booth",
+    "description": "Step into the booth. Tell the AI hotline operator anything. Dial 1-800-CONFESS — stained glass overhead, brass grille between you, candle flickering. Behind the screen isn't a priest — it's a night-shift call-center operator chewing gum and reading from a damp absolution script. Type your sin, get put on hold, hear the operator complain about their landlord, then receive an ABSOLVED / DENIED / DEFERRED verdict + custom penance (\"compliment a stranger's shoes before Friday\"). Wall of (mostly) forgiven — fully anonymous. AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/confession-booth/",
+    "poster": "https://yinxinghuan.github.io/games/posters/confession-booth.png",
+    "zipurl": "https://github.com/yinxinghuan/confession-booth/archive/refs/heads/master.zip"
   }
 ]
