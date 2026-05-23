@@ -457,5 +457,14 @@
     "url": "https://yinxinghuan.github.io/album-cover-generator/",
     "poster": "https://yinxinghuan.github.io/games/posters/album-cover-generator.png",
     "zipurl": "https://github.com/yinxinghuan/album-cover-generator/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "mugshot-booth",
+    "uuid": "0874cd00-5b78-438f-9643-1e51f6b14d0c",
+    "name": "Mugshot Booth",
+    "description": "Step in front of the booking camera. Upload a selfie and the precinct types up your case file — gritty black-and-white mugshot, ID board with case number, and a stack of charges from the AlterU Vice Squad: loitering with intent to vibe, public crying without permit, possession of unsent texts. Booking date stamped, GUILTY plate slammed across the corner. Flip through the rogue's gallery of recent suspects. AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/mugshot-booth/",
+    "poster": "https://yinxinghuan.github.io/games/posters/mugshot-booth.png",
+    "zipurl": "https://github.com/yinxinghuan/mugshot-booth/archive/refs/heads/master.zip"
   }
 ]
