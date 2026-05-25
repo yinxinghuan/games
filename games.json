@@ -475,5 +475,14 @@
     "url": "https://yinxinghuan.github.io/confession-booth/",
     "poster": "https://yinxinghuan.github.io/games/posters/confession-booth.png",
     "zipurl": "https://github.com/yinxinghuan/confession-booth/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "confession-booth-v4",
+    "uuid": "55fa014e-60f7-44df-b5b0-b5b1c0f899fb",
+    "name": "Sin of the Week",
+    "description": "Festival edition of the AI confession hotline. Every week the booth opens to a new theme — \"petty sin of the week\", \"message you never sent\", \"3am confession\", \"shower rant\" — and the wall fills with everyone's answers, not anonymous this time but signed with your avatar. Wolność-festival graphic identity: dense neon zigzag patterns, curvy hand-drawn wordmark, color-coded sunburst medallions per confession, rainbow U-arc framing the verdict moment. Plays like a community poetry slam over the phone.",
+    "url": "https://yinxinghuan.github.io/confession-booth-v4/",
+    "poster": "https://yinxinghuan.github.io/games/posters/confession-booth-v4.png",
+    "zipurl": "https://github.com/yinxinghuan/confession-booth-v4/archive/refs/heads/master.zip"
   }
 ]
