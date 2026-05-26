@@ -502,5 +502,14 @@
     "url": "https://yinxinghuan.github.io/crystal-ball-collective/",
     "poster": "https://yinxinghuan.github.io/games/posters/crystal-ball-collective.png",
     "zipurl": "https://github.com/yinxinghuan/crystal-ball-collective/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "tag-youre-it",
+    "uuid": "6af4f385-954f-436f-9dda-c0f1572dab88",
+    "name": "Tag, You're It",
+    "description": "Pick a friend, pick a slapstick weapon — pie to the face, bucket of slime, confetti cannon, giant IT sticker, pizza splat, banana peel — and SLAM. AI paints a comic-book panel of them getting absolutely tagged; the platform pushes the chaos straight to their phone with a notification. Open the app to find out who tagged YOU, then tag back to clear your name. Pop-art halftone, Ben-Day dots, Lichtenstein BAM aesthetic. A viral chain-tag toy. AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/tag-youre-it/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tag-youre-it.png",
+    "zipurl": "https://github.com/yinxinghuan/tag-youre-it/archive/refs/heads/master.zip"
   }
 ]
