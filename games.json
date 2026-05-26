@@ -511,5 +511,14 @@
     "url": "https://yinxinghuan.github.io/tag-youre-it/",
     "poster": "https://yinxinghuan.github.io/games/posters/tag-youre-it.png",
     "zipurl": "https://github.com/yinxinghuan/tag-youre-it/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "pet-filter",
+    "uuid": "fe0ac62d-462e-42a4-8622-85586a99d133",
+    "name": "Pet Filter",
+    "description": "Upload a selfie, pick a pet (cat, capybara, axolotl, giant clam, 8 more) — AI img2img turns you into your chosen species. Save to your gallery, browse the public wall to see what everyone else became. AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/pet-filter/",
+    "poster": "https://yinxinghuan.github.io/games/posters/pet-filter.png",
+    "zipurl": "https://github.com/yinxinghuan/pet-filter/archive/refs/heads/master.zip"
   }
 ]
