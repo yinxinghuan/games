@@ -484,5 +484,23 @@
     "url": "https://yinxinghuan.github.io/confession-booth-v4/",
     "poster": "https://yinxinghuan.github.io/games/posters/confession-booth-v4.png",
     "zipurl": "https://github.com/yinxinghuan/confession-booth-v4/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "wake-up-service",
+    "uuid": "2144a117-01c0-4f4a-9831-6610264bc917",
+    "name": "Wake-Up Service",
+    "description": "Place a phantom wake-up call to a friend — pick a sleeper from your registry, choose a protocol (marching band / 100 cats / ice bucket / drill sergeant / robocall storm / rooster choir), the dispatcher fires a notification + AI-generated image of the chaos. LCD alarm clock console aesthetic — 5 color themes × 4 typefaces switchable in-game, real avatars filtered through a soft LED tint.",
+    "url": "https://yinxinghuan.github.io/wake-up-service/",
+    "poster": "https://yinxinghuan.github.io/games/posters/wake-up-service.png",
+    "zipurl": "https://github.com/yinxinghuan/wake-up-service/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "crystal-ball-collective",
+    "uuid": "de74171a-370b-41d7-8529-0fdf680831d3",
+    "name": "Crystal Ball Collective",
+    "description": "Crack Tap 续作。每日一次水晶球占卜：按住水晶球，裂痕在球体里蛛网般铺开——Whisper → Vision → Revelation → Brink，越深 omen 越罕。松手锁定，AI 实时画出今日命运卡 + 一句神谕（Tarot / Oracle Bone / Rune / I-Ching 随机系统）。推过 Brink 水晶崩裂 —— 50/50 抽到 Glory（金序传说卡）或 Ashes（碎片卡）。占卜完看最近 6 位玩家的命运卡墙，给你共鸣的卡留个 emoji。错过当天就归档为空槽。一个每日 ritual，一个集体玩具。AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/crystal-ball-collective/",
+    "poster": "https://yinxinghuan.github.io/games/posters/crystal-ball-collective.png",
+    "zipurl": "https://github.com/yinxinghuan/crystal-ball-collective/archive/refs/heads/master.zip"
   }
 ]
