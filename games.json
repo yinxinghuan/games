@@ -1,5 +1,14 @@
 [
   {
+    "id": "tap-and-tell",
+    "uuid": "da737505-cc8b-49da-8905-9924f4b43a6b",
+    "name": "Tap & Tell",
+    "description": "Pick an opening scene — a cabin in the snow, a figure on an empty beach, a city street at night. Tap somewhere in the frame, say what happens next. AI paints the next moment and stitches it into a 5-second cinematic clip you can keep. Single-beat story toy. AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/tap-and-tell/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tap-and-tell.png",
+    "zipurl": "https://github.com/yinxinghuan/tap-and-tell/archive/refs/heads/master.zip"
+  },
+  {
     "id": "botfish",
     "uuid": "1243f25d-9955-4068-9587-652d5f707eae",
     "name": "Botfish",
