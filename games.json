@@ -525,7 +525,7 @@
     "id": "pet-filter",
     "uuid": "fe0ac62d-462e-42a4-8622-85586a99d133",
     "name": "Pet Filter",
-    "description": "Upload a selfie, pick a pet (cat, capybara, axolotl, giant clam, 8 more) — AI img2img turns you into your chosen species. Save to your gallery, browse the public wall to see what everyone else became. AlterU 系列。",
+    "description": "提交肖像给 19 世纪博物学会 — 学会查阅照片后判定你属于十二目中的哪一种（猫、水豚、章鱼、巨蚌、蝾螈、蜗牛...共十二种）。输出是手绘 Audubon 式雕版图鉴，人脸与物种特征精妙融合。可申请二审、分享判词、在档案室翻阅其他博物学家收录的标本。5 语言（en/zh/ja/ko/es）。AlterU 系列。",
     "url": "https://yinxinghuan.github.io/pet-filter/",
     "poster": "https://yinxinghuan.github.io/games/posters/pet-filter.png",
     "zipurl": "https://github.com/yinxinghuan/pet-filter/archive/refs/heads/master.zip"
