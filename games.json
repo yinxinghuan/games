@@ -3,10 +3,10 @@
     "id": "kiss-wall",
     "uuid": "7a5b620c-b394-4a66-a55a-4739370d3783",
     "name": "Kiss Wall",
-    "description": "纯黑屏幕里藏着一个看不见的形状 — 骸骨 / 解剖心脏 / 古典雕像 / 泪眼 / 伸手 / 玫瑰 / 面纱 / 羽翼 之一，每次随机抽。点中藏的轮廓 → 真实唇印留下 + mwah ASMR；点空地 → 唇印一闪即消。吻得越多形状越浮现。封印 → AI 刻意大利体碑文 → 上传全员碑墙。AlterU After Dark 系列。",
+    "description": "v2.7 — 纯黑屏幕里藏着一个看不见的形状 — 骸骨 / 解剖心脏 / 古典雕像 / 泪眼 / 伸手 / 玫瑰 / 面纱 / 羽翼 之一，每次随机抽。点中藏的轮廓 → 真实唇印留下 + mwah ASMR；点空地 → 唇印一闪即消。吻得越多形状越浮现。封印 → AI 刻意大利体碑文 → 上传全员碑墙。墙上点别人的碑可看详情 + 三种反应（哀悼/陪坐/献花）。AlterU After Dark 系列。",
     "url": "https://yinxinghuan.github.io/kiss-wall/",
     "poster": "https://yinxinghuan.github.io/games/posters/kiss-wall.png",
-    "zipurl": "https://github.com/yinxinghuan/kiss-wall/archive/refs/heads/master.zip"
+    "zipurl": "https://github.com/yinxinghuan/kiss-wall/archive/refs/heads/master.zip?v=2.7"
   },
   {
     "id": "tap-and-tell",
