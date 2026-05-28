@@ -1,5 +1,23 @@
 [
   {
+    "id": "tap-and-tell-vertical",
+    "uuid": "cb8f8e93-9239-4720-bcd3-5b54cae9edee",
+    "name": "Tap & Tell · Vertical",
+    "description": "Tap a frame, tell what happens next — vertical 3:4 cinematic continuation. AlterU 系列 v2.0 — full social loop with TikTok-style swipeable wall.",
+    "url": "https://yinxinghuan.github.io/tap-and-tell-vertical/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tap-and-tell-vertical.png",
+    "zipurl": "https://github.com/yinxinghuan/tap-and-tell-vertical/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "vital-signs",
+    "uuid": "bd8b8e9a-4927-4d8e-976e-15da97c45393",
+    "name": "Vital Signs",
+    "description": "Night shift. You're the only one awake. A friend from your contacts has crashed in the dream-ER — keep their pulse on the beat with one finger. Hit the rhythm of a slowly-drifting BPM target; too slow flatlines them, too fast tips them into V-fib. When they go, AI types a deadpan death certificate + a morgue-tag portrait stamps onto the Fate Wall. Save them and they post-mortem-thank you. AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/vital-signs/",
+    "poster": "https://yinxinghuan.github.io/games/posters/vital-signs.png",
+    "zipurl": "https://github.com/yinxinghuan/vital-signs/archive/refs/heads/master.zip"
+  },
+  {
     "id": "kiss-wall",
     "uuid": "7a5b620c-b394-4a66-a55a-4739370d3783",
     "name": "Kiss Wall",
