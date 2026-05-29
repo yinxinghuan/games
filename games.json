@@ -1,5 +1,14 @@
 [
   {
+    "id": "pulp-hour",
+    "uuid": "7596f93a-1c72-48c1-8120-9e43a09c4c0d",
+    "name": "Pulp Hour",
+    "description": "Six beats. One sitting. Pick a pulp magazine cover — All-Night Operator / The Tenant in 4B / Voyager 9 / Last Train Home — and an AI ghostwriter spins a 6-beat noir around your choices. Three options each beat (Defy · Yield · Lie); ending beat returns an illustrated finished cover with your byline. Mail it to the newsstand for other readers. AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/pulp-hour/",
+    "poster": "https://yinxinghuan.github.io/games/posters/pulp-hour.png",
+    "zipurl": "https://github.com/yinxinghuan/pulp-hour/archive/refs/heads/master.zip"
+  },
+  {
     "id": "tap-and-tell-vertical",
     "uuid": "cb8f8e93-9239-4720-bcd3-5b54cae9edee",
     "name": "Tap & Tell · Vertical",
