@@ -1,5 +1,14 @@
 [
   {
+    "id": "ferrofluid",
+    "uuid": "838a1123-25a5-4c54-a065-32b236f039d7",
+    "name": "Ferrofluid",
+    "description": "A magnet in your finger. Drag the pool and watch the black metal pull into spikes, chasing your touch. Pure sensory toy — no scoring, no winning, just shiny. AlterU sensory series.",
+    "url": "https://yinxinghuan.github.io/ferrofluid/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ferrofluid.png",
+    "zipurl": "https://github.com/yinxinghuan/ferrofluid/archive/refs/heads/master.zip"
+  },
+  {
     "id": "pulp-hour",
     "uuid": "7596f93a-1c72-48c1-8120-9e43a09c4c0d",
     "name": "Pulp Hour",
