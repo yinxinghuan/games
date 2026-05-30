@@ -1,5 +1,23 @@
 [
   {
+    "id": "pebble-pocket",
+    "uuid": "7c39f0f8-b949-4726-bf21-ef788980c5c7",
+    "name": "Pebble Pocket",
+    "description": "One stone a day. Press the sand on the beach and the tide brings back a single AI-generated pebble — quartz, amber, slate, jasper, whatever surfaces. Come back tomorrow for another. Pure daily ritual, no scoring, just a slowly-filling pocket. AlterU sensory series.",
+    "url": "https://yinxinghuan.github.io/pebble-pocket/",
+    "poster": "https://yinxinghuan.github.io/games/posters/pebble-pocket.png",
+    "zipurl": "https://github.com/yinxinghuan/pebble-pocket/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "ink-of-fate",
+    "uuid": "4f8329f2-0988-4e86-861e-f464deddc1c0",
+    "name": "Ink of Fate",
+    "description": "An old biker tattoo artist takes one look at you and decides the tattoo you were always going to get. Show your face, answer one question, and the parlor stamps a fate-piece onto cheek / throat / jawline / behind ear — Sailor Jerry, irezumi, stick-and-poke, blackwork. AI reads it back to you: design + meaning + verdict. $200, pay at the door. Tonight's Parlor wall holds the last clients. AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/ink-of-fate/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ink-of-fate.png",
+    "zipurl": "https://github.com/yinxinghuan/ink-of-fate/archive/refs/heads/master.zip"
+  },
+  {
     "id": "frost-crystals",
     "uuid": "881877de-da56-4f0c-b3bb-70046e5daf70",
     "name": "Frost Crystals",
