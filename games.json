@@ -1,5 +1,14 @@
 [
   {
+    "id": "frost-crystals",
+    "uuid": "881877de-da56-4f0c-b3bb-70046e5daf70",
+    "name": "Frost Crystals",
+    "description": "Touch the cold glass and a six-fold snowflake grows from your finger — drag to steer the branches, hold still to let it bloom. Multiple flakes can coexist; slow thaw means the glass slowly clears between sessions. Pure sensory toy — AlterU sensory series.",
+    "url": "https://yinxinghuan.github.io/frost-crystals/",
+    "poster": "https://yinxinghuan.github.io/games/posters/frost-crystals.png",
+    "zipurl": "https://github.com/yinxinghuan/frost-crystals/archive/refs/heads/master.zip"
+  },
+  {
     "id": "ferrofluid",
     "uuid": "838a1123-25a5-4c54-a065-32b236f039d7",
     "name": "Ferrofluid",
