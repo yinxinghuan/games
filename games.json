@@ -1,5 +1,14 @@
 [
   {
+    "id": "bell-tower",
+    "uuid": "7484763a-965f-46db-9b36-d0c1e352785a",
+    "name": "The Bell Tower",
+    "description": "A dim cathedral bell tower. A thick bronze bell hangs from a wood beam. You get one pull on the rope per day. Drag the rope down, release — the bell swings, BONG carries across a 6-second decay. After your ring the rope dims and won't budge again until tomorrow. The ticker shows who else has rung today; their pulls travel through your tower as faint distant bongs. When the platform crosses 100 rings in a day, every still-open client hears a quiet collective chime — the tower rang for the world today. AlterU daily-ritual series.",
+    "url": "https://yinxinghuan.github.io/bell-tower/",
+    "poster": "https://yinxinghuan.github.io/games/posters/bell-tower.png",
+    "zipurl": "https://github.com/yinxinghuan/bell-tower/archive/refs/heads/master.zip"
+  },
+  {
     "id": "bubble-wrap-eternal",
     "uuid": "04035b6c-aea7-4635-8302-3bf1a1870871",
     "name": "Bubble Wrap, Eternal",
