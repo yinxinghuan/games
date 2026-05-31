@@ -1,5 +1,14 @@
 [
   {
+    "id": "bubble-wrap-eternal",
+    "uuid": "04035b6c-aea7-4635-8302-3bf1a1870871",
+    "name": "Bubble Wrap, Eternal",
+    "description": "Endless plastic bubble wrap. Tap to pop — pitch-randomized chirp, satisfying splash, the next row is already calling. Every eighth pop, the bubble doesn't just pop — it drops a tiny paper fortune slip in deadpan-absurd voice (\"the third stair from the top will remember you all week\"). Slips collect in your pocket and join Today's Slips wall — see what other people popped open. Today's pop count is shown for the whole planet. AlterU sensory series.",
+    "url": "https://yinxinghuan.github.io/bubble-wrap-eternal/",
+    "poster": "https://yinxinghuan.github.io/games/posters/bubble-wrap-eternal.png",
+    "zipurl": "https://github.com/yinxinghuan/bubble-wrap-eternal/archive/refs/heads/master.zip"
+  },
+  {
     "id": "static-channel",
     "uuid": "863f612f-b48e-407a-9b26-fd977321c758",
     "name": "Static Channel",
