@@ -1,5 +1,14 @@
 [
   {
+    "id": "static-channel",
+    "uuid": "863f612f-b48e-407a-9b26-fd977321c758",
+    "name": "Static Channel",
+    "description": "An old CRT television. Drag across the screen to tune up and down the FM band — 88.0 to 108.0 MHz. Each frequency is its own AI-broadcast channel: a single weird VHS still and a one-line chyron caption — your mom rolling dumplings in 1994, a wedding from 1987 where nobody is dancing, test patterns for towns that no longer exist. Hit the heart to keep a channel; open the wall to see what other people pulled in tonight. AlterU sensory series.",
+    "url": "https://yinxinghuan.github.io/static-channel/",
+    "poster": "https://yinxinghuan.github.io/games/posters/static-channel.png",
+    "zipurl": "https://github.com/yinxinghuan/static-channel/archive/refs/heads/master.zip"
+  },
+  {
     "id": "pebble-pocket",
     "uuid": "7c39f0f8-b949-4726-bf21-ef788980c5c7",
     "name": "Pebble Pocket",
