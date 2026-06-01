@@ -1,5 +1,32 @@
 [
   {
+    "id": "replicant-wake",
+    "uuid": "161e9901-20bf-4df9-abb2-fbd1a11a753f",
+    "name": "Replicant Wake",
+    "description": "2089 高端定制陪伴 replicant 在化妆台前度过她'第一次成为人'的午夜。5 个全息物件,5 段她说出口的台词。她不知道——每句话都是别人记忆的复制。Climax 让你选她接下来变成谁。AlterU After Dark FMV 第 2 作。",
+    "url": "https://yinxinghuan.github.io/replicant-wake/",
+    "poster": "https://yinxinghuan.github.io/games/posters/replicant-wake.png",
+    "zipurl": "https://github.com/yinxinghuan/replicant-wake/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "the-confession",
+    "uuid": "f6c2ede9-85cd-4623-b833-4e319284d18c",
+    "name": "The Confession",
+    "description": "1962 巴黎 Saint-Roch 教堂晚 9 点。红丝绒大衣的女人对栅栏低语 5 件罪行,半法半英,像在引诱不是告解。第 5 件结束后你输入自己的罪——神父用她的声音回你。AlterU After Dark FMV 第 3 作。",
+    "url": "https://yinxinghuan.github.io/the-confession/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-confession.png",
+    "zipurl": "https://github.com/yinxinghuan/the-confession/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "boy-next-door",
+    "uuid": "3ec586a9-407b-4553-914f-da97fedbbe9b",
+    "name": "Boy Next Door",
+    "description": "1986 年 8 月 Iowa,午后 3:42。34 岁主妇站在厨房窗前看新邻居家儿子推剪她的草坪。每次你点窗台,就是她又看了一次。Climax:他抬头,对她笑——他知道她看了一下午。AlterU After Dark FMV 第 4 作。",
+    "url": "https://yinxinghuan.github.io/boy-next-door/",
+    "poster": "https://yinxinghuan.github.io/games/posters/boy-next-door.png",
+    "zipurl": "https://github.com/yinxinghuan/boy-next-door/archive/refs/heads/master.zip"
+  },
+  {
     "id": "last-cigarette",
     "uuid": "ab54cb51-debc-419f-a12a-a72390cf23bc",
     "name": "Last Cigarette",
