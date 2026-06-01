@@ -1,5 +1,14 @@
 [
   {
+    "id": "setting-the-table",
+    "uuid": "26f9f047-ec6b-4521-bd14-ef68666887ff",
+    "name": "Setting the Table",
+    "description": "1988 年 6 月 14 日, Brookline 郊外, 蓝调时刻。71 岁退休英语教师 Eleanor 给两个人摆桌, 像她丈夫 Walter 还在。今晚是他离开的第 207 天 — 但她不允许自己承认。点桌上 5 件物件 (他缺口的咖啡杯 / 老花眼镜 / 海军 cashmere / 银叉的位置 / 全家福), 听她对着空椅子说话。Climax: 她妹妹 Maggie 打电话来。她拒绝。她照旧摆桌。Joan Didion 的《Year of Magical Thinking》 文学血脉。AlterU After Dark FMV 系列, 精雕细琢卷的一作。",
+    "url": "https://yinxinghuan.github.io/setting-the-table/",
+    "poster": "https://yinxinghuan.github.io/games/posters/setting-the-table.png",
+    "zipurl": "https://github.com/yinxinghuan/setting-the-table/archive/refs/heads/master.zip"
+  },
+  {
     "id": "replicant-wake",
     "uuid": "161e9901-20bf-4df9-abb2-fbd1a11a753f",
     "name": "Replicant Wake",
