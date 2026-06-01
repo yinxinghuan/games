@@ -1,5 +1,14 @@
 [
   {
+    "id": "last-cigarette",
+    "uuid": "ab54cb51-debc-419f-a12a-a72390cf23bc",
+    "name": "Last Cigarette",
+    "description": "1956 芝加哥蓝丝绒爵士俱乐部, 11:42 PM。Mira Lane 是头牌歌女, 也是 Rocco Bellini 两年的情妇。今晚她登台前 18 分钟, 你点她化妆台上的五样东西—— 香烟、马提尼、口红、珍珠、镜中的眼神—— 每一下都是一段她说出口的台词、一段她做过的小事。听完五段, Showtime 的红边斜体浮起。点它, 镜头停在她离开的椅子上, 抽屉里的设单慢慢摊开: 'For Mr. R. Bellini, on the 18th anniversary of his marriage.' 她不是在等他, 她是在卸下他。AlterU After Dark FMV 系列首作。",
+    "url": "https://yinxinghuan.github.io/last-cigarette/",
+    "poster": "https://yinxinghuan.github.io/games/posters/last-cigarette.png",
+    "zipurl": "https://github.com/yinxinghuan/last-cigarette/archive/refs/heads/master.zip"
+  },
+  {
     "id": "bell-tower",
     "uuid": "7484763a-965f-46db-9b36-d0c1e352785a",
     "name": "The Bell Tower",
