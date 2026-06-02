@@ -1,5 +1,14 @@
 [
   {
+    "id": "alteru-press-field-guide",
+    "uuid": "60803901-fa34-41ee-9b5d-ea40ed00c6ab",
+    "name": "AlterU Press · Field Guide",
+    "description": "AlterU Press 工具化系列第 01 号 · Field Guide。拍下身边任何普通物件 — 一顶帽子, 一个茶壶, 一个皮包 — 工具识别物体, 拆出它的部位结构, 找出全世界 6-8 种文化变体, 写一段民族志小评论, 重新画一张 19 世纪自然史标本卡。最后输出 1080×1920 的说明书海报, 可分享 / 收藏 / 发到 feed。社交墙横向陈列所有用户的标本, 每张可点开看作者主页。Editorial 杂志说明书风格, 偏向文化解说而非数据分析。",
+    "url": "https://yinxinghuan.github.io/alteru-press/tools/field-guide/",
+    "poster": "https://yinxinghuan.github.io/games/posters/alteru-press-field-guide.png",
+    "zipurl": "https://github.com/yinxinghuan/alteru-press/archive/refs/heads/main.zip"
+  },
+  {
     "id": "the-bidding",
     "uuid": "07da46a6-876f-4ab0-a081-44c86fde02bd",
     "name": "The Bidding",
