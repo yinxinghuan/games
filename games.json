@@ -1,5 +1,14 @@
 [
   {
+    "id": "final-stream",
+    "uuid": "ab54cb51-debc-419f-a12a-a72390cf23bc",
+    "name": "Final Stream",
+    "description": "2024 周二晚 9 点, Long Beach 单间公寓。24 岁韩裔美国 Twitch 主播 Riley Park (rileyontheradio) 直播了第 4 小时, 8.2K 在线。她没告诉粉丝今晚是最后一场。点她桌上 5 件东西 (粉色 Stanley / 妹妹的拍立得 / 裱起来的第一笔 1 美元打赏 / 趴着的手机 / 直播镜头里的脸) 听她说话。Climax: 她读出 MarcusM 的弹幕, 关掉笔记本。框架同 Setting the Table, 但故意拒绝电影感——伪纪录片质感, 2024 真实主播桌面。两层声线 (亮的主播声 / 真的疲惫声) 全程交替。AlterU After Dark FMV 系列第 6 作。",
+    "url": "https://yinxinghuan.github.io/final-stream/",
+    "poster": "https://yinxinghuan.github.io/games/posters/final-stream.png",
+    "zipurl": "https://github.com/yinxinghuan/final-stream/archive/refs/heads/master.zip"
+  },
+  {
     "id": "setting-the-table",
     "uuid": "26f9f047-ec6b-4521-bd14-ef68666887ff",
     "name": "Setting the Table",
