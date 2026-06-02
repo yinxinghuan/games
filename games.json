@@ -1,5 +1,14 @@
 [
   {
+    "id": "mykonos-five-days",
+    "uuid": "9abf09b9-e939-44ad-9a6c-e510c5ff44b5",
+    "name": "Mykonos Five Days",
+    "description": "雅典转机偶遇 4 年没见的 Yale 同学, 一时兴起退了机票去 Mykonos 待 5 天。28 岁建筑师 Lena 和 28 岁摄影师 Sam, 两个华裔美国人, 两人都单身, 但都不打算谈恋爱 — 至少这趟旅行前是。5 个场景 (抵达 / 沙滩 / 餐厅 / 风车午夜 / 早晨码头), 每场景 2 选, 4 个结局基于「接近度」累积。视觉血脉 Call Me By Your Name + Lost in Translation + La Piscine. 极少对白, 张力在 gaze + gesture + distance. AlterU After Dark FMV v2 第 2 作 — 当代实验作。",
+    "url": "https://yinxinghuan.github.io/mykonos-five-days/",
+    "poster": "https://yinxinghuan.github.io/games/posters/mykonos-five-days.png",
+    "zipurl": "https://github.com/yinxinghuan/mykonos-five-days/archive/refs/heads/master.zip"
+  },
+  {
     "id": "alteru-press-field-guide",
     "uuid": "60803901-fa34-41ee-9b5d-ea40ed00c6ab",
     "name": "AlterU Press · Field Guide",
