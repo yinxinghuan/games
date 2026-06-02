@@ -1,5 +1,14 @@
 [
   {
+    "id": "dispatch",
+    "uuid": "8cc2258c-54c9-42ad-af30-adca671c7139",
+    "name": "Dispatch",
+    "description": "1994 年 11 月凌晨 3 点 47 分, 芝加哥市紧急通讯中心 (OEMC) 地下层 PSAP-12 调度台。Marcus Heath, 38, 非裔, 警员编号 4471, 晋身夜班第 6 小时一通电话都没接到。CRT 屏幕上显示 5 条未听的语音留言, 都是不同陌生人 911 报警, 讲今晚芝加哥各个角落都遇到一个崩溃的男人。点 5 条留言听完。Climax: 第 6 条是 Marcus 本人 30 天前在他太太 Charlene 在厨房中风死亡那晚打的 911, 30 天后的他终于接起来。完全没有人脸的 FMV — 整张画面是发磷绿色 CRT 终端机, 波形 + GPS 点 + 终端字。AlterU After Dark FMV 系列第 7 作。",
+    "url": "https://yinxinghuan.github.io/dispatch/",
+    "poster": "https://yinxinghuan.github.io/games/posters/dispatch.png",
+    "zipurl": "https://github.com/yinxinghuan/dispatch/archive/refs/heads/master.zip"
+  },
+  {
     "id": "rileyontheradio",
     "uuid": "c668ab73-7022-46fe-a95e-5af7be564b74",
     "name": "Final Stream",
