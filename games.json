@@ -1,5 +1,14 @@
 [
   {
+    "id": "the-bidding",
+    "uuid": "07da46a6-876f-4ab0-a081-44c86fde02bd",
+    "name": "The Bidding",
+    "description": "1991 年 1 月 8 日晚 8 点, Bucharest 第 6 区。Ceaușescu 处决一年后的国家在散架, 停电是常态, 这一夜电只有 11 PM 之前。38 岁寡妇 Elena Marin 为 11 岁先天心脏病的女儿 Paula 通过黑市掮客约了 4 个买家来家里出价 — 美国黑医生 / 前 Securitate 大队长 / 前 KGB / 罗马尼亚还俗神父。每个人卖的不只是心脏。Mid-pivot: Paula 不是 Elena 亲生的, 1980 Polizu 妇产医院 Stefan 神父把她和加州一户精英家庭的女儿调包了。5 个章节, 6 个结局, 每个选择改变 (caution, truth_accepted, mercy, time_left) 四维状态。AlterU After Dark FMV 系列升级版首作。",
+    "url": "https://yinxinghuan.github.io/the-bidding/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-bidding.png",
+    "zipurl": "https://github.com/yinxinghuan/the-bidding/archive/refs/heads/master.zip"
+  },
+  {
     "id": "dispatch",
     "uuid": "8cc2258c-54c9-42ad-af30-adca671c7139",
     "name": "Dispatch",
