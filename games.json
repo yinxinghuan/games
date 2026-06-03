@@ -1,5 +1,13 @@
 [
   {
+    "id": "the-couturier",
+    "uuid": "aae043f3-374b-49ba-8270-6bee102dc046",
+    "name": "The Couturier",
+    "description": "AlterU After Dark FMV v3 第 2 作 — 你是巴黎 atelier 高定裁缝, 28 岁华裔准新娘 Yu Han 婚礼前 6 天最后一次试衣, 半成品奶白 muslin 钉在她身上. 5 分钟一次最后调整, 3 层选择, 8 个结局. 三面镜是天然 horror 装置 — 偶尔有一面会不对劲. 视觉血脉 Helmut Newton b&w + 微 tungsten 暖 undertone. 视频不切场, 选项浮在尾帧上点击直接进下一段. 一次走完 30-40s.",
+    "url": "https://yinxinghuan.github.io/the-couturier/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-couturier.png"
+  },
+  {
     "id": "the-photographer",
     "uuid": "33a4bcb1-9633-4891-8040-50981d2d68ec",
     "name": "The Photographer",
