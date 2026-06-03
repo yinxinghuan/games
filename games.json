@@ -1,5 +1,13 @@
 [
   {
+    "id": "the-photographer",
+    "uuid": "33a4bcb1-9633-4891-8040-50981d2d68ec",
+    "name": "The Photographer",
+    "description": "AlterU After Dark FMV v3 第 1 作 — 决策树短分支实验。你是时装摄影师, 25 岁华裔美国女模 Lin Wei 站在 cyclorama 上等你指导. 5 分钟的私人拍摄, 3 层选择, 8 个结局 (4 sensual + 4 wrong). 视频之间不切场不展示标题 — 视频停在尾帧, 选项浮在画面上, 点击直接进下一段. 视觉血脉 Steven Klein editorial fashion + Helmut Newton 暗光. 极简对白, 张力在 gaze + 距离 + 一个不该在那的痕迹. 一次走完 25-40s.",
+    "url": "https://yinxinghuan.github.io/the-photographer/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-photographer.png"
+  },
+  {
     "id": "alteru-press-almanac",
     "uuid": "e9f7bd13-eb7a-488e-860e-67ad11bd78cd",
     "name": "AlterU Press · Almanac",
