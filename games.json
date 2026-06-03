@@ -1,5 +1,14 @@
 [
   {
+    "id": "alteru-press-almanac",
+    "uuid": "e9f7bd13-eb7a-488e-860e-67ad11bd78cd",
+    "name": "AlterU Press · Almanac",
+    "description": "AlterU Press 工具化系列第 02 号 · Almanac (历书)。每天打开一页今日历书 — 农历 / 干支 / 节气 / 日月升落 / 宜忌 / 历史上的今天 / 编辑短语。日期数据全平台共享, 每日 hero 插图按 19 世纪自然史风格生成 (节气物候 + 月相), 每个用户给当天盖一句一行的章, 章在墙上跟其他用户的混合排列。文化基底走中式黑历 + 西式 astronomy + AlterU 宇宙虚构事件混排。",
+    "url": "https://yinxinghuan.github.io/alteru-press/tools/almanac/",
+    "poster": "https://yinxinghuan.github.io/games/posters/alteru-press-almanac.png",
+    "zipurl": "https://github.com/yinxinghuan/alteru-press/archive/refs/heads/main.zip"
+  },
+  {
     "id": "mykonos-five-days",
     "uuid": "9abf09b9-e939-44ad-9a6c-e510c5ff44b5",
     "name": "Mykonos Five Days",
