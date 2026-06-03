@@ -1,5 +1,13 @@
 [
   {
+    "id": "house-of-the-moon",
+    "uuid": "8369fd5b-9592-4ee4-97c0-0eaaae0caee6",
+    "name": "House of the Moon",
+    "description": "AlterU After Dark FMV v3 第 3 作 — 1920s 横滨, 你是住在山手洋館里的不老主人, 22 岁日本女作家 Kirie 在雷雨夜带着关于你的手稿来到你的书房. 5 分钟一次烛光对谈, 3 层选择, 8 个结局 (3 sensual + 5 全超现实 horror). 视觉血脉 Yoshitaka Amano / Vampire Hunter D / Belladonna of Sadness — 80s 哥特 anime, 紫电雷雨 + 烛火金 + 紫绛深红. 极少对白, 张力在选择 + 等待 + 一个不该在的细节. 一次走完 30-40s.",
+    "url": "https://yinxinghuan.github.io/house-of-the-moon/",
+    "poster": "https://yinxinghuan.github.io/games/posters/house-of-the-moon.png"
+  },
+  {
     "id": "the-couturier",
     "uuid": "aae043f3-374b-49ba-8270-6bee102dc046",
     "name": "The Couturier",
