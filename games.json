@@ -1,5 +1,13 @@
 [
   {
+    "id": "the-locksmith",
+    "uuid": "fc1d9184-d9ba-4662-9226-f171fbca7b58",
+    "name": "The Locksmith",
+    "description": "AlterU After Dark FMV v3 第 5 作 — 凌晨 3:40 你是 24h 应急锁匠被叫到老破公寓, 30s 陌生女人说自己反锁在屋外, 但她身后的门从里面是开的. 5 分钟单一封闭场景 (走廊 + 玄关), 3 层选择 (信疑 / 进退 / 推撤), 8 个结局 (4 sensual 廉价密会 + 4 horror 真实犯罪). 全写实寄存器 — 真人 / 真实伤害 / 真实同伙, 无超自然. 视觉血脉 painterly indie game illustration + AlterU 品牌粉紫 palette. 一次走完 30-40s.",
+    "url": "https://yinxinghuan.github.io/the-locksmith/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-locksmith.png"
+  },
+  {
     "id": "the-midnight-dinner",
     "uuid": "8c049aa5-eaea-47c3-8b62-86d6fd100dd5",
     "name": "The Midnight Dinner",
@@ -38,6 +46,14 @@
     "description": "AlterU After Dark FMV v3 第 1 作 — 决策树短分支实验。你是时装摄影师, 25 岁华裔美国女模 Lin Wei 站在 cyclorama 上等你指导. 5 分钟的私人拍摄, 3 层选择, 8 个结局 (4 sensual + 4 wrong). 视频之间不切场不展示标题 — 视频停在尾帧, 选项浮在画面上, 点击直接进下一段. 视觉血脉 Steven Klein editorial fashion + Helmut Newton 暗光. 极简对白, 张力在 gaze + 距离 + 一个不该在那的痕迹. 一次走完 25-40s.",
     "url": "https://yinxinghuan.github.io/the-photographer/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-photographer.png"
+  },
+  {
+    "id": "late-check-in",
+    "uuid": "fe2ebbc6-44e6-4106-9f42-c28dc5c5c817",
+    "name": "Late Check-in",
+    "description": "AlterU After Dark FMV v3 第 6 作 — 凌晨 3 点你是出差住进中端酒店的男人, 房间里有个早三十、利落黑色齐下巴 bob + 齐刘海、灰眸、穿白色 satin 吊带的女人坐在床沿。第一人称 POV, 单一封闭场景, 5 分钟, 3 层选择 (走近她 / 拿起电话; 触碰 / 镜子; 空床窗影 / 墙裂), 8 个结局 (3 sensual + 5 全超现实 horror)。全超现实寄存器 — 镜中无脸倒影 / 空白面具 / 墙缝伸手 / 窗内尖叫脸 / 无限复制走廊, 每个恐怖都是明确异象。视觉血脉 painterly indie illustration + AlterU 粉紫 palette (#F5B1C7 + #7700A1)。视频不切场, 选项浮在尾帧点击直接进下一段。一次走完 30-40s.",
+    "url": "https://yinxinghuan.github.io/late-check-in/",
+    "poster": "https://yinxinghuan.github.io/games/posters/late-check-in.png"
   },
   {
     "id": "alteru-press-almanac",
