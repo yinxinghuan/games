@@ -767,5 +767,13 @@
     "url": "https://yinxinghuan.github.io/pet-filter/",
     "poster": "https://yinxinghuan.github.io/games/posters/pet-filter.png",
     "zipurl": "https://github.com/yinxinghuan/pet-filter/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "the-stand-in",
+    "uuid": "6e3243d3-0402-4729-aa39-805ba7419a94",
+    "name": "The Stand-In",
+    "description": "AlterU After Dark 社交小游戏「替身」—— 你入睡时，账号被一位在线好友租用，他们以你的身份发帖、改写你的 bio；清晨醒来，你逐条审判昨夜以你之名做下的事（认领 / 撇清，撇清者只留下一句「替身曾在此」）。半日冷却的每日回访节奏。墙优先：趁好友沉睡时，你也能替 ta 上场，在 ta 的页上落笔。视觉血脉 3AM 胶片——暖黑、颗粒、漏光、衬线斜体、米色判决纸与蜡封。",
+    "url": "https://yinxinghuan.github.io/the-stand-in/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-stand-in.png"
   }
 ]
