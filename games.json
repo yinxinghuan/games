@@ -1,5 +1,13 @@
 [
   {
+    "id": "the-midnight-dinner",
+    "uuid": "8c049aa5-eaea-47c3-8b62-86d6fd100dd5",
+    "name": "The Midnight Dinner",
+    "description": "AlterU After Dark V1 框架 — 单一场景 + 5 hotspot + 1 ending. 一间红绒幕的私人餐厅, 长桌远端坐着一个黑人女剪影; 你这一头桌面散着 5 件物事: 中学笔记本 / 咖啡杯 / 红酒杯 / 烟灰缸 / 银锁. 每件物事属于一个不同年龄的你 (18 / 25 / 32 / 40 / 50). 点物事 → 那个年龄的你出现说一句话. 5 句说完, 远端剪影站起来沿桌走过来 — 走到面前时已经是 50 岁的你. 视觉血脉 Frank Miller Sin City B&W + 红 accent. 一次走完 1-2 分钟.",
+    "url": "https://yinxinghuan.github.io/the-midnight-dinner/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-midnight-dinner.png"
+  },
+  {
     "id": "the-audition",
     "uuid": "70c6970b-89ac-4851-839d-537dccb5fa22",
     "name": "The Audition",
