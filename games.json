@@ -1,5 +1,14 @@
 [
   {
+    "id": "the-seal-press",
+    "uuid": "7cc54a75-febb-4f96-8eb0-3319b8f94057",
+    "name": "The Seal Press",
+    "description": "未来考古学的护身符。每晚写一句话 (或留白让宇宙替你说), AI 把它刻进一枚陶印 — 形状 / 材质 / 图样全部随机, 每张独一无二 (古陶红 / 琥珀 / 白瓷 / 青灰 / 黑曜石; 圆盘 / 六边 / 拱顶 / 卷轴; 偶尔带破损纹). 中央图样也可能是当代物 (手机 / 球鞋 / 咖啡杯 / WiFi 信号), 跟古意冲突。Field 是公共考古场, 看别人埋下的 seal; Altar 是你自己的收藏。每日 3 次 press 配额。AlterU 系列。",
+    "url": "https://yinxinghuan.github.io/the-seal-press/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-seal-press.png",
+    "zipurl": "https://github.com/yinxinghuan/the-seal-press/archive/refs/heads/master.zip"
+  },
+  {
     "id": "the-daily-arcana",
     "uuid": "b9f9960b-b462-491c-abb5-1a9f410cea93",
     "name": "The Daily Arcana",
