@@ -1,5 +1,13 @@
 [
   {
+    "id": "last-train",
+    "uuid": "17a76a17-4b27-4666-b264-0982116f6012",
+    "name": "Last Train",
+    "description": "AlterU After Dark V1 框架「末班车」—— 凌晨 3:47 你坐在空荡的末班地铁车厢, 第一人称 POV, 对面坐着一个雨夜淋湿的女人。单一封闭场景驻足探索: 在车厢里点 5 个地方 (线路图 / 车窗 / 对座的她 / 车门 / 身旁空座), 每点一处播一段 ~5s clip + 一句独白, 从暧昧 (玻璃里她的倒影已在看你 / 湿发的微笑) 一路滑向不对劲 (每一站都是这一站 / 门从没开过 / 她什么时候坐到你身边)。5 处看完 → 末班车终于减速进站 → 高潮: 门开向同一节车厢,『这是你的站, 一直都是』。sensual↔horror 二元、全超现实寄存器。Violet Hour 画风 (painterly anime/webtoon + AlterU 粉#F5B1C7 紫#7700A1 霓虹)。一次走完约 40s。",
+    "url": "https://yinxinghuan.github.io/last-train/",
+    "poster": "https://yinxinghuan.github.io/games/posters/last-train.png"
+  },
+  {
     "id": "the-locksmith",
     "uuid": "fc1d9184-d9ba-4662-9226-f171fbca7b58",
     "name": "The Locksmith",
