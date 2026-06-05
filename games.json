@@ -1,5 +1,13 @@
 [
   {
+    "id": "going-down",
+    "uuid": "978cba7e-6008-4dbf-8ab9-406bcc8c159d",
+    "name": "Going Down",
+    "description": "AlterU After Dark V1 框架「下行」—— 凌晨 2:14 你独自站在一部夜行电梯里, 第一人称 POV, 角落站着一个一动不动的同乘人。单一封闭场景驻足探索: 在轿厢里点 5 个地方 (按钮面板 / 镜面墙 / 同乘的人 / 电梯门 / 紧急电话), 每点一处播一段 ~5s clip + 一句独白, 从暧昧滑向不对劲 (数字一直往下跳过不存在的楼层 / 镜子里的我们比进来的还多 / 他的眼睛是你的 / 每一层都是同一条走廊 / 电话里是你自己的声音从更下面打上来)。5 处看完 → 电梯终于停稳 → 高潮: 门在最底层打开,『你一直都在往这里来』。sensual↔horror 二元、全超现实寄存器。Violet Hour 画风 (painterly anime/webtoon + AlterU 粉#F5B1C7 紫#7700A1 霓虹)。一次走完约 40s。",
+    "url": "https://yinxinghuan.github.io/going-down/",
+    "poster": "https://yinxinghuan.github.io/games/posters/going-down.png"
+  },
+  {
     "id": "last-train",
     "uuid": "17a76a17-4b27-4666-b264-0982116f6012",
     "name": "Last Train",
