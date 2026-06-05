@@ -1,19 +1,19 @@
 [
   {
-    "id": "the-stand-in",
-    "uuid": "6e3243d3-0402-4729-aa39-805ba7419a94",
-    "name": "The Stand-In",
-    "description": "AlterU After Dark 社交小游戏「替身」—— 你入睡时，账号被一位在线好友租用，他们以你的身份发帖、改写你的 bio；清晨醒来，你逐条审判昨夜以你之名做下的事（认领 / 撇清，撇清者只留下一句「替身曾在此」）。半日冷却的每日回访节奏。墙优先：趁好友沉睡时，你也能替 ta 上场，在 ta 的页上落笔。视觉血脉 3AM 胶片——暖黑、颗粒、漏光、衬线斜体、米色判决纸与蜡封。",
-    "url": "https://yinxinghuan.github.io/the-stand-in/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-stand-in.png"
-  },
-  {
     "id": "the-locksmith",
     "uuid": "fc1d9184-d9ba-4662-9226-f171fbca7b58",
     "name": "The Locksmith",
     "description": "AlterU After Dark FMV v3 第 5 作 — 凌晨 3:40 你是 24h 应急锁匠被叫到老破公寓, 30s 陌生女人说自己反锁在屋外, 但她身后的门从里面是开的. 5 分钟单一封闭场景 (走廊 + 玄关), 3 层选择 (信疑 / 进退 / 推撤), 8 个结局 (4 sensual 廉价密会 + 4 horror 真实犯罪). 全写实寄存器 — 真人 / 真实伤害 / 真实同伙, 无超自然. 视觉血脉 painterly indie game illustration + AlterU 品牌粉紫 palette. 一次走完 30-40s.",
     "url": "https://yinxinghuan.github.io/the-locksmith/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-locksmith.png"
+  },
+  {
+    "id": "the-stand-in",
+    "uuid": "6e3243d3-0402-4729-aa39-805ba7419a94",
+    "name": "The Stand-In",
+    "description": "AlterU After Dark 社交小游戏「替身」—— 你入睡时，账号被一位在线好友租用，他们以你的身份发帖、改写你的 bio；清晨醒来，你逐条审判昨夜以你之名做下的事（认领 / 撇清，撇清者只留下一句「替身曾在此」）。半日冷却的每日回访节奏。墙优先：趁好友沉睡时，你也能替 ta 上场，在 ta 的页上落笔。视觉血脉 3AM 胶片——暖黑、颗粒、漏光、衬线斜体、米色判决纸与蜡封。",
+    "url": "https://yinxinghuan.github.io/the-stand-in/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-stand-in.png"
   },
   {
     "id": "the-midnight-dinner",
