@@ -1,5 +1,13 @@
 [
   {
+    "id": "hold-it-together",
+    "uuid": "0e8a0ea2-43ac-417a-a534-bc3add3e2fbf",
+    "name": "Hold It Together",
+    "description": "AlterU After Dark「撑住别崩」—— 当代内耗生存模拟。Reigns 式左右滑卡做选择: 老板深夜的消息 / 老妈催婚 / 房东涨租 / 同事甩锅 / 前任的朋友圈……每张卡两个选项, 选哪个都得拿一样东西去换另一样 —— 心力(精神)和钱包此消彼长, 没有免费的午餐。卡中央那张脸就是你自己, 心力越掉脸越垮: 状态在线 → 略微疲惫 → 精神内耗 → 一点就炸 → 已崩(转圈圈眼 + 无声尖叫), 11 个阶段全程一个人崩坏给你看。任何一条归零就 game over, 比谁撑得久(天数)。即点即懂, 无需教程。",
+    "url": "https://yinxinghuan.github.io/hold-it-together/",
+    "poster": "https://yinxinghuan.github.io/games/posters/hold-it-together.png"
+  },
+  {
     "id": "hour-capsule",
     "uuid": "d62fb4ed-f453-4751-94af-40477c0eaa30",
     "name": "Hour Capsule",
