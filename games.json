@@ -1,5 +1,13 @@
 [
   {
+    "id": "hour-capsule",
+    "uuid": "d62fb4ed-f453-4751-94af-40477c0eaa30",
+    "name": "Hour Capsule",
+    "description": "每小时收一个时间胶囊。AI 根据当前世界、当前小时、你和其他玩家最近抽到的东西，决定下一个该被装进真空袋的物品 — 第一原则是多元（同一小时永不重复）。每袋自动烧上 MFG 生产时间戳、左下 α 角标、右下你的用户名和编号，呈现产品摄影质感的真空塑料袋。Field 是公共陈列墙、Capsule 是你自己的藏品。AlterU After Dark 系列。",
+    "url": "https://yinxinghuan.github.io/hour-capsule/",
+    "poster": "https://yinxinghuan.github.io/games/posters/hour-capsule.png"
+  },
+  {
     "id": "build-a-boyfriend",
     "uuid": "e3afec83-ebf2-46a2-bf0a-6e2444f1b9c4",
     "name": "Build-a-Boyfriend",
