@@ -861,8 +861,8 @@
   {
     "id": "shelf-it",
     "uuid": "29a034cf-3a7d-4bee-b1e3-a3c6aeecc820",
-    "name": "陈列经营",
-    "description": "低多边形等距小超市经营 — 每天选一款主打商品，看着货架被买空，雇店员补货、调价、做促销，努力在 60 秒一天里把净资产堆到目标线。即点即玩的 3D 经营玩具：货架空了点一下补货，钱不够了破产重开。资产排行榜比拼谁的店开得最大。Family-B 矢量体素美术，漫画风 HUD。AlterU 系列。",
+    "name": "Shelf It",
+    "description": "低多边形等距小超市经营 — 货架被买空就点一下补货，雇店员、调价、做促销，在一天 60 秒里把净资产堆到目标线，逐关开出你自己的连锁分店。即点即玩的 3D 经营玩具，资产排行榜比拼谁的店开得最大。Family-B 矢量体素美术，漫画风 HUD。AlterU 系列。",
     "url": "https://yinxinghuan.github.io/shelf-it/",
     "poster": "https://yinxinghuan.github.io/games/posters/shelf-it.png",
     "zipurl": "https://github.com/yinxinghuan/shelf-it/archive/refs/heads/master.zip"
