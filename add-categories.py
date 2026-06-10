@@ -120,6 +120,7 @@ CATEGORIES = {
     'shelf-it': 'simulation',
 
     # Tool — AlterU Press utilities, AI generators, music makers
+    'fit-check': 'tool',
     'alteru-press-almanac': 'tool',
     'alteru-press-field-guide': 'tool',
     'meow-machine': 'tool',
