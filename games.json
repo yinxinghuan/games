@@ -1,5 +1,15 @@
 [
   {
+    "id": "block-hop",
+    "uuid": "c9b8ddee-eb37-4a12-baa4-5793c612dd3f",
+    "name": "Block Hop",
+    "category": "action",
+    "description": "TikTok feed 上的等距 voxel 跳格过马路 — 点屏跳一步, 划屏换向, 黄出租和 F 线地铁会把你压成一片, 过河必须站木头, 镜头追上 = 完。复用 Shelf It 同款 Family-B 矢量体素角色, NYC 街头主题。距离排行榜。AlterU action 系列首发。",
+    "url": "https://yinxinghuan.github.io/block-hop/",
+    "poster": "https://yinxinghuan.github.io/games/posters/block-hop.png",
+    "zipurl": "https://github.com/yinxinghuan/block-hop/archive/refs/heads/master.zip"
+  },
+  {
     "id": "fit-check",
     "uuid": "a422c5ab-e846-42d0-a34b-1d7fd31ea257",
     "name": "Fit Check",
