@@ -80,8 +80,7 @@
     "category": "casual",
     "description": "每日一抽 Major Arcana 塔罗。22 张主牌, AI 把你画进牌面 (The Lover / The Fool / The Star / The Tower ...), 翻牌时附一句为你解读, 收藏页累计凑齐 22 张。本地每日一次, 跨日复返再抽。深紫黑底 + 烫金描边 + 米色卡面的古典塔罗气质。AlterU 系列。",
     "url": "https://yinxinghuan.github.io/the-daily-arcana/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-daily-arcana.png",
-    "zipurl": "https://github.com/yinxinghuan/the-daily-arcana/archive/refs/heads/master.zip"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-daily-arcana.png"
   },
   {
     "id": "going-down",
