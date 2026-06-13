@@ -6,7 +6,8 @@
     "category": "action",
     "description": "AlterU action 系列 · 梦幻天空蓄力跳。按住蓄力、松手沿抛物线跃上下一根悬空粉柱，落正中心连击金光，踩空坠入云海。低多边形正交视角 + 多角色英雄 + 磨砂玻璃 UI，单手单键即点即玩。距离排行榜。",
     "url": "https://yinxinghuan.github.io/sky-leap/",
-    "poster": "https://yinxinghuan.github.io/games/posters/sky-leap.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/sky-leap.png",
+    "zipurl": "https://github.com/yinxinghuan/sky-leap/archive/refs/heads/master.zip"
   },
   {
     "id": "block-hop",
@@ -25,7 +26,8 @@
     "category": "tool",
     "description": "AlterU After Dark 工具系列 · 拍一件你衣柜里的东西，AI 当 stylist 给你一张真 styling brief —— category / era / archetype / KEEP-or-TOSS verdict / vibe_line + 具体单品搭配清单（Levi's 501 / Bass Weejun penny loafer 那种级别的真品牌）+ 场合 + 参照（真人真品牌）+ 保养。或者一句 'toss 了吧' + 让你死心的理由 + 处理建议。编辑杂志感视觉（Playfair Display + 热粉色衬线 italic），cream paper底。每张卡都是可截图保存的真情报。",
     "url": "https://yinxinghuan.github.io/fit-check/",
-    "poster": "https://yinxinghuan.github.io/games/posters/fit-check.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/fit-check.png",
+    "zipurl": "https://github.com/yinxinghuan/fit-check/archive/refs/heads/master.zip"
   },
   {
     "id": "trash-or-treasure",
@@ -34,7 +36,8 @@
     "category": "casual",
     "description": "AlterU After Dark · 拍家里任何一样东西 — 剩饭 / 旧衣 / 抽屉里那根破充电线 — AI 替你拿主意, 一句话毒舌但温柔的判决: KEEP IT or TOSS IT. 你可以同意或者跟它抬杠, 它会回你一句小气话. 90 年代街机绿 + 热粉霓虹灯泡边框 + Bungee 字, 5 秒一局, 即点即懂. vision recognize 接口的首个原生原型游戏. v1 加二审庭: 点 ASK A FRIEND 把判决甩给朋友, 朋友的反驳判词通过 push 推回。",
     "url": "https://yinxinghuan.github.io/trash-or-treasure/",
-    "poster": "https://yinxinghuan.github.io/games/posters/trash-or-treasure.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/trash-or-treasure.png",
+    "zipurl": "https://github.com/yinxinghuan/trash-or-treasure/archive/refs/heads/master.zip"
   },
   {
     "id": "hold-it-together",
@@ -43,7 +46,8 @@
     "category": "casual",
     "description": "AlterU After Dark「撑住别崩」—— 当代内耗生存模拟。Reigns 式左右滑卡做选择: 老板深夜的消息 / 老妈催婚 / 房东涨租 / 同事甩锅 / 前任的朋友圈……每张卡两个选项, 选哪个都得拿一样东西去换另一样 —— 心力(精神)和钱包此消彼长, 没有免费的午餐。卡中央那张脸就是你自己, 心力越掉脸越垮: 状态在线 → 略微疲惫 → 精神内耗 → 一点就炸 → 已崩(转圈圈眼 + 无声尖叫), 11 个阶段全程一个人崩坏给你看。任何一条归零就 game over, 比谁撑得久(天数)。即点即懂, 无需教程。",
     "url": "https://yinxinghuan.github.io/hold-it-together/",
-    "poster": "https://yinxinghuan.github.io/games/posters/hold-it-together.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/hold-it-together.png",
+    "zipurl": "https://github.com/yinxinghuan/hold-it-together/archive/refs/heads/master.zip"
   },
   {
     "id": "hour-capsule",
@@ -52,7 +56,8 @@
     "category": "casual",
     "description": "每小时收一个时间胶囊。AI 根据当前世界、当前小时、你和其他玩家最近抽到的东西，决定下一个该被装进真空袋的物品 — 第一原则是多元（同一小时永不重复）。每袋自动烧上 MFG 生产时间戳、左下 α 角标、右下你的用户名和编号，呈现产品摄影质感的真空塑料袋。Field 是公共陈列墙、Capsule 是你自己的藏品。AlterU After Dark 系列。",
     "url": "https://yinxinghuan.github.io/hour-capsule/",
-    "poster": "https://yinxinghuan.github.io/games/posters/hour-capsule.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/hour-capsule.png",
+    "zipurl": "https://github.com/yinxinghuan/hour-capsule/archive/refs/heads/master.zip"
   },
   {
     "id": "build-a-boyfriend",
@@ -61,7 +66,8 @@
     "category": "puzzle",
     "description": "讽刺合成玩法 — Suika 物理合成「养成渣男」。从顶部掉落小渣男，同款相撞合并进化(点赞之交 → 半夜在吗 → 备胎 → 暧昧对象 → 正牌男友 → 未婚夫 → 老公 → 巨婴老公终极体)，堆过顶线就 game over，无尽刷分。每合一次蹦出新进化形态就是一个笑点。AlterU After Dark 讽刺机制系列。",
     "url": "https://yinxinghuan.github.io/build-a-boyfriend/",
-    "poster": "https://yinxinghuan.github.io/games/posters/build-a-boyfriend.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/build-a-boyfriend.png",
+    "zipurl": "https://github.com/yinxinghuan/build-a-boyfriend/archive/refs/heads/master.zip"
   },
   {
     "id": "last-pour",
@@ -70,7 +76,8 @@
     "category": "other",
     "description": "AlterU After Dark V1 框架「最后一杯」—— 凌晨 3:47 你推开一扇门, 走进一家**自 1887 年起就一直锁着**的老酒店地下吧台。哥特酒馆: 彩绘玻璃 / 古董金边镜 / 烛台 / magenta neon 吊灯。吧台后是 Vesper —— 看上去 25, 眼里几百年, porcelain 苍白皮肤, 黑天鹅绒高领 + choker, 暗酒红唇。单一封闭场景驻足探索: 点 5 个地方 (她手中的杯 / 她的脖颈 / 后吧古镜 / 你面前的 lowball / 角落烛台), 每点一处 ~5s 视频 + 一句独白, 每一处都是 2 秒可读的 wrong: 她往杯里倒的是**血** / 抬颌露出**两个针孔** / **古镜里没有她也没有你** / 你的杯里冰块上**漂着一颗牙齿** / 你的手伸向蜡烛**不投影**。5 处看完 → 她走出吧台, 举起一面古董手镜对着你 → 高潮: **镜子里你的嘴张开, 露出两颗白色长獠牙** —— 你才是她在等的那个吸血鬼。『Welcome home. Lock the door behind us. / 欢迎回家。把门——从里面锁上。』全超现实寄存器, Violet Hour 紫调 + 哥特 (粉#F5B1C7 + 紫#7700A1 + 深炭, painterly 数码插画, 同 going-down / last-train 一脉)。V1 系列首个加 procedural ambient (粉噪 + 58Hz sub + 偶发烛火微闪, 呼吸式 envelope + duck-on-monologue / cut-on-climax 跟 V1 节奏联动)。一次走完约 45s。",
     "url": "https://yinxinghuan.github.io/last-pour/",
-    "poster": "https://yinxinghuan.github.io/games/posters/last-pour.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/last-pour.png",
+    "zipurl": "https://github.com/yinxinghuan/last-pour/archive/refs/heads/master.zip"
   },
   {
     "id": "the-seal-press",
@@ -89,7 +96,8 @@
     "category": "casual",
     "description": "每日一抽 Major Arcana 塔罗。22 张主牌, AI 把你画进牌面 (The Lover / The Fool / The Star / The Tower ...), 翻牌时附一句为你解读, 收藏页累计凑齐 22 张。本地每日一次, 跨日复返再抽。深紫黑底 + 烫金描边 + 米色卡面的古典塔罗气质。AlterU 系列。",
     "url": "https://yinxinghuan.github.io/the-daily-arcana/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-daily-arcana.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-daily-arcana.png",
+    "zipurl": "https://github.com/yinxinghuan/the-daily-arcana/archive/refs/heads/master.zip"
   },
   {
     "id": "going-down",
@@ -98,7 +106,8 @@
     "category": "other",
     "description": "AlterU After Dark V1 框架「下行」—— 凌晨 2:14 你独自站在一部夜行电梯里, 第一人称 POV, 角落站着一个一动不动的同乘人。单一封闭场景驻足探索: 在轿厢里点 5 个地方 (按钮面板 / 镜面墙 / 同乘的人 / 电梯门 / 紧急电话), 每点一处播一段 ~5s clip + 一句独白, 从暧昧滑向不对劲 (数字一直往下跳过不存在的楼层 / 镜子里的我们比进来的还多 / 他的眼睛是你的 / 每一层都是同一条走廊 / 电话里是你自己的声音从更下面打上来)。5 处看完 → 电梯终于停稳 → 高潮: 门在最底层打开,『你一直都在往这里来』。sensual↔horror 二元、全超现实寄存器。Violet Hour 画风 (painterly anime/webtoon + AlterU 粉#F5B1C7 紫#7700A1 霓虹)。一次走完约 40s。",
     "url": "https://yinxinghuan.github.io/going-down/",
-    "poster": "https://yinxinghuan.github.io/games/posters/going-down.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/going-down.png",
+    "zipurl": "https://github.com/yinxinghuan/going-down/archive/refs/heads/master.zip"
   },
   {
     "id": "last-train",
@@ -107,7 +116,8 @@
     "category": "other",
     "description": "AlterU After Dark V1 框架「末班车」—— 凌晨 3:47 你坐在空荡的末班地铁车厢, 第一人称 POV, 对面坐着一个雨夜淋湿的女人。单一封闭场景驻足探索: 在车厢里点 5 个地方 (线路图 / 车窗 / 对座的她 / 车门 / 身旁空座), 每点一处播一段 ~5s clip + 一句独白, 从暧昧 (玻璃里她的倒影已在看你 / 湿发的微笑) 一路滑向不对劲 (每一站都是这一站 / 门从没开过 / 她什么时候坐到你身边)。5 处看完 → 末班车终于减速进站 → 高潮: 门开向同一节车厢,『这是你的站, 一直都是』。sensual↔horror 二元、全超现实寄存器。Violet Hour 画风 (painterly anime/webtoon + AlterU 粉#F5B1C7 紫#7700A1 霓虹)。一次走完约 40s。",
     "url": "https://yinxinghuan.github.io/last-train/",
-    "poster": "https://yinxinghuan.github.io/games/posters/last-train.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/last-train.png",
+    "zipurl": "https://github.com/yinxinghuan/last-train/archive/refs/heads/master.zip"
   },
   {
     "id": "the-locksmith",
@@ -116,7 +126,8 @@
     "category": "other",
     "description": "AlterU After Dark FMV v3 第 5 作 — 凌晨 3:40 你是 24h 应急锁匠被叫到老破公寓, 30s 陌生女人说自己反锁在屋外, 但她身后的门从里面是开的. 5 分钟单一封闭场景 (走廊 + 玄关), 3 层选择 (信疑 / 进退 / 推撤), 8 个结局 (4 sensual 廉价密会 + 4 horror 真实犯罪). 全写实寄存器 — 真人 / 真实伤害 / 真实同伙, 无超自然. 视觉血脉 painterly indie game illustration + AlterU 品牌粉紫 palette. 一次走完 30-40s.",
     "url": "https://yinxinghuan.github.io/the-locksmith/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-locksmith.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-locksmith.png",
+    "zipurl": "https://github.com/yinxinghuan/the-locksmith/archive/refs/heads/master.zip"
   },
   {
     "id": "the-stand-in",
@@ -125,7 +136,8 @@
     "category": "social",
     "description": "AlterU After Dark 社交小游戏「替身」—— 你入睡时，账号被一位在线好友租用，他们以你的身份发帖、改写你的 bio；清晨醒来，你逐条审判昨夜以你之名做下的事（认领 / 撇清，撇清者只留下一句「替身曾在此」）。半日冷却的每日回访节奏。墙优先：趁好友沉睡时，你也能替 ta 上场，在 ta 的页上落笔。视觉血脉 3AM 胶片——暖黑、颗粒、漏光、衬线斜体、米色判决纸与蜡封。",
     "url": "https://yinxinghuan.github.io/the-stand-in/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-stand-in.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-stand-in.png",
+    "zipurl": "https://github.com/yinxinghuan/the-stand-in/archive/refs/heads/master.zip"
   },
   {
     "id": "the-midnight-dinner",
@@ -134,7 +146,8 @@
     "category": "other",
     "description": "AlterU After Dark V1 框架 — 单一场景 + 5 hotspot + 1 ending. 一间红绒幕的私人餐厅, 长桌远端坐着一个黑人女剪影; 你这一头桌面散着 5 件物事: 中学笔记本 / 咖啡杯 / 红酒杯 / 烟灰缸 / 银锁. 每件物事属于一个不同年龄的你 (18 / 25 / 32 / 40 / 50). 点物事 → 那个年龄的你出现说一句话. 5 句说完, 远端剪影站起来沿桌走过来 — 走到面前时已经是 50 岁的你. 视觉血脉 Frank Miller Sin City B&W + 红 accent. 一次走完 1-2 分钟.",
     "url": "https://yinxinghuan.github.io/the-midnight-dinner/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-midnight-dinner.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-midnight-dinner.png",
+    "zipurl": "https://github.com/yinxinghuan/the-midnight-dinner/archive/refs/heads/master.zip"
   },
   {
     "id": "the-audition",
@@ -143,7 +156,8 @@
     "category": "other",
     "description": "AlterU After Dark FMV v3 第 4 作 — The Photographer 续集。Lin Wei 那批照片流出来六个月后, 22 岁波兰俄裔新模特 Elena Novak 带着你拍 Lin Wei 的样张来你的同一个 cyclorama 棚试镜, 想让你拍她拍出同样的感觉。她带了她自己的白色 silk slip dress (Lin Wei 是黑色)。3 层选择, 8 结局 (4 sensual + 4 horror) — 她可能是 Lin Wei 的 FIT 室友, 也可能她身上有 Lin Wei 同样的疤、知道 Lin Wei 你私下拍但没人见过的那一帧。视觉血脉同前作 Steven Klein.",
     "url": "https://yinxinghuan.github.io/the-audition/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-audition.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-audition.png",
+    "zipurl": "https://github.com/yinxinghuan/the-audition/archive/refs/heads/master.zip"
   },
   {
     "id": "house-of-the-moon",
@@ -152,7 +166,8 @@
     "category": "other",
     "description": "AlterU After Dark FMV v3 第 3 作 — 1920s 横滨, 你是住在山手洋館里的不老主人, 22 岁日本女作家 Kirie 在雷雨夜带着关于你的手稿来到你的书房. 5 分钟一次烛光对谈, 3 层选择, 8 个结局 (3 sensual + 5 全超现实 horror). 视觉血脉 Yoshitaka Amano / Vampire Hunter D / Belladonna of Sadness — 80s 哥特 anime, 紫电雷雨 + 烛火金 + 紫绛深红. 极少对白, 张力在选择 + 等待 + 一个不该在的细节. 一次走完 30-40s.",
     "url": "https://yinxinghuan.github.io/house-of-the-moon/",
-    "poster": "https://yinxinghuan.github.io/games/posters/house-of-the-moon.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/house-of-the-moon.png",
+    "zipurl": "https://github.com/yinxinghuan/house-of-the-moon/archive/refs/heads/master.zip"
   },
   {
     "id": "the-couturier",
@@ -161,7 +176,8 @@
     "category": "other",
     "description": "AlterU After Dark FMV v3 第 2 作 — 你是巴黎 atelier 高定裁缝, 28 岁华裔准新娘 Yu Han 婚礼前 6 天最后一次试衣, 半成品奶白 muslin 钉在她身上. 5 分钟一次最后调整, 3 层选择, 8 个结局. 三面镜是天然 horror 装置 — 偶尔有一面会不对劲. 视觉血脉 Helmut Newton b&w + 微 tungsten 暖 undertone. 视频不切场, 选项浮在尾帧上点击直接进下一段. 一次走完 30-40s.",
     "url": "https://yinxinghuan.github.io/the-couturier/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-couturier.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-couturier.png",
+    "zipurl": "https://github.com/yinxinghuan/the-couturier/archive/refs/heads/master.zip"
   },
   {
     "id": "the-photographer",
@@ -170,7 +186,8 @@
     "category": "other",
     "description": "AlterU After Dark FMV v3 第 1 作 — 决策树短分支实验。你是时装摄影师, 25 岁华裔美国女模 Lin Wei 站在 cyclorama 上等你指导. 5 分钟的私人拍摄, 3 层选择, 8 个结局 (4 sensual + 4 wrong). 视频之间不切场不展示标题 — 视频停在尾帧, 选项浮在画面上, 点击直接进下一段. 视觉血脉 Steven Klein editorial fashion + Helmut Newton 暗光. 极简对白, 张力在 gaze + 距离 + 一个不该在那的痕迹. 一次走完 25-40s.",
     "url": "https://yinxinghuan.github.io/the-photographer/",
-    "poster": "https://yinxinghuan.github.io/games/posters/the-photographer.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/the-photographer.png",
+    "zipurl": "https://github.com/yinxinghuan/the-photographer/archive/refs/heads/master.zip"
   },
   {
     "id": "late-check-in",
@@ -179,7 +196,8 @@
     "category": "other",
     "description": "AlterU After Dark FMV v3 第 6 作 — 凌晨 3 点你是出差住进中端酒店的男人, 房间里有个早三十、利落黑色齐下巴 bob + 齐刘海、灰眸、穿白色 satin 吊带的女人坐在床沿。第一人称 POV, 单一封闭场景, 5 分钟, 3 层选择 (走近她 / 拿起电话; 触碰 / 镜子; 空床窗影 / 墙裂), 8 个结局 (2 sensual + 6 全超现实 horror)。全超现实寄存器 — 镜中无脸倒影 / 空白面具 / 墙缝伸手 / 窗内尖叫脸 / 无限复制走廊, 每个恐怖都是明确异象。视觉血脉 painterly indie illustration + AlterU 粉紫 palette (#F5B1C7 + #7700A1)。视频不切场, 选项浮在尾帧点击直接进下一段。一次走完 30-40s.",
     "url": "https://yinxinghuan.github.io/late-check-in/",
-    "poster": "https://yinxinghuan.github.io/games/posters/late-check-in.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/late-check-in.png",
+    "zipurl": "https://github.com/yinxinghuan/late-check-in/archive/refs/heads/master.zip"
   },
   {
     "id": "alteru-press-almanac",
