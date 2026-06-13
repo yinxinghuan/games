@@ -4,10 +4,9 @@
     "uuid": "eefd9179-7b36-4440-8b73-0cb1ea4e153e",
     "name": "Sky Leap",
     "category": "action",
-    "description": "AlterU action 系列 · 天空遗迹蓄力跳。按住蓄力、松手抛物线跳到下一块漂浮石台，落正中心连击金光，跳歪坠入云海。神庙跑酷追尾镜头 + 低多边形天空遗迹，单手单键即点即玩。距离排行榜。",
+    "description": "AlterU action 系列 · 梦幻天空蓄力跳。按住蓄力、松手沿抛物线跃上下一根悬空粉柱，落正中心连击金光，踩空坠入云海。低多边形正交视角 + 多角色英雄 + 磨砂玻璃 UI，单手单键即点即玩。距离排行榜。",
     "url": "https://yinxinghuan.github.io/sky-leap/",
-    "poster": "https://yinxinghuan.github.io/games/posters/sky-leap.png",
-    "zipurl": "https://github.com/yinxinghuan/sky-leap/archive/refs/heads/master.zip"
+    "poster": "https://yinxinghuan.github.io/games/posters/sky-leap.png"
   },
   {
     "id": "block-hop",
