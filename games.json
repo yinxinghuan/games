@@ -520,6 +520,16 @@
     "zipurl": "https://github.com/yinxinghuan/lantern/archive/refs/heads/master.zip"
   },
   {
+    "id": "block-party",
+    "uuid": "a05f9358-8229-40e9-addd-911f3dfd3f6e",
+    "name": "Block Party",
+    "category": "action",
+    "description": "AlterU After Dark · 俯视角自动射击僵尸生存. 摇杆走位, 主角自动锁最近的僵尸开火. 3 心血量, 撑过 Night 1/2/3 + boss 通关. 杀僵尸掉绿 XP 宝石走过去就吸. 复用 _lowpoly_lab 怪物 + 角色 roster, 街区夜幕调色, 单局 ~3 分钟. Vampire Survivors / Brotato 玩法 + AlterU graveyard-shift 设定.",
+    "url": "https://yinxinghuan.github.io/block-party/",
+    "poster": "https://yinxinghuan.github.io/games/posters/block-party.png",
+    "zipurl": "https://github.com/yinxinghuan/block-party/archive/refs/heads/master.zip"
+  },
+  {
     "id": "frosted-window",
     "uuid": "1f9d3ce7-4ded-4ab1-8556-58310a8e5b29",
     "name": "Frosted Window",
