@@ -1018,5 +1018,15 @@
     "url": "https://yinxinghuan.github.io/shelf-it/",
     "poster": "https://yinxinghuan.github.io/games/posters/shelf-it.png",
     "zipurl": "https://github.com/yinxinghuan/shelf-it/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "river-row",
+    "uuid": "b350254a-9cee-4006-93ac-b74a15e63278",
+    "name": "River Row",
+    "category": "action",
+    "description": "AlterU action 系列 · 无尽划船 runner。拖屏左右转向，自动顺流前进，撞礁翻船，捡莲花叶连击加分。船穿过石拱门一段段切换生态：苔石翠水温带河谷 → 红土峡谷急流 → 再回温带。Tidal Survival 那种 painterly 块面水面 + 球形地平线远景沉雾，30 角色 roster 每局随机一个上船划桨。距离排行榜。",
+    "url": "https://yinxinghuan.github.io/river-row/",
+    "poster": "https://yinxinghuan.github.io/games/posters/river-row.png",
+    "zipurl": "https://github.com/yinxinghuan/river-row/archive/refs/heads/master.zip"
   }
 ]

@@ -91,6 +91,7 @@ CATEGORIES = {
     'pet-filter': 'social',
 
     # Action — real-time reflex, brawler, runner, rhythm
+    'river-row': 'action',
     'block-hop': 'action',
     'vital-signs': 'action',
     'corner-office': 'action',
