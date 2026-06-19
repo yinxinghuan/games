@@ -24,7 +24,7 @@
     "uuid": "a422c5ab-e846-42d0-a34b-1d7fd31ea257",
     "name": "Fit Check",
     "category": "tool",
-    "description": "AlterU After Dark 工具系列 · 拍一件你衣柜里的东西，AI 当 stylist 给你一张真 styling brief —— category / era / archetype / KEEP-or-TOSS verdict / vibe_line + 具体单品搭配清单（Levi's 501 / Bass Weejun penny loafer 那种级别的真品牌）+ 场合 + 参照（真人真品牌）+ 保养。或者一句 'toss 了吧' + 让你死心的理由 + 处理建议。编辑杂志感视觉（Playfair Display + 热粉色衬线 italic），cream paper底。每张卡都是可截图保存的真情报。",
+    "description": "AlterU After Dark 工具 · 拍一件衣柜里的东西, AI 当 stylist 给你一张真 styling brief: category / era / archetype / KEEP-or-TOSS + 一句 vibe + 真品牌搭配清单 (Levi's 501、Bass Weejun 级别) + 场合 + 保养。或『toss 吧』+ 让你死心的理由。可截图保存。",
     "url": "https://yinxinghuan.github.io/fit-check/",
     "poster": "https://yinxinghuan.github.io/games/posters/fit-check.png",
     "zipurl": "https://github.com/yinxinghuan/fit-check/archive/refs/heads/master.zip"
@@ -44,7 +44,7 @@
     "uuid": "0e8a0ea2-43ac-417a-a534-bc3add3e2fbf",
     "name": "Hold It Together",
     "category": "casual",
-    "description": "AlterU After Dark「撑住别崩」—— 当代内耗生存模拟。Reigns 式左右滑卡做选择: 老板深夜的消息 / 老妈催婚 / 房东涨租 / 同事甩锅 / 前任的朋友圈……每张卡两个选项, 选哪个都得拿一样东西去换另一样 —— 心力(精神)和钱包此消彼长, 没有免费的午餐。卡中央那张脸就是你自己, 心力越掉脸越垮: 状态在线 → 略微疲惫 → 精神内耗 → 一点就炸 → 已崩(转圈圈眼 + 无声尖叫), 11 个阶段全程一个人崩坏给你看。任何一条归零就 game over, 比谁撑得久(天数)。即点即懂, 无需教程。",
+    "description": "AlterU After Dark「撑住别崩」—— 内耗生存模拟。Reigns 式左右滑卡: 老板深夜消息/老妈催婚/房东涨租/同事甩锅……每张卡两个选项, 选哪个都得拿一样换另一样, 心力与钱包此消彼长。卡中央那张脸就是你, 心力越掉脸越垮 (在线→疲惫→内耗→一点就炸→已崩), 任一归零 game over, 比谁撑得久。即点即懂。",
     "url": "https://yinxinghuan.github.io/hold-it-together/",
     "poster": "https://yinxinghuan.github.io/games/posters/hold-it-together.png",
     "zipurl": "https://github.com/yinxinghuan/hold-it-together/archive/refs/heads/master.zip"
@@ -74,7 +74,7 @@
     "uuid": "5231243e-9871-4ee6-8ae1-421bb178597e",
     "name": "Last Pour",
     "category": "other",
-    "description": "AlterU After Dark V1 框架「最后一杯」—— 凌晨 3:47 你推开一扇门, 走进一家**自 1887 年起就一直锁着**的老酒店地下吧台。哥特酒馆: 彩绘玻璃 / 古董金边镜 / 烛台 / magenta neon 吊灯。吧台后是 Vesper —— 看上去 25, 眼里几百年, porcelain 苍白皮肤, 黑天鹅绒高领 + choker, 暗酒红唇。单一封闭场景驻足探索: 点 5 个地方 (她手中的杯 / 她的脖颈 / 后吧古镜 / 你面前的 lowball / 角落烛台), 每点一处 ~5s 视频 + 一句独白, 每一处都是 2 秒可读的 wrong: 她往杯里倒的是**血** / 抬颌露出**两个针孔** / **古镜里没有她也没有你** / 你的杯里冰块上**漂着一颗牙齿** / 你的手伸向蜡烛**不投影**。5 处看完 → 她走出吧台, 举起一面古董手镜对着你 → 高潮: **镜子里你的嘴张开, 露出两颗白色长獠牙** —— 你才是她在等的那个吸血鬼。『Welcome home. Lock the door behind us. / 欢迎回家。把门——从里面锁上。』全超现实寄存器, Violet Hour 紫调 + 哥特 (粉#F5B1C7 + 紫#7700A1 + 深炭, painterly 数码插画, 同 going-down / last-train 一脉)。V1 系列首个加 procedural ambient (粉噪 + 58Hz sub + 偶发烛火微闪, 呼吸式 envelope + duck-on-monologue / cut-on-climax 跟 V1 节奏联动)。一次走完约 45s。",
+    "description": "V1「最后一杯」—— 凌晨 3:47 你走进锁了百年的老酒店地下吧台, 吧台后是吸血鬼 Vesper。点 5 处 (杯/脖颈/古镜/你的酒/烛台), 每处一段视频 + 独白, 都是 2 秒可读的不对: 倒的是血、两个针孔、镜中无人、冰上漂牙、手不投影。看完她举镜照你——你也有獠牙。哥特粉紫超现实, 约 45s。AlterU After Dark。",
     "url": "https://yinxinghuan.github.io/last-pour/",
     "poster": "https://yinxinghuan.github.io/games/posters/last-pour.png",
     "zipurl": "https://github.com/yinxinghuan/last-pour/archive/refs/heads/master.zip"
@@ -104,7 +104,7 @@
     "uuid": "978cba7e-6008-4dbf-8ab9-406bcc8c159d",
     "name": "Going Down",
     "category": "other",
-    "description": "AlterU After Dark V1 框架「下行」—— 凌晨 2:14 你独自站在一部夜行电梯里, 第一人称 POV, 角落站着一个一动不动的同乘人。单一封闭场景驻足探索: 在轿厢里点 5 个地方 (按钮面板 / 镜面墙 / 同乘的人 / 电梯门 / 紧急电话), 每点一处播一段 ~5s clip + 一句独白, 从暧昧滑向不对劲 (数字一直往下跳过不存在的楼层 / 镜子里的我们比进来的还多 / 他的眼睛是你的 / 每一层都是同一条走廊 / 电话里是你自己的声音从更下面打上来)。5 处看完 → 电梯终于停稳 → 高潮: 门在最底层打开,『你一直都在往这里来』。sensual↔horror 二元、全超现实寄存器。Violet Hour 画风 (painterly anime/webtoon + AlterU 粉#F5B1C7 紫#7700A1 霓虹)。一次走完约 40s。",
+    "description": "V1「下行」—— 凌晨 2:14 你独自在夜行电梯里, 角落站着一个不动的同乘人。点 5 处 (按钮面板/镜墙/同乘者/电梯门/紧急电话), 每处一段视频 + 独白, 从暧昧滑向不对劲: 楼层往下跳过不存在的层、镜里的我们更多、他的眼睛是你的、每层同一条走廊、电话里是你自己的声音。门在最底层打开:『你一直在往这里来』。粉紫超现实, 约 40s。",
     "url": "https://yinxinghuan.github.io/going-down/",
     "poster": "https://yinxinghuan.github.io/games/posters/going-down.png",
     "zipurl": "https://github.com/yinxinghuan/going-down/archive/refs/heads/master.zip"
@@ -114,7 +114,7 @@
     "uuid": "17a76a17-4b27-4666-b264-0982116f6012",
     "name": "Last Train",
     "category": "other",
-    "description": "AlterU After Dark V1 框架「末班车」—— 凌晨 3:47 你坐在空荡的末班地铁车厢, 第一人称 POV, 对面坐着一个雨夜淋湿的女人。单一封闭场景驻足探索: 在车厢里点 5 个地方 (线路图 / 车窗 / 对座的她 / 车门 / 身旁空座), 每点一处播一段 ~5s clip + 一句独白, 从暧昧 (玻璃里她的倒影已在看你 / 湿发的微笑) 一路滑向不对劲 (每一站都是这一站 / 门从没开过 / 她什么时候坐到你身边)。5 处看完 → 末班车终于减速进站 → 高潮: 门开向同一节车厢,『这是你的站, 一直都是』。sensual↔horror 二元、全超现实寄存器。Violet Hour 画风 (painterly anime/webtoon + AlterU 粉#F5B1C7 紫#7700A1 霓虹)。一次走完约 40s。",
+    "description": "V1「末班车」—— 凌晨 3:47 你坐在空荡的末班地铁, 对面是个雨夜淋湿的女人。点 5 处 (线路图/车窗/对座的她/车门/身旁空座), 每处一段视频 + 独白, 从暧昧 (玻璃里她的倒影在看你) 滑向不对劲 (每站都是这站、门从没开过、她坐到了你身边)。末班车进站, 门开向同一节车厢:『这是你的站, 一直都是』。粉紫超现实, 约 40s。",
     "url": "https://yinxinghuan.github.io/last-train/",
     "poster": "https://yinxinghuan.github.io/games/posters/last-train.png",
     "zipurl": "https://github.com/yinxinghuan/last-train/archive/refs/heads/master.zip"
@@ -124,7 +124,7 @@
     "uuid": "fc1d9184-d9ba-4662-9226-f171fbca7b58",
     "name": "The Locksmith",
     "category": "other",
-    "description": "AlterU After Dark FMV v3 第 5 作 — 凌晨 3:40 你是 24h 应急锁匠被叫到老破公寓, 30s 陌生女人说自己反锁在屋外, 但她身后的门从里面是开的. 5 分钟单一封闭场景 (走廊 + 玄关), 3 层选择 (信疑 / 进退 / 推撤), 8 个结局 (4 sensual 廉价密会 + 4 horror 真实犯罪). 全写实寄存器 — 真人 / 真实伤害 / 真实同伙, 无超自然. 视觉血脉 painterly indie game illustration + AlterU 品牌粉紫 palette. 一次走完 30-40s.",
+    "description": "FMV v3 第 5 作 —— 凌晨 3:40 你是应急锁匠被叫到老破公寓, 陌生女人说自己反锁在屋外, 但她身后的门从里面是开的。5 分钟单一封闭场景, 3 层选择, 8 结局 (4 sensual 廉价密会 + 4 horror 真实犯罪)。全写实, 无超自然。painterly + 粉紫 palette, 约 30-40s。",
     "url": "https://yinxinghuan.github.io/the-locksmith/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-locksmith.png",
     "zipurl": "https://github.com/yinxinghuan/the-locksmith/archive/refs/heads/master.zip"
@@ -144,7 +144,7 @@
     "uuid": "8c049aa5-eaea-47c3-8b62-86d6fd100dd5",
     "name": "The Midnight Dinner",
     "category": "other",
-    "description": "AlterU After Dark V1 框架 — 单一场景 + 5 hotspot + 1 ending. 一间红绒幕的私人餐厅, 长桌远端坐着一个黑人女剪影; 你这一头桌面散着 5 件物事: 中学笔记本 / 咖啡杯 / 红酒杯 / 烟灰缸 / 银锁. 每件物事属于一个不同年龄的你 (18 / 25 / 32 / 40 / 50). 点物事 → 那个年龄的你出现说一句话. 5 句说完, 远端剪影站起来沿桌走过来 — 走到面前时已经是 50 岁的你. 视觉血脉 Frank Miller Sin City B&W + 红 accent. 一次走完 1-2 分钟.",
+    "description": "V1 框架 —— 红绒幕私人餐厅, 长桌远端坐着一个黑人女剪影; 你这头散着 5 件物事 (中学笔记本/咖啡杯/红酒杯/烟灰缸/银锁), 各属于一个年龄的你 (18/25/32/40/50)。点物事, 那个年龄的你现身说一句。5 句说完, 远端剪影起身走来——到面前已是 50 岁的你。视觉血脉 Sin City 黑白 + 红。约 1-2 分钟。",
     "url": "https://yinxinghuan.github.io/the-midnight-dinner/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-midnight-dinner.png",
     "zipurl": "https://github.com/yinxinghuan/the-midnight-dinner/archive/refs/heads/master.zip"
@@ -154,7 +154,7 @@
     "uuid": "70c6970b-89ac-4851-839d-537dccb5fa22",
     "name": "The Audition",
     "category": "other",
-    "description": "AlterU After Dark FMV v3 第 4 作 — The Photographer 续集。Lin Wei 那批照片流出来六个月后, 22 岁波兰俄裔新模特 Elena Novak 带着你拍 Lin Wei 的样张来你的同一个 cyclorama 棚试镜, 想让你拍她拍出同样的感觉。她带了她自己的白色 silk slip dress (Lin Wei 是黑色)。3 层选择, 8 结局 (4 sensual + 4 horror) — 她可能是 Lin Wei 的 FIT 室友, 也可能她身上有 Lin Wei 同样的疤、知道 Lin Wei 你私下拍但没人见过的那一帧。视觉血脉同前作 Steven Klein.",
+    "description": "FMV v3 第 4 作, The Photographer 续集。Lin Wei 的照片流出半年后, 22 岁模特 Elena 带着那批样张来你同一个棚试镜, 想拍出同样的感觉, 还带了自己的白 silk slip。3 层选择, 8 结局 (4 sensual + 4 horror)——她可能是 Lin Wei 室友, 也可能身上有同样的疤。视觉血脉 Steven Klein。",
     "url": "https://yinxinghuan.github.io/the-audition/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-audition.png",
     "zipurl": "https://github.com/yinxinghuan/the-audition/archive/refs/heads/master.zip"
@@ -164,7 +164,7 @@
     "uuid": "8369fd5b-9592-4ee4-97c0-0eaaae0caee6",
     "name": "House of the Moon",
     "category": "other",
-    "description": "AlterU After Dark FMV v3 第 3 作 — 1920s 横滨, 你是住在山手洋館里的不老主人, 22 岁日本女作家 Kirie 在雷雨夜带着关于你的手稿来到你的书房. 5 分钟一次烛光对谈, 3 层选择, 8 个结局 (3 sensual + 5 全超现实 horror). 视觉血脉 Yoshitaka Amano / Vampire Hunter D / Belladonna of Sadness — 80s 哥特 anime, 紫电雷雨 + 烛火金 + 紫绛深红. 极少对白, 张力在选择 + 等待 + 一个不该在的细节. 一次走完 30-40s.",
+    "description": "FMV v3 第 3 作 —— 1920s 横滨, 你是住在山手洋館的不老主人, 22 岁女作家 Kirie 在雷雨夜带着关于你的手稿走进书房。5 分钟烛光对谈, 3 层选择, 8 结局 (3 sensual + 5 超现实 horror)。视觉血脉 Amano / Vampire Hunter D —— 80s 哥特 anime, 紫电雷雨 + 烛金 + 绛红。约 30-40s。",
     "url": "https://yinxinghuan.github.io/house-of-the-moon/",
     "poster": "https://yinxinghuan.github.io/games/posters/house-of-the-moon.png",
     "zipurl": "https://github.com/yinxinghuan/house-of-the-moon/archive/refs/heads/master.zip"
@@ -184,7 +184,7 @@
     "uuid": "33a4bcb1-9633-4891-8040-50981d2d68ec",
     "name": "The Photographer",
     "category": "other",
-    "description": "AlterU After Dark FMV v3 第 1 作 — 决策树短分支实验。你是时装摄影师, 25 岁华裔美国女模 Lin Wei 站在 cyclorama 上等你指导. 5 分钟的私人拍摄, 3 层选择, 8 个结局 (4 sensual + 4 wrong). 视频之间不切场不展示标题 — 视频停在尾帧, 选项浮在画面上, 点击直接进下一段. 视觉血脉 Steven Klein editorial fashion + Helmut Newton 暗光. 极简对白, 张力在 gaze + 距离 + 一个不该在那的痕迹. 一次走完 25-40s.",
+    "description": "FMV v3 第 1 作, 决策树短分支实验。你是时装摄影师, 25 岁华裔模特 Lin Wei 站在 cyclorama 上等你指导。5 分钟私人拍摄, 3 层选择, 8 结局 (4 sensual + 4 wrong)。视频不切场不打标题, 停在尾帧浮出选项点击直进下一段。视觉血脉 Steven Klein + Helmut Newton。约 25-40s。",
     "url": "https://yinxinghuan.github.io/the-photographer/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-photographer.png",
     "zipurl": "https://github.com/yinxinghuan/the-photographer/archive/refs/heads/master.zip"
@@ -194,7 +194,7 @@
     "uuid": "fe2ebbc6-44e6-4106-9f42-c28dc5c5c817",
     "name": "Late Check-in",
     "category": "other",
-    "description": "AlterU After Dark FMV v3 第 6 作 — 凌晨 3 点你是出差住进中端酒店的男人, 房间里有个早三十、利落黑色齐下巴 bob + 齐刘海、灰眸、穿白色 satin 吊带的女人坐在床沿。第一人称 POV, 单一封闭场景, 5 分钟, 3 层选择 (走近她 / 拿起电话; 触碰 / 镜子; 空床窗影 / 墙裂), 8 个结局 (2 sensual + 6 全超现实 horror)。全超现实寄存器 — 镜中无脸倒影 / 空白面具 / 墙缝伸手 / 窗内尖叫脸 / 无限复制走廊, 每个恐怖都是明确异象。视觉血脉 painterly indie illustration + AlterU 粉紫 palette (#F5B1C7 + #7700A1)。视频不切场, 选项浮在尾帧点击直接进下一段。一次走完 30-40s.",
+    "description": "FMV v3 第 6 作 —— 凌晨 3 点你是出差住进酒店的男人, 床沿坐着个黑色 bob、白 satin 吊带的女人。第一人称, 单一封闭场景, 5 分钟, 3 层选择, 8 结局 (2 sensual + 6 超现实 horror)——镜中无脸、空白面具、墙缝伸手、无限复制走廊。粉紫 painterly, 约 30-40s。",
     "url": "https://yinxinghuan.github.io/late-check-in/",
     "poster": "https://yinxinghuan.github.io/games/posters/late-check-in.png",
     "zipurl": "https://github.com/yinxinghuan/late-check-in/archive/refs/heads/master.zip"
@@ -214,7 +214,7 @@
     "uuid": "9abf09b9-e939-44ad-9a6c-e510c5ff44b5",
     "name": "Mykonos Five Days",
     "category": "other",
-    "description": "雅典转机偶遇 4 年没见的 Yale 同学, 一时兴起退了机票去 Mykonos 待 5 天。28 岁建筑师 Lena 和 28 岁摄影师 Sam, 两个华裔美国人, 两人都单身, 但都不打算谈恋爱 — 至少这趟旅行前是。5 个场景 (抵达 / 沙滩 / 餐厅 / 风车午夜 / 早晨码头), 每场景 2 选, 4 个结局基于「接近度」累积。视觉血脉 Call Me By Your Name + Lost in Translation + La Piscine. 极少对白, 张力在 gaze + gesture + distance. AlterU After Dark FMV v2 第 2 作 — 当代实验作。",
+    "description": "雅典转机偶遇 4 年没见的 Yale 同学, 一时兴起退票去 Mykonos 待 5 天。28 岁建筑师 Lena 与摄影师 Sam, 两个华裔美国人, 都单身, 都不打算谈恋爱——至少这趟之前是。5 个场景 (抵达/沙滩/餐厅/风车午夜/码头晨), 每场 2 选, 4 结局看接近度。极少对白, 张力在 gaze 与距离。FMV v2 第 2 作。",
     "url": "https://yinxinghuan.github.io/mykonos-five-days/",
     "poster": "https://yinxinghuan.github.io/games/posters/mykonos-five-days.png",
     "zipurl": "https://github.com/yinxinghuan/mykonos-five-days/archive/refs/heads/master.zip"
@@ -234,7 +234,7 @@
     "uuid": "07da46a6-876f-4ab0-a081-44c86fde02bd",
     "name": "The Bidding",
     "category": "other",
-    "description": "1991 年 1 月 8 日晚 8 点, Bucharest 第 6 区。Ceaușescu 处决一年后的国家在散架, 停电是常态, 这一夜电只有 11 PM 之前。38 岁寡妇 Elena Marin 为 11 岁先天心脏病的女儿 Paula 通过黑市掮客约了 4 个买家来家里出价 — 美国黑医生 / 前 Securitate 大队长 / 前 KGB / 罗马尼亚还俗神父。每个人卖的不只是心脏。Mid-pivot: Paula 不是 Elena 亲生的, 1980 Polizu 妇产医院 Stefan 神父把她和加州一户精英家庭的女儿调包了。5 个章节, 6 个结局, 每个选择改变 (caution, truth_accepted, mercy, time_left) 四维状态。AlterU After Dark FMV 系列升级版首作。",
+    "description": "1991 年 Bucharest, Ceaușescu 倒台后散架的国家。38 岁寡妇 Elena 为先心病女儿 Paula 约了 4 个黑市买家来家出价——黑医生/前 Securitate/前 KGB/还俗神父, 每个人卖的不只是心脏。中段反转: Paula 不是亲生, 当年被神父在产院调了包。5 章 6 结局, 每个选择改变四维状态。AlterU After Dark FMV 升级首作。",
     "url": "https://yinxinghuan.github.io/the-bidding/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-bidding.png",
     "zipurl": "https://github.com/yinxinghuan/the-bidding/archive/refs/heads/master.zip"
@@ -244,7 +244,7 @@
     "uuid": "8cc2258c-54c9-42ad-af30-adca671c7139",
     "name": "Dispatch",
     "category": "other",
-    "description": "1994 年 11 月凌晨 3 点 47 分, 芝加哥市紧急通讯中心 (OEMC) 地下层 PSAP-12 调度台。Marcus Heath, 38, 非裔, 警员编号 4471, 晋身夜班第 6 小时一通电话都没接到。CRT 屏幕上显示 5 条未听的语音留言, 都是不同陌生人 911 报警, 讲今晚芝加哥各个角落都遇到一个崩溃的男人。点 5 条留言听完。Climax: 第 6 条是 Marcus 本人 30 天前在他太太 Charlene 在厨房中风死亡那晚打的 911, 30 天后的他终于接起来。完全没有人脸的 FMV — 整张画面是发磷绿色 CRT 终端机, 波形 + GPS 点 + 终端字。AlterU After Dark FMV 系列第 7 作。",
+    "description": "1994 年凌晨 3:47 芝加哥 911 调度台。夜班警员 Marcus, 38, 第 6 小时一通电话没接到, 屏上 5 条未听语音, 都是陌生人报警说今晚各处遇到一个崩溃的男人。点 5 条听完。高潮: 第 6 条是 Marcus 本人 30 天前妻子中风死那晚打的 911, 此刻他终于接起。全程无人脸, 整屏磷绿 CRT 终端。AlterU After Dark FMV 第 7 作。",
     "url": "https://yinxinghuan.github.io/dispatch/",
     "poster": "https://yinxinghuan.github.io/games/posters/dispatch.png",
     "zipurl": "https://github.com/yinxinghuan/dispatch/archive/refs/heads/master.zip"
@@ -254,7 +254,7 @@
     "uuid": "c668ab73-7022-46fe-a95e-5af7be564b74",
     "name": "Final Stream",
     "category": "other",
-    "description": "2024 周二晚 9 点, Long Beach 单间公寓。24 岁韩裔美国 Twitch 主播 Riley Park (rileyontheradio) 直播了第 4 小时, 8.2K 在线。她没告诉粉丝今晚是最后一场。点她桌上 5 件东西 (粉色 Stanley / 妹妹的拍立得 / 裱起来的第一笔 1 美元打赏 / 趴着的手机 / 直播镜头里的脸) 听她说话。Climax: 她读出 MarcusM 的弹幕, 关掉笔记本。框架同 Setting the Table, 但故意拒绝电影感——伪纪录片质感, 2024 真实主播桌面。两层声线 (亮的主播声 / 真的疲惫声) 全程交替。AlterU After Dark FMV 系列第 6 作。",
+    "description": "2024 周二晚 9 点 Long Beach, 24 岁 Twitch 主播 Riley 直播第 4 小时, 8.2K 在线, 没人知道这是最后一场。点桌上 5 件东西 (粉 Stanley/妹妹拍立得/第一笔打赏/趴着的手机/镜头里的脸) 听她说话。高潮: 她读出一条弹幕, 关掉笔记本。伪纪录片质感, 两层声线交替。AlterU After Dark FMV 第 6 作。",
     "url": "https://yinxinghuan.github.io/final-stream/",
     "poster": "https://yinxinghuan.github.io/games/posters/rileyontheradio.png",
     "zipurl": "https://github.com/yinxinghuan/final-stream/archive/refs/heads/master.zip"
@@ -264,7 +264,7 @@
     "uuid": "26f9f047-ec6b-4521-bd14-ef68666887ff",
     "name": "Setting the Table",
     "category": "other",
-    "description": "1988 年 6 月 14 日, Brookline 郊外, 蓝调时刻。71 岁退休英语教师 Eleanor 给两个人摆桌, 像她丈夫 Walter 还在。今晚是他离开的第 207 天 — 但她不允许自己承认。点桌上 5 件物件 (他缺口的咖啡杯 / 老花眼镜 / 海军 cashmere / 银叉的位置 / 全家福), 听她对着空椅子说话。Climax: 她妹妹 Maggie 打电话来。她拒绝。她照旧摆桌。Joan Didion 的《Year of Magical Thinking》 文学血脉。AlterU After Dark FMV 系列, 精雕细琢卷的一作。",
+    "description": "1988 年 Brookline 蓝调时刻。71 岁退休教师 Eleanor 给两个人摆桌, 像丈夫 Walter 还在——今晚是他走后第 207 天, 而她不肯承认。点桌上 5 件物件 (缺口咖啡杯/老花镜/cashmere/银叉位置/全家福), 听她对空椅说话。高潮: 妹妹来电, 她拒接, 照旧摆桌。文学血脉 Didion。AlterU After Dark FMV。",
     "url": "https://yinxinghuan.github.io/setting-the-table/",
     "poster": "https://yinxinghuan.github.io/games/posters/setting-the-table.png",
     "zipurl": "https://github.com/yinxinghuan/setting-the-table/archive/refs/heads/master.zip"
@@ -304,7 +304,7 @@
     "uuid": "ab54cb51-debc-419f-a12a-a72390cf23bc",
     "name": "Last Cigarette",
     "category": "other",
-    "description": "1956 芝加哥蓝丝绒爵士俱乐部, 11:42 PM。Mira Lane 是头牌歌女, 也是 Rocco Bellini 两年的情妇。今晚她登台前 18 分钟, 你点她化妆台上的五样东西—— 香烟、马提尼、口红、珍珠、镜中的眼神—— 每一下都是一段她说出口的台词、一段她做过的小事。听完五段, Showtime 的红边斜体浮起。点它, 镜头停在她离开的椅子上, 抽屉里的设单慢慢摊开: 'For Mr. R. Bellini, on the 18th anniversary of his marriage.' 她不是在等他, 她是在卸下他。AlterU After Dark FMV 系列首作。",
+    "description": "1956 芝加哥蓝丝绒爵士俱乐部, 11:42 PM。头牌歌女 Mira 也是 Rocco 两年的情妇。登台前 18 分钟, 点她化妆台上五样东西 (烟/马提尼/口红/珍珠/镜中眼神), 每样是一句台词、一桩往事。听完五段, Showtime 红字浮起, 点它镜头停在空椅上——她不是在等他, 是在卸下他。AlterU After Dark FMV 首作。",
     "url": "https://yinxinghuan.github.io/last-cigarette/",
     "poster": "https://yinxinghuan.github.io/games/posters/last-cigarette.png",
     "zipurl": "https://github.com/yinxinghuan/last-cigarette/archive/refs/heads/master.zip"
@@ -314,7 +314,7 @@
     "uuid": "7484763a-965f-46db-9b36-d0c1e352785a",
     "name": "The Bell Tower",
     "category": "social",
-    "description": "A dim cathedral bell tower. A thick bronze bell hangs from a wood beam. You get one pull on the rope per day. Drag the rope down, release — the bell swings, BONG carries across a 6-second decay. After your ring the rope dims and won't budge again until tomorrow. The ticker shows who else has rung today; their pulls travel through your tower as faint distant bongs. When the platform crosses 100 rings in a day, every still-open client hears a quiet collective chime — the tower rang for the world today. AlterU daily-ritual series.",
+    "description": "A dim cathedral bell tower, one rope-pull a day. Drag, release: BONG, a 6-second decay, then it rests till tomorrow. Others' rings echo as distant bongs; hit 100 in a day and all hear one chime.",
     "url": "https://yinxinghuan.github.io/bell-tower/",
     "poster": "https://yinxinghuan.github.io/games/posters/bell-tower.png",
     "zipurl": "https://github.com/yinxinghuan/bell-tower/archive/refs/heads/master.zip"
@@ -324,7 +324,7 @@
     "uuid": "04035b6c-aea7-4635-8302-3bf1a1870871",
     "name": "Bubble Wrap, Eternal",
     "category": "casual",
-    "description": "Endless plastic bubble wrap. Tap to pop — pitch-randomized chirp, satisfying splash, the next row is already calling. Every eighth pop, the bubble doesn't just pop — it drops a tiny paper fortune slip in deadpan-absurd voice (\"the third stair from the top will remember you all week\"). Slips collect in your pocket and join Today's Slips wall — see what other people popped open. Today's pop count is shown for the whole planet. AlterU sensory series.",
+    "description": "Endless bubble wrap. Tap to pop — pitch-randomized chirp, a satisfying splash, the next row already calling. Every 8th pop drops a deadpan paper fortune that joins Today's Slips wall. AlterU sensory.",
     "url": "https://yinxinghuan.github.io/bubble-wrap-eternal/",
     "poster": "https://yinxinghuan.github.io/games/posters/bubble-wrap-eternal.png",
     "zipurl": "https://github.com/yinxinghuan/bubble-wrap-eternal/archive/refs/heads/master.zip"
@@ -334,7 +334,7 @@
     "uuid": "863f612f-b48e-407a-9b26-fd977321c758",
     "name": "Static Channel",
     "category": "casual",
-    "description": "An old CRT television. Drag across the screen to tune up and down the FM band — 88.0 to 108.0 MHz. Each frequency is its own AI-broadcast channel: a single weird VHS still and a one-line chyron caption — your mom rolling dumplings in 1994, a wedding from 1987 where nobody is dancing, test patterns for towns that no longer exist. Hit the heart to keep a channel; open the wall to see what other people pulled in tonight. AlterU sensory series.",
+    "description": "An old CRT TV. Drag to tune 88–108 MHz — each frequency an AI channel: a weird VHS still + a one-line chyron, like mom rolling dumplings in 1994. Heart to keep a channel; open the wall.",
     "url": "https://yinxinghuan.github.io/static-channel/",
     "poster": "https://yinxinghuan.github.io/games/posters/static-channel.png",
     "zipurl": "https://github.com/yinxinghuan/static-channel/archive/refs/heads/master.zip"
@@ -344,7 +344,7 @@
     "uuid": "7c39f0f8-b949-4726-bf21-ef788980c5c7",
     "name": "Pebble Pocket",
     "category": "casual",
-    "description": "One stone a day. Press the sand on the beach and the tide brings back a single AI-generated pebble — quartz, amber, slate, jasper, whatever surfaces. Come back tomorrow for another. Pure daily ritual, no scoring, just a slowly-filling pocket. AlterU sensory series.",
+    "description": "One stone a day. Press the sand and the tide brings back a single AI-generated pebble — quartz, amber, slate, jasper. Come back tomorrow for more. A pure daily ritual, a slowly-filling pocket.",
     "url": "https://yinxinghuan.github.io/pebble-pocket/",
     "poster": "https://yinxinghuan.github.io/games/posters/pebble-pocket.png",
     "zipurl": "https://github.com/yinxinghuan/pebble-pocket/archive/refs/heads/master.zip"
@@ -354,7 +354,7 @@
     "uuid": "4f8329f2-0988-4e86-861e-f464deddc1c0",
     "name": "Ink of Fate",
     "category": "social",
-    "description": "An old biker tattoo artist takes one look at you and decides the tattoo you were always going to get. Show your face, answer one question, and the parlor stamps a fate-piece onto cheek / throat / jawline / behind ear — Sailor Jerry, irezumi, stick-and-poke, blackwork. AI reads it back to you: design + meaning + verdict. $200, pay at the door. Tonight's Parlor wall holds the last clients. AlterU After Dark 系列。",
+    "description": "An old biker tattoo artist takes one look and inks the tattoo you were always going to get — Sailor Jerry, irezumi, blackwork. Answer one question; he reads its meaning back. AlterU After Dark.",
     "url": "https://yinxinghuan.github.io/ink-of-fate/",
     "poster": "https://yinxinghuan.github.io/games/posters/ink-of-fate.png",
     "zipurl": "https://github.com/yinxinghuan/ink-of-fate/archive/refs/heads/master.zip"
@@ -364,7 +364,7 @@
     "uuid": "881877de-da56-4f0c-b3bb-70046e5daf70",
     "name": "Frost Crystals",
     "category": "casual",
-    "description": "Touch the cold glass and a six-fold snowflake grows from your finger — drag to steer the branches, hold still to let it bloom. Multiple flakes can coexist; slow thaw means the glass slowly clears between sessions. Pure sensory toy — AlterU sensory series.",
+    "description": "Touch the cold glass and a six-fold snowflake grows from your finger — drag to steer the branches, hold to let it bloom. Multiple flakes coexist; a slow thaw clears the glass. AlterU sensory toy.",
     "url": "https://yinxinghuan.github.io/frost-crystals/",
     "poster": "https://yinxinghuan.github.io/games/posters/frost-crystals.png",
     "zipurl": "https://github.com/yinxinghuan/frost-crystals/archive/refs/heads/master.zip"
@@ -384,7 +384,7 @@
     "uuid": "7596f93a-1c72-48c1-8120-9e43a09c4c0d",
     "name": "Pulp Hour",
     "category": "other",
-    "description": "Six beats. One sitting. Pick a pulp magazine cover — All-Night Operator / The Tenant in 4B / Voyager 9 / Last Train Home — and an AI ghostwriter spins a 6-beat noir around your choices. Three options each beat (Defy · Yield · Lie); ending beat returns an illustrated finished cover with your byline. Mail it to the newsstand for other readers. AlterU After Dark 系列。",
+    "description": "Six beats, one sitting. Pick a pulp magazine cover; an AI ghostwriter spins a 6-beat noir from your choices (Defy · Yield · Lie). It ends on an illustrated cover with your byline. AlterU After Dark.",
     "url": "https://yinxinghuan.github.io/pulp-hour/",
     "poster": "https://yinxinghuan.github.io/games/posters/pulp-hour.png",
     "zipurl": "https://github.com/yinxinghuan/pulp-hour/archive/refs/heads/master.zip"
@@ -404,7 +404,7 @@
     "uuid": "bd8b8e9a-4927-4d8e-976e-15da97c45393",
     "name": "Vital Signs",
     "category": "action",
-    "description": "Night shift. You're the only one awake. A friend from your contacts has crashed in the dream-ER — keep their pulse on the beat with one finger. Hit the rhythm of a slowly-drifting BPM target; too slow flatlines them, too fast tips them into V-fib. When they go, AI types a deadpan death certificate + a morgue-tag portrait stamps onto the Fate Wall. Save them and they post-mortem-thank you. AlterU After Dark 系列。",
+    "description": "Night shift. A contact crashed in the dream-ER — keep their pulse on the beat with one finger. Too slow flatlines, too fast goes V-fib. Lose them and AI files a deadpan death certificate.",
     "url": "https://yinxinghuan.github.io/vital-signs/",
     "poster": "https://yinxinghuan.github.io/games/posters/vital-signs.png",
     "zipurl": "https://github.com/yinxinghuan/vital-signs/archive/refs/heads/master.zip"
@@ -424,7 +424,7 @@
     "uuid": "da737505-cc8b-49da-8905-9924f4b43a6b",
     "name": "Tap & Tell",
     "category": "casual",
-    "description": "Pick an opening scene — a cabin in the snow, a figure on an empty beach, a city street at night. Tap somewhere in the frame, say what happens next. AI paints the next moment and stitches it into a 5-second cinematic clip you can keep. Single-beat story toy. AlterU 系列。",
+    "description": "Pick an opening scene — a snowy cabin, an empty beach, a night street. Tap in the frame and say what happens next; AI paints the moment and stitches a 5-second clip you keep. AlterU.",
     "url": "https://yinxinghuan.github.io/tap-and-tell/",
     "poster": "https://yinxinghuan.github.io/games/posters/tap-and-tell.png",
     "zipurl": "https://github.com/yinxinghuan/tap-and-tell/archive/refs/heads/master.zip"
@@ -454,7 +454,7 @@
     "uuid": "10b8a17b-313c-4f2e-a78e-6d68c6037253",
     "name": "Crack Tap",
     "category": "casual",
-    "description": "A risk-and-reward fortune crystal ball. Press & hold and a fracture network spiders across the orb — the deeper you dare (Whisper → Vision → Revelation → the Brink), the rarer the omen you can draw. Release to lock the reading: a fortune from Tarot, Oracle Bone or Rune lore, the crack pattern itself the sign. Push past the brink and it shatters into a Shattered Vision — blazing glory or dust. Realistic crystal, Voronoi break, singing-bowl reveal.",
+    "description": "A risk-and-reward fortune orb. Hold as cracks spider across it — the deeper you dare (Whisper → Vision → Revelation → Brink), the rarer the omen. Release to lock it; push too far and it shatters.",
     "url": "https://yinxinghuan.github.io/crack-tap/",
     "poster": "https://yinxinghuan.github.io/games/posters/crack-tap.png",
     "zipurl": "https://github.com/yinxinghuan/crack-tap/archive/refs/heads/master.zip"
@@ -464,7 +464,7 @@
     "uuid": "2296d825-fc9c-441a-a761-a9e055218c93",
     "name": "Farm to Table",
     "category": "action",
-    "description": "Swipe to slice through the farm — cartoon pig, cow, chicken, sheep and duck heads arc up from below; drag your finger through them in one continuous motion and they split in half, revealing a thick pink ham cross-section with bone in the middle. Chain hits in one swipe for combo multipliers (×2, ×3, MULTI, MASSIVE). Wagyu A5 cubes are golden bonus +100. The red 'no-cleaver' sign is the bomb — slash it and the run ends.",
+    "description": "Swipe to slice the farm — pig, cow, chicken, sheep heads arc up; drag through to split them open. Chain hits for combos (×2, ×3, MASSIVE). Wagyu +100. Hit the no-cleaver sign and you're out.",
     "url": "https://yinxinghuan.github.io/endless-slice/",
     "poster": "https://yinxinghuan.github.io/games/posters/endless-slice.png",
     "zipurl": "https://github.com/yinxinghuan/endless-slice/archive/refs/heads/master.zip"
@@ -474,7 +474,7 @@
     "uuid": "25016dfc-3362-4105-a61e-45169e03584a",
     "name": "Tidal Survive",
     "category": "action",
-    "description": "Stack tiles, dodge sharks, outrun the rising tide. The water level rises every 5 seconds on an 8×8 sand grid — pick up planks (+1), boulders (+2, slow carry) or paddles (+5s buffer) and stack them under your feet. Stay too long in the water and the circling sharks will lunge. Endless mode + Aigram leaderboard.",
+    "description": "Stack tiles, dodge sharks, outrun the rising tide. Water rises every 5s on an 8×8 grid — grab planks (+1), boulders (+2), paddles (+5s) underfoot. Linger and the sharks lunge. Endless + leaderboard.",
     "url": "https://yinxinghuan.github.io/tidal-survive/",
     "poster": "https://yinxinghuan.github.io/games/posters/tidal-survive.png",
     "zipurl": "https://github.com/yinxinghuan/tidal-survive/archive/refs/heads/master.zip"
@@ -484,7 +484,7 @@
     "uuid": "e1a50130-a97a-400c-a4c9-458bb2c26223",
     "name": "Liquid Drop",
     "category": "casual",
-    "description": "Tap to bloom — drops of color bloom across the canvas, overlap, and slowly fade. Three liquids through the glass: oil beads with glossy highlights on a midnight pool, cream blooming into coffee, vivid acrylic paint mixing on black. Each tap rings a new pentatonic note.",
+    "description": "Tap to bloom — color blooms across the canvas, overlaps, slowly fades. Three liquids: glossy oil beads on a midnight pool, cream into coffee, acrylic on black. Each tap rings a pentatonic note.",
     "url": "https://yinxinghuan.github.io/liquid-drop/",
     "poster": "https://yinxinghuan.github.io/games/posters/liquid-drop.png",
     "zipurl": "https://github.com/yinxinghuan/liquid-drop/archive/refs/heads/master.zip"
@@ -494,7 +494,7 @@
     "uuid": "80a9c76c-12d0-46cd-be04-b3368cb05319",
     "name": "Murmuration",
     "category": "casual",
-    "description": "Drag to gather the flock — your finger is the attractor, a swarm of birds / fireflies / dandelion seeds chases it, swirls into shape, then disperses when you let go. Three scenes: starlings at dusk, fireflies in the forest, dandelion seeds in the spring meadow.",
+    "description": "Drag to gather the flock — your finger is the attractor; birds, fireflies or seeds chase it, swirl into shape, then scatter when you release. Dusk starlings, forest fireflies, spring meadow seeds.",
     "url": "https://yinxinghuan.github.io/murmuration/",
     "poster": "https://yinxinghuan.github.io/games/posters/murmuration.png",
     "zipurl": "https://github.com/yinxinghuan/murmuration/archive/refs/heads/master.zip"
@@ -504,7 +504,7 @@
     "uuid": "111ac5e8-9093-47d0-a532-fedb76a6c42b",
     "name": "Sumo King",
     "category": "action",
-    "description": "Mecha sumo over a lava pit. 1v3 in a 60-second bout on a steel deck with cyan + magenta neon rims. Hold the joystick to charge plasma, release to ram opponents into the lava. Three AI archetypes (rookie / bruiser / sniper) and a hot/cool palette set this apart from the penguin-rink edition.",
+    "description": "Mecha sumo over a lava pit. 1v3, 60-second bout on a steel deck rimmed in cyan and magenta neon. Hold to charge plasma, release to ram foes into the lava. Three AI archetypes: rookie, bruiser, sniper.",
     "url": "https://yinxinghuan.github.io/sumo-king/",
     "poster": "https://yinxinghuan.github.io/games/posters/sumo-king.png",
     "zipurl": "https://github.com/yinxinghuan/sumo-king/archive/refs/heads/master.zip"
@@ -534,7 +534,7 @@
     "uuid": "1f9d3ce7-4ded-4ab1-8556-58310a8e5b29",
     "name": "Frosted Window",
     "category": "casual",
-    "description": "Drag to wipe the steam — fast swipe = thin line, slow drag = wide brush, hold still to fatten. Six scenes through the glass: vanity mirror, rainy neon city, winter cabin, aquarium, sunset palms, cherry blossom. Live drips + ambient pads + your lifetime wipe count.",
+    "description": "Drag to wipe the steam — fast swipe = thin line, slow drag = wide brush, hold to fatten. Six scenes: vanity mirror, neon city, cabin, aquarium, sunset palms, blossom. Live drips + ambient pads.",
     "url": "https://yinxinghuan.github.io/frosted-window/",
     "poster": "https://yinxinghuan.github.io/games/posters/frosted-window.png",
     "zipurl": "https://github.com/yinxinghuan/frosted-window/archive/refs/heads/master.zip"
@@ -944,7 +944,7 @@
     "uuid": "25f12820-e10d-40aa-9169-3d54922acc06",
     "name": "Album Cover Generator",
     "category": "tool",
-    "description": "Three words → one album. Type any three words (a feeling, an image, a color) and the game presses an indie record for you: AI generates the cover art (random pick between shoegaze dream-pop or DIY xerox post-punk), invents a band name, and titles the LP. Visit the wall to flip through the last six pressings from other players. AlterU 系列。",
+    "description": "Three words → one album. Type three words; the game presses an indie record: AI makes the cover (shoegaze or xerox post-punk), names the band, titles the LP. Flip the wall of others' pressings.",
     "url": "https://yinxinghuan.github.io/album-cover-generator/",
     "poster": "https://yinxinghuan.github.io/games/posters/album-cover-generator.png",
     "zipurl": "https://github.com/yinxinghuan/album-cover-generator/archive/refs/heads/master.zip"
@@ -954,7 +954,7 @@
     "uuid": "0874cd00-5b78-438f-9643-1e51f6b14d0c",
     "name": "Mugshot Booth",
     "category": "social",
-    "description": "Step in front of the booking camera. Upload a selfie and the precinct types up your case file — gritty black-and-white mugshot, ID board with case number, and a stack of charges from the AlterU Vice Squad: loitering with intent to vibe, public crying without permit, possession of unsent texts. Booking date stamped, GUILTY plate slammed across the corner. Flip through the rogue's gallery of recent suspects. AlterU After Dark 系列。",
+    "description": "At the booking camera, upload a selfie; the precinct files your case — B&W mugshot, ID board, charges from the AlterU Vice Squad: loitering with intent to vibe, unsent texts. GUILTY stamped.",
     "url": "https://yinxinghuan.github.io/mugshot-booth/",
     "poster": "https://yinxinghuan.github.io/games/posters/mugshot-booth.png",
     "zipurl": "https://github.com/yinxinghuan/mugshot-booth/archive/refs/heads/master.zip"
@@ -964,7 +964,7 @@
     "uuid": "d50286e6-d7e7-4a0b-afbd-5af7d598a4b8",
     "name": "Confession Booth",
     "category": "social",
-    "description": "Step into the booth. Tell the AI hotline operator anything. Dial 1-800-CONFESS — stained glass overhead, brass grille between you, candle flickering. Behind the screen isn't a priest — it's a night-shift call-center operator chewing gum and reading from a damp absolution script. Type your sin, get put on hold, hear the operator complain about their landlord, then receive an ABSOLVED / DENIED / DEFERRED verdict + custom penance (\"compliment a stranger's shoes before Friday\"). Wall of (mostly) forgiven — fully anonymous. AlterU After Dark 系列。",
+    "description": "Tell the AI hotline your sin at 1-800-CONFESS. Behind the grille isn't a priest but a gum-chewing call-center op with a damp script. ABSOLVED / DENIED / DEFERRED + a penance. Anonymous wall.",
     "url": "https://yinxinghuan.github.io/confession-booth/",
     "poster": "https://yinxinghuan.github.io/games/posters/confession-booth.png",
     "zipurl": "https://github.com/yinxinghuan/confession-booth/archive/refs/heads/master.zip"
@@ -974,7 +974,7 @@
     "uuid": "55fa014e-60f7-44df-b5b0-b5b1c0f899fb",
     "name": "Sin of the Week",
     "category": "social",
-    "description": "Festival edition of the AI confession hotline. Every week the booth opens to a new theme — \"petty sin of the week\", \"message you never sent\", \"3am confession\", \"shower rant\" — and the wall fills with everyone's answers, not anonymous this time but signed with your avatar. Wolność-festival graphic identity: dense neon zigzag patterns, curvy hand-drawn wordmark, color-coded sunburst medallions per confession, rainbow U-arc framing the verdict moment. Plays like a community poetry slam over the phone.",
+    "description": "Festival edition of the AI confession hotline. Each week a new theme — petty sin, the message you never sent, 3am confession — and the wall fills with signed answers. Neon festival graphics.",
     "url": "https://yinxinghuan.github.io/confession-booth-v4/",
     "poster": "https://yinxinghuan.github.io/games/posters/confession-booth-v4.png",
     "zipurl": "https://github.com/yinxinghuan/confession-booth-v4/archive/refs/heads/master.zip"
@@ -984,7 +984,7 @@
     "uuid": "2144a117-01c0-4f4a-9831-6610264bc917",
     "name": "Wake-Up Service",
     "category": "social",
-    "description": "Place a phantom wake-up call to a friend — pick a sleeper from your registry, choose a protocol (marching band / 100 cats / ice bucket / drill sergeant / robocall storm / rooster choir), the dispatcher fires a notification + AI-generated image of the chaos. LCD alarm clock console aesthetic — 5 color themes × 4 typefaces switchable in-game, real avatars filtered through a soft LED tint.",
+    "description": "Place a phantom wake-up call on a friend — pick a sleeper and a protocol (marching band, 100 cats, ice bucket, drill sergeant, rooster choir); the dispatcher pings them with an AI image of the chaos.",
     "url": "https://yinxinghuan.github.io/wake-up-service/",
     "poster": "https://yinxinghuan.github.io/games/posters/wake-up-service.png",
     "zipurl": "https://github.com/yinxinghuan/wake-up-service/archive/refs/heads/master.zip"
@@ -994,7 +994,7 @@
     "uuid": "de74171a-370b-41d7-8529-0fdf680831d3",
     "name": "Crystal Ball Collective",
     "category": "social",
-    "description": "Crack Tap 续作。每日一次水晶球占卜：按住水晶球，裂痕在球体里蛛网般铺开——Whisper → Vision → Revelation → Brink，越深 omen 越罕。松手锁定，AI 实时画出今日命运卡 + 一句神谕（Tarot / Oracle Bone / Rune / I-Ching 随机系统）。推过 Brink 水晶崩裂 —— 50/50 抽到 Glory（金序传说卡）或 Ashes（碎片卡）。占卜完看最近 6 位玩家的命运卡墙，给你共鸣的卡留个 emoji。错过当天就归档为空槽。一个每日 ritual，一个集体玩具。AlterU 系列。",
+    "description": "Crack Tap 续作, 每日一次水晶球占卜。按住水晶球, 裂痕蛛网般铺开——Whisper → Vision → Revelation → Brink, 越深 omen 越罕。松手锁定, AI 实时画出今日命运卡 + 一句神谕 (Tarot/Oracle Bone/Rune/I-Ching)。推过 Brink 水晶崩裂, 50/50 抽 Glory 或 Ashes。看最近卡墙留 emoji。",
     "url": "https://yinxinghuan.github.io/crystal-ball-collective/",
     "poster": "https://yinxinghuan.github.io/games/posters/crystal-ball-collective.png",
     "zipurl": "https://github.com/yinxinghuan/crystal-ball-collective/archive/refs/heads/master.zip"
@@ -1004,7 +1004,7 @@
     "uuid": "6af4f385-954f-436f-9dda-c0f1572dab88",
     "name": "Tag, You're It",
     "category": "social",
-    "description": "Pick a friend, pick a slapstick weapon — pie to the face, bucket of slime, confetti cannon, giant IT sticker, pizza splat, banana peel — and SLAM. AI paints a comic-book panel of them getting absolutely tagged; the platform pushes the chaos straight to their phone with a notification. Open the app to find out who tagged YOU, then tag back to clear your name. Pop-art halftone, Ben-Day dots, Lichtenstein BAM aesthetic. A viral chain-tag toy. AlterU 系列。",
+    "description": "Pick a friend and a slapstick weapon — pie, slime, confetti, banana peel — and SLAM. AI paints a comic panel of them tagged and pings their phone. See who tagged YOU, then tag back. Pop-art halftone.",
     "url": "https://yinxinghuan.github.io/tag-youre-it/",
     "poster": "https://yinxinghuan.github.io/games/posters/tag-youre-it.png",
     "zipurl": "https://github.com/yinxinghuan/tag-youre-it/archive/refs/heads/master.zip"
