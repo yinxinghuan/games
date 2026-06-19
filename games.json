@@ -1038,5 +1038,15 @@
     "url": "https://yinxinghuan.github.io/river-row/",
     "poster": "https://yinxinghuan.github.io/games/posters/river-row.png",
     "zipurl": "https://github.com/yinxinghuan/river-row/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "monster-bash",
+    "uuid": "68d88baf-726b-4f13-b133-637b2291d88b",
+    "name": "Monster Bash",
+    "category": "action",
+    "description": "AlterU arcade · voxel 弹珠台。左右半屏拍片，右侧发射道自动开球，3 球制。撞发光 pop bumper、弹弓与吸血鬼/狼人/僵尸/骷髅怪物靶得分，连击攒倍率。程序化音效 + 霓虹紫机台 + 比分排行榜，超过对手会推送通知。",
+    "url": "https://yinxinghuan.github.io/monster-bash/",
+    "poster": "https://yinxinghuan.github.io/games/posters/monster-bash.png",
+    "zipurl": "https://github.com/yinxinghuan/monster-bash/archive/refs/heads/master.zip"
   }
 ]
