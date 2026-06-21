@@ -1048,5 +1048,15 @@
     "url": "https://yinxinghuan.github.io/monster-bash/",
     "poster": "https://yinxinghuan.github.io/games/posters/monster-bash.png",
     "zipurl": "https://github.com/yinxinghuan/monster-bash/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "same-brain",
+    "uuid": "272cf069-7f84-4d49-a4ac-b2785a2bc1fc",
+    "name": "Same Brain",
+    "category": "social",
+    "description": "AlterU 社交读心 · 每日一题关于「另一个你」，4 个图标 tap 选完，AI 把你的选择渲染成一幅 vision，并排撞上一个想到同款画面的陌生人 + Sync% 同步率，撞中即互推通知。双胞胎墙看陌生人们的同款脑洞。生图为核心 payoff。",
+    "url": "https://yinxinghuan.github.io/same-brain/",
+    "poster": "https://yinxinghuan.github.io/games/posters/same-brain.png",
+    "zipurl": "https://github.com/yinxinghuan/same-brain/archive/refs/heads/master.zip?v=0.1"
   }
 ]
