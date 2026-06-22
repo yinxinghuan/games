@@ -10,6 +10,16 @@
     "zipurl": "https://github.com/yinxinghuan/sky-leap/archive/refs/heads/master.zip"
   },
   {
+    "id": "corporate-climb",
+    "uuid": "76c220c2-2340-497d-ada7-41108d25efbf",
+    "name": "Corporate Climb",
+    "category": "action",
+    "description": "AlterU After Dark · action · 点屏往上爬一座暮光办公塔，踩着同事的头一阶阶升职：Intern→Manager→CEO→无尽。卡准同事打字抬头的瞬间踩=PERFECT，把脚下涨上来的裁员潮压回去；潮水追到你那层=Laid Off。低多边形多角色 + 暗色企业风，单键即点即玩。层数排行榜 + 被超越通知。",
+    "url": "https://yinxinghuan.github.io/corporate-climb/",
+    "poster": "https://yinxinghuan.github.io/games/posters/corporate-climb.png",
+    "zipurl": "https://github.com/yinxinghuan/corporate-climb/archive/refs/heads/master.zip"
+  },
+  {
     "id": "block-hop",
     "uuid": "c9b8ddee-eb37-4a12-baa4-5793c612dd3f",
     "name": "Block Hop",
