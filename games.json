@@ -1058,5 +1058,15 @@
     "url": "https://yinxinghuan.github.io/same-brain/",
     "poster": "https://yinxinghuan.github.io/games/posters/same-brain.png",
     "zipurl": "https://github.com/yinxinghuan/same-brain/archive/refs/heads/master.zip?v=0.1"
+  },
+  {
+    "id": "remix-relay",
+    "uuid": "36b4a81a-a1e4-4574-b64b-540ec71ce05f",
+    "name": "Remix Relay",
+    "category": "social",
+    "description": "AlterU 社交 · 接力变形。刷到一张正在接力的超现实图，tap 一个变形动作（点燃/沉水/化金/霓虹…），AI 用 img2img 接出你的版本，你成新链尖、上家收到通知。一张永远在变形的集体图，remix 即社交动词。接力墙看最近链尖，点任意一张接着变。",
+    "url": "https://yinxinghuan.github.io/remix-relay/",
+    "poster": "https://yinxinghuan.github.io/games/posters/remix-relay.png",
+    "zipurl": "https://github.com/yinxinghuan/remix-relay/archive/refs/heads/master.zip?v=0.1"
   }
 ]
