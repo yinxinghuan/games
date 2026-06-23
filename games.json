@@ -10,6 +10,16 @@
     "zipurl": "https://github.com/yinxinghuan/sky-leap/archive/refs/heads/master.zip"
   },
   {
+    "id": "quick-draw",
+    "uuid": "43c76846-39c9-45b7-ad08-76c817b375a3",
+    "name": "Quick Draw",
+    "category": "action",
+    "description": "AlterU action · 低多边形西部拔枪决斗。两个枪手对峙，屏幕闪 DRAW! 那一刻最快点屏=秒杀对手，抢跑=FOUL 直接输。连过一排越来越快的枪手（酒鬼→通缉犯→镇长），反应越快爬越深，被抢先=入土。复用全角色库当各路枪手。连胜上榜 + 被超越通知，单点即玩。",
+    "url": "https://yinxinghuan.github.io/quick-draw/",
+    "poster": "https://yinxinghuan.github.io/games/posters/quick-draw.png",
+    "zipurl": "https://github.com/yinxinghuan/quick-draw/archive/refs/heads/master.zip"
+  },
+  {
     "id": "corporate-climb",
     "uuid": "76c220c2-2340-497d-ada7-41108d25efbf",
     "name": "Corporate Climb",
