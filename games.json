@@ -1088,5 +1088,25 @@
     "url": "https://yinxinghuan.github.io/remix-relay/",
     "poster": "https://yinxinghuan.github.io/games/posters/remix-relay.png",
     "zipurl": "https://github.com/yinxinghuan/remix-relay/archive/refs/heads/master.zip?v=0.1"
+  },
+  {
+    "id": "ink-bloom",
+    "uuid": "42f6974c-a71d-4be8-9899-c06cac28f5c9",
+    "name": "Ink Bloom",
+    "category": "social",
+    "description": "AlterU 感官 · 墨流大理石纹。点一下墨环绽放，拖动把嵌套色环梳成羽状大理石纹，松手晾到公共晾纸绳上。看到别人的纹纸盖一枚蜡封印 → 作者收到通知。搅墨即治愈，盖印即社交。",
+    "url": "https://yinxinghuan.github.io/ink-bloom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ink-bloom.png",
+    "zipurl": "https://github.com/yinxinghuan/ink-bloom/archive/refs/heads/master.zip?v=0.1"
+  },
+  {
+    "id": "pop-it",
+    "uuid": "0175d24d-fabf-44bb-b848-cee047bbf764",
+    "name": "Pop It",
+    "category": "social",
+    "description": "AlterU 感官 · 指尖泡。一格彩虹硅胶泡，点一下按下去啵一声，按出图案（爱心/笑脸/字母）发到留言墙。看到别人的留言按一下「戳回去」满屏连爆 → 作者收到通知。解压即社交。",
+    "url": "https://yinxinghuan.github.io/pop-it/",
+    "poster": "https://yinxinghuan.github.io/games/posters/pop-it.png",
+    "zipurl": "https://github.com/yinxinghuan/pop-it/archive/refs/heads/master.zip?v=0.1"
   }
 ]
