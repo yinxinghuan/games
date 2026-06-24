@@ -1,5 +1,15 @@
 [
   {
+    "id": "game-sense",
+    "uuid": "83e9b6ce-aae1-481f-940c-34d0a590b341",
+    "name": "Game Sense",
+    "category": "puzzle",
+    "description": "美式漫画 pop-art 风「游戏设计/交互」知识测验 · 不止选择题，还能拖滑块、拖拽分类动手作答，答对弹 BAM! 漫画星爆+表情吉祥物。公开分数排行榜+被超越通知，作品墙能试玩别人做的游戏并点赞评论。英文默认/中文跟随系统，单手即玩。",
+    "url": "https://yinxinghuan.github.io/game-sense/",
+    "poster": "https://yinxinghuan.github.io/games/posters/game-sense.png",
+    "zipurl": "https://github.com/yinxinghuan/game-sense/archive/refs/heads/main.zip"
+  },
+  {
     "id": "sky-leap",
     "uuid": "eefd9179-7b36-4440-8b73-0cb1ea4e153e",
     "name": "Sky Leap",
