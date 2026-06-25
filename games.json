@@ -400,6 +400,15 @@
     "zipurl": "https://github.com/yinxinghuan/ink-of-fate/archive/refs/heads/master.zip"
   },
   {
+    "id": "past-life",
+    "uuid": "acbf5a8d-763d-42e1-aa2f-93e659d77da3",
+    "name": "Past Life",
+    "category": "social",
+    "description": "A candlelit medium reads your face and recalls the life your soul lived before this one — your name, your trade, your city, and how you died — then paints the period portrait. AlterU After Dark.",
+    "url": "https://yinxinghuan.github.io/past-life/",
+    "poster": "https://yinxinghuan.github.io/games/posters/past-life.png"
+  },
+  {
     "id": "frost-crystals",
     "uuid": "881877de-da56-4f0c-b3bb-70046e5daf70",
     "name": "Frost Crystals",
