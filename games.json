@@ -1128,5 +1128,15 @@
     "url": "https://yinxinghuan.github.io/pop-it/",
     "poster": "https://yinxinghuan.github.io/games/posters/pop-it.png",
     "zipurl": "https://github.com/yinxinghuan/pop-it/archive/refs/heads/master.zip?v=0.1"
+  },
+  {
+    "id": "baggage-check",
+    "uuid": "d5614ac4-5956-435d-b34d-493e47db2438",
+    "name": "Baggage Check",
+    "category": "action",
+    "description": "Baggage Check — a dating load test. Tap to stack your date's emotional baggage (mommy issues, texts the ex, the ick) into a wobbling suitcase tower. Lean too far and it all collapses.",
+    "url": "https://yinxinghuan.github.io/baggage-check/",
+    "poster": "https://yinxinghuan.github.io/games/posters/baggage-check.png",
+    "zipurl": "https://github.com/yinxinghuan/baggage-check/archive/refs/heads/main.zip"
   }
 ]
