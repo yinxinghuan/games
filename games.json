@@ -2,9 +2,9 @@
   {
     "id": "tide-line",
     "uuid": "ab8630c2-7555-41ae-94df-eb03a0c3da07",
-    "name": "Tide Line",
+    "name": "Wild Line",
     "category": "social",
-    "description": "刷到一片被垃圾缠困的海滩，手指擦走垃圾、解救被渔网塑料困住的海龟海豹章鱼等海洋生灵——你救出谁，谁就回到你的海岸，做成可收藏邮票。全平台一起清理累计解锁鲸鱼等稀有物种。剪纸插画风，英文默认多语，零教程即点即玩。",
+    "description": "刷到一片受人类活动威胁的栖息地（海滩/森林…），手指擦走垃圾陷阱、解救被困的野生动物——你救出谁谁就回到这片家园，做成可收藏邮票拼进全平台。剪纸手绘风，英文默认多语，零教程即点即玩。",
     "url": "https://yinxinghuan.github.io/tide-line/",
     "poster": "https://yinxinghuan.github.io/games/posters/tide-line.png",
     "zipurl": "https://github.com/yinxinghuan/tide-line/archive/refs/heads/master.zip"
