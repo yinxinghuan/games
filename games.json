@@ -1,5 +1,15 @@
 [
   {
+    "id": "tide-line",
+    "uuid": "ab8630c2-7555-41ae-94df-eb03a0c3da07",
+    "name": "Tide Line",
+    "category": "social",
+    "description": "刷到一片被垃圾缠困的海滩，手指擦走垃圾、解救被渔网塑料困住的海龟海豹章鱼等海洋生灵——你救出谁，谁就回到你的海岸，做成可收藏邮票。全平台一起清理累计解锁鲸鱼等稀有物种。剪纸插画风，英文默认多语，零教程即点即玩。",
+    "url": "https://yinxinghuan.github.io/tide-line/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tide-line.png",
+    "zipurl": "https://github.com/yinxinghuan/tide-line/archive/refs/heads/master.zip"
+  },
+  {
     "id": "game-sense",
     "uuid": "83e9b6ce-aae1-481f-940c-34d0a590b341",
     "name": "Game Sense",
