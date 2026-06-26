@@ -1141,9 +1141,9 @@
   {
     "id": "get-off-my-lawn",
     "uuid": "a467b652-de76-4cb2-8d3b-5e197289204c",
-    "name": "Get Off My Lawn",
+    "name": "Get Off My Grave",
     "category": "action",
-    "description": "Get Off My Lawn — one-tap tower defense. Tap a patch to plant a sprinkler, tap again to upgrade. Hose down the kids, critters and loiterers crossing your yard before they reach the house.",
+    "description": "Get Off My Grave — one-tap tower defense in a foggy graveyard. Tap a plot to light a spectral brazier, tap again to stoke it. Banish the zombies, ghosts and freshly dead clawing toward your crypt.",
     "url": "https://yinxinghuan.github.io/get-off-my-lawn/",
     "poster": "https://yinxinghuan.github.io/games/posters/get-off-my-lawn.png",
     "zipurl": "https://github.com/yinxinghuan/get-off-my-lawn/archive/refs/heads/master.zip"
