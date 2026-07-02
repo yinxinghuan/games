@@ -1,5 +1,15 @@
 [
   {
+    "id": "crystal-swarm",
+    "uuid": "60311370-edc4-45ea-bae5-6ee831a0b694",
+    "name": "Crystal Swarm",
+    "category": "casual",
+    "description": "3D 感官水晶玩具：按住屏幕制造引力，把 900 个发光水晶吸进 3 个能量环，在 45 秒内点亮棱镜。Three.js InstancedMesh + shader 光晕，轻依赖、强视觉，适合测试 AlterU 3D sensory toy 模板。",
+    "url": "https://yinxinghuan.github.io/crystal-swarm/",
+    "poster": "https://yinxinghuan.github.io/games/posters/crystal-swarm.png",
+    "zipurl": "https://github.com/yinxinghuan/crystal-swarm/archive/refs/heads/master.zip"
+  },
+  {
     "id": "whisper-pond",
     "uuid": "97d2e964-61e8-41f9-9fe2-bc0ab7b76b14",
     "name": "Whisper Pond",

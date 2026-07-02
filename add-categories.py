@@ -37,6 +37,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'crystal-swarm': 'casual',
     'whisper-pond': 'casual',
     'sky-leap': 'action',
     # AlterU After Dark — instant-play / daily ritual / sensory
