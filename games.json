@@ -1,5 +1,15 @@
 [
   {
+    "id": "whisper-pond",
+    "uuid": "97d2e964-61e8-41f9-9fe2-bc0ab7b76b14",
+    "name": "Whisper Pond",
+    "category": "casual",
+    "description": "60 秒感官水面玩具：写下一句心事，轻点水面投下字石，涟漪、光点和低声回声会把它慢慢散开。无失败、低压力、Web Audio 合成音效，适合测试 AlterU sensory toy 模板。",
+    "url": "https://yinxinghuan.github.io/whisper-pond/",
+    "poster": "https://yinxinghuan.github.io/games/posters/whisper-pond.png",
+    "zipurl": "https://github.com/yinxinghuan/whisper-pond/archive/refs/heads/master.zip"
+  },
+  {
     "id": "tide-line",
     "uuid": "ab8630c2-7555-41ae-94df-eb03a0c3da07",
     "name": "Wild Line",
