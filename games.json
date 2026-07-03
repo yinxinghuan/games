@@ -14,7 +14,7 @@
     "uuid": "60311370-edc4-45ea-bae5-6ee831a0b694",
     "name": "Crystal Swarm",
     "category": "casual",
-    "description": "3D 感官水晶玩具：按住屏幕制造引力，把 900 个发光水晶吸进 3 个能量环，在 45 秒内点亮棱镜。Three.js InstancedMesh + shader 光晕，轻依赖、强视觉，适合测试 AlterU 3D sensory toy 模板。",
+    "description": "3D 材质感官玩具：参考 TroisJS Sub Surface Scattering Material demo，用 Three.js InstancedMesh、MeshPhysicalMaterial 和 Bloom 渲染 2000 个发光十二面体，按住拖动即可牵引整片水晶群。",
     "url": "https://yinxinghuan.github.io/crystal-swarm/",
     "poster": "https://yinxinghuan.github.io/games/posters/crystal-swarm.png",
     "zipurl": "https://github.com/yinxinghuan/crystal-swarm/archive/refs/heads/master.zip"
@@ -22,9 +22,9 @@
   {
     "id": "whisper-pond",
     "uuid": "97d2e964-61e8-41f9-9fe2-bc0ab7b76b14",
-    "name": "Whisper Pond",
+    "name": "Physics Pond",
     "category": "casual",
-    "description": "60 秒感官水面玩具：写下一句心事，轻点水面投下字石，涟漪、光点和低声回声会把它慢慢散开。无失败、低压力、Web Audio 合成音效，适合测试 AlterU sensory toy 模板。",
+    "description": "3D 物理感官玩具：参考 TroisJS Cannon physics demo，用 Three.js + cannon-es 渲染 500 个彩色小球、6 条明亮挡板和真实阴影；手机可拖动旋转、点按喷球、长按连喷。",
     "url": "https://yinxinghuan.github.io/whisper-pond/",
     "poster": "https://yinxinghuan.github.io/games/posters/whisper-pond.png",
     "zipurl": "https://github.com/yinxinghuan/whisper-pond/archive/refs/heads/master.zip"
