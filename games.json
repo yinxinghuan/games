@@ -1,5 +1,15 @@
 [
   {
+    "id": "fur-flood",
+    "uuid": "d2336ed6-08a3-4844-ac58-61e30d39a644",
+    "name": "Fur Flood",
+    "category": "action",
+    "description": "一句话造游戏模板首个独立发布案例：小猫在客厅里躲避扫地机器人、玩具车和家用电器，用横向猫爪痕近身反击。基于 Block Party 母模板生成，但作为独立项目发布，不覆盖原版 Block Party。",
+    "url": "https://yinxinghuan.github.io/fur-flood/",
+    "poster": "https://yinxinghuan.github.io/games/posters/fur-flood.png",
+    "zipurl": "https://github.com/yinxinghuan/fur-flood/archive/refs/heads/master.zip"
+  },
+  {
     "id": "crystal-swarm",
     "uuid": "60311370-edc4-45ea-bae5-6ee831a0b694",
     "name": "Crystal Swarm",
