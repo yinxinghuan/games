@@ -1,5 +1,15 @@
 [
   {
+    "id": "moonlit-draw",
+    "uuid": "d497e6a9-a5aa-42e7-bef6-014a081d66af",
+    "name": "Moonlit Draw",
+    "category": "action",
+    "description": "一句话造游戏模板的反应决斗案例：月下道场里的武士拔刀对决，等待信号后瞬间出剑，抢先会破招，胜利时有弧形剑光和慢动作碎裂。基于 Quick Draw 母模板生成，但作为独立项目发布。",
+    "url": "https://yinxinghuan.github.io/moonlit-draw/",
+    "poster": "https://yinxinghuan.github.io/games/posters/moonlit-draw.png",
+    "zipurl": "https://github.com/yinxinghuan/moonlit-draw/archive/refs/heads/master.zip"
+  },
+  {
     "id": "fur-flood",
     "uuid": "d2336ed6-08a3-4844-ac58-61e30d39a644",
     "name": "Fur Flood",
