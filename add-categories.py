@@ -81,6 +81,7 @@ CATEGORIES = {
     'memory-card': 'puzzle',
 
     # Social — cross-user wall-first / friend-targeted / collective ritual
+    'deck-wall': 'social',
     'the-stand-in': 'social',
     'tap-and-tell-vertical': 'social',
     'kiss-wall': 'social',
