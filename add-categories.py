@@ -82,6 +82,7 @@ CATEGORIES = {
 
     # Social — cross-user wall-first / friend-targeted / collective ritual
     'deck-wall': 'social',
+    'poster-wall': 'social',
     'the-stand-in': 'social',
     'tap-and-tell-vertical': 'social',
     'kiss-wall': 'social',

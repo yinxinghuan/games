@@ -14,7 +14,7 @@
     "uuid": "58352b01-dac5-4187-bc0b-86cbb2468160",
     "name": "Gig Wall",
     "category": "social",
-    "description": "社交共创演出海报墙：玩家用头像或基础 prompt 生成一张满版地下演出海报，所有人的作品以三列瓦片墙方式贴在街头公共墙面上，点进详情可看完整海报、作者头像、用户名、点赞和留言。",
+    "description": "社交共创演出海报墙：玩家用头像读解或用户名生成一张满版地下演出海报，所有人的作品可在堆叠墙和网格墙之间切换，点进详情可看大幅完整海报、作者头像、用户名、点赞和留言。",
     "url": "https://yinxinghuan.github.io/poster-wall/",
     "poster": "https://yinxinghuan.github.io/games/posters/poster-wall.png",
     "zipurl": "https://github.com/yinxinghuan/poster-wall/archive/refs/heads/master.zip"
