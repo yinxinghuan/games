@@ -60,6 +60,16 @@
     "zipurl": "https://github.com/yinxinghuan/whisper-pond/archive/refs/heads/master.zip"
   },
   {
+    "id": "prism-rush",
+    "uuid": "5f0e5da5-c7f1-4606-97f7-6d907585728b",
+    "name": "Prism Rush",
+    "category": "action",
+    "description": "3D 霓虹隧道换道小游戏：单手点左右切换三条轨道，驾驶发光棱镜在 60 秒内收集蓝紫棱晶、躲开红色危险门；连击越高分数越高，撞门即结算。",
+    "url": "https://yinxinghuan.github.io/prism-rush/",
+    "poster": "https://yinxinghuan.github.io/games/posters/prism-rush.svg",
+    "zipurl": "https://github.com/yinxinghuan/prism-rush/archive/refs/heads/master.zip"
+  },
+  {
     "id": "tide-line",
     "uuid": "ab8630c2-7555-41ae-94df-eb03a0c3da07",
     "name": "Wild Line",
