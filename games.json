@@ -66,7 +66,7 @@
     "category": "action",
     "description": "3D 霓虹隧道换道小游戏：单手点左右切换三条轨道，驾驶发光棱镜在 60 秒内收集蓝紫棱晶、躲开红色危险门；连击越高分数越高，撞门即结算。",
     "url": "https://yinxinghuan.github.io/prism-rush/",
-    "poster": "https://yinxinghuan.github.io/games/posters/prism-rush.svg",
+    "poster": "https://yinxinghuan.github.io/games/posters/prism-rush.png",
     "zipurl": "https://github.com/yinxinghuan/prism-rush/archive/refs/heads/master.zip"
   },
   {
