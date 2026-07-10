@@ -1,5 +1,15 @@
 [
   {
+    "id": "rooftop-delivery",
+    "uuid": "3ecbe73c-4354-438b-8a30-f523370c0324",
+    "name": "Rooftop Delivery",
+    "category": "action",
+    "description": "3D 黄昏天台投递游戏：向上拖动控制力度、左右调整方向，把 8 件包裹抛过城市街谷；读取每轮侧风和实时弹道预测，落在屋顶收件标记中心可获得高分与连击，累计 3 次坠楼则提前收车。",
+    "url": "https://yinxinghuan.github.io/rooftop-delivery/",
+    "poster": "https://yinxinghuan.github.io/games/posters/rooftop-delivery.png",
+    "zipurl": "https://github.com/yinxinghuan/rooftop-delivery/archive/refs/heads/master.zip"
+  },
+  {
     "id": "deck-wall",
     "uuid": "e89dc566-924e-4e6c-a655-330807eb70f6",
     "name": "Deck Wall",
