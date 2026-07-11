@@ -1,5 +1,15 @@
 [
   {
+    "id": "heartwave-radio",
+    "uuid": "57f33e47-9b61-41a1-8b7c-1c8c61a4d348",
+    "name": "Heartwave Radio",
+    "category": "social",
+    "description": "AlterU 社交 · 心动电台。连续完成 5 个直觉双选题，调出今晚的私人频道、专属旋律、频率与人格标签，把唱片式频率卡发到社区墙，听见此刻同频的人。",
+    "url": "https://yinxinghuan.github.io/heartwave-radio/",
+    "poster": "https://yinxinghuan.github.io/games/posters/heartwave-radio.png",
+    "zipurl": "https://github.com/yinxinghuan/heartwave-radio/archive/refs/heads/master.zip"
+  },
+  {
     "id": "rooftop-delivery",
     "uuid": "3ecbe73c-4354-438b-8a30-f523370c0324",
     "name": "Rooftop Delivery",

@@ -82,6 +82,7 @@ CATEGORIES = {
     'memory-card': 'puzzle',
 
     # Social — cross-user wall-first / friend-targeted / collective ritual
+    'heartwave-radio': 'social',
     'deck-wall': 'social',
     'poster-wall': 'social',
     'the-stand-in': 'social',
