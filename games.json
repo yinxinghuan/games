@@ -1,5 +1,25 @@
 [
   {
+    "id": "autumn-lost-found",
+    "uuid": "0eca2451-c618-4f38-a47e-c6eb8d755444",
+    "name": "Autumn Lost & Found",
+    "category": "strategy",
+    "description": "以真实用户名 Isabel 为主角的秋日失物招领决策游戏：在日落前处理 12 件带着记忆的失物，在温暖、秩序、信任与记忆之间取舍；7 张状态立绘与 4 张剧情关键帧随选择改变主角状态。",
+    "url": "https://yinxinghuan.github.io/autumn-lost-found/",
+    "poster": "https://yinxinghuan.github.io/games/posters/autumn-lost-found.png",
+    "zipurl": "https://github.com/yinxinghuan/autumn-lost-found/archive/refs/heads/main.zip"
+  },
+  {
+    "id": "the-night-desk",
+    "uuid": "d39a7632-d13b-4602-abf5-39cbe45b168a",
+    "name": "The Night Desk",
+    "category": "strategy",
+    "description": "以 ghostpixel 为主角的超自然酒店决策生存游戏：值守 12 次午夜来电，在镇定、秩序、信任与真相之间取舍；多状态去背立绘负责回合反馈，全屏关键帧负责开场、转折与结局。",
+    "url": "https://yinxinghuan.github.io/the-night-desk/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-night-desk.png",
+    "zipurl": "https://github.com/yinxinghuan/the-night-desk/archive/refs/heads/main.zip"
+  },
+  {
     "id": "heartwave-radio",
     "uuid": "57f33e47-9b61-41a1-8b7c-1c8c61a4d348",
     "name": "Heartwave Radio",

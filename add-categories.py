@@ -37,6 +37,8 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'autumn-lost-found': 'strategy',
+    'the-night-desk': 'strategy',
     'rooftop-delivery': 'action',
     'crystal-swarm': 'casual',
     'whisper-pond': 'casual',
