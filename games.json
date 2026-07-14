@@ -1,5 +1,15 @@
 [
   {
+    "id": "midnight-verdict",
+    "uuid": "ddaef39e-5766-4db8-b13d-642ee08ae318",
+    "name": "Midnight Verdict",
+    "category": "puzzle",
+    "description": "深夜便利店怪谈推理游戏：检查每位顾客身上的三处细节，在 18 秒内判断对方是普通人类还是夜客；连续误判 3 次会提前下班，经理代判整夜只能使用一次。",
+    "url": "https://yinxinghuan.github.io/midnight-verdict/",
+    "poster": "https://yinxinghuan.github.io/games/posters/midnight-verdict.png",
+    "zipurl": "https://github.com/yinxinghuan/midnight-verdict/archive/refs/heads/main.zip"
+  },
+  {
     "id": "autumn-lost-found",
     "uuid": "0eca2451-c618-4f38-a47e-c6eb8d755444",
     "name": "Autumn Lost & Found",
