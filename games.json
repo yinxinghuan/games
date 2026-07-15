@@ -1,5 +1,15 @@
 [
   {
+    "id": "lost-time-bureau",
+    "uuid": "19473bc1-adb7-49e6-98a2-80b469094f32",
+    "name": "The Lost Time Office",
+    "category": "strategy",
+    "description": "午夜时间管理局叙事决策游戏：核验 7 位来自错误年代的来客，在‘留在现世’与‘送回原线’之间裁定；每个选择同时改变因果稳定、人道信用和后续案件中的城市历史。",
+    "url": "https://yinxinghuan.github.io/lost-time-bureau/",
+    "poster": "https://yinxinghuan.github.io/games/posters/lost-time-bureau.png",
+    "zipurl": "https://github.com/yinxinghuan/lost-time-bureau/archive/refs/heads/main.zip"
+  },
+  {
     "id": "midnight-verdict",
     "uuid": "ddaef39e-5766-4db8-b13d-642ee08ae318",
     "name": "Midnight Verdict",
