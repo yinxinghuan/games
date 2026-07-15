@@ -141,6 +141,7 @@ CATEGORIES = {
     'ai-drama': 'tool',
     'my-meme': 'tool',
     'album-cover-generator': 'tool',
+    'tone-foundry': 'tool',
 
     # Other — FMV interactive narrative (V1 / v2 / v3)
     'last-pour': 'other',

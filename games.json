@@ -1,5 +1,15 @@
 [
   {
+    "id": "tone-foundry",
+    "uuid": "681b691b-2316-4b45-8154-bfbb0325d387",
+    "name": "Tone Foundry",
+    "category": "tool",
+    "description": "模块化吉他创作与收藏游戏：每局通过五次限量零件抽取完成一把独特吉他，试听其专属音色，在移动端音序器写下 riff，并把成琴与作品发布到公共琴墙。",
+    "url": "https://yinxinghuan.github.io/tone-foundry/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tone-foundry.png",
+    "zipurl": "https://github.com/yinxinghuan/tone-foundry/archive/refs/heads/main.zip"
+  },
+  {
     "id": "lost-time-bureau",
     "uuid": "19473bc1-adb7-49e6-98a2-80b469094f32",
     "name": "The Lost Time Office",
