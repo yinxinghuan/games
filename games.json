@@ -1,5 +1,15 @@
 [
   {
+    "id": "anomaly-hand",
+    "uuid": "af20953f-3abf-4d7f-b7f3-042b3a6dd51e",
+    "name": "Anomaly Hand",
+    "category": "strategy",
+    "description": "以 8 位真实玩家形象为异常行动员的短局卡牌战斗：读取敌人公开意图，每回合从 3 张牌中选择 1 张，交替攻防技术积累序列，释放专属签名技并通过两次改造强化击穿三场异常遭遇。",
+    "url": "https://yinxinghuan.github.io/anomaly-hand/",
+    "poster": "https://yinxinghuan.github.io/games/posters/anomaly-hand.png",
+    "zipurl": "https://github.com/yinxinghuan/anomaly-hand/archive/refs/heads/main.zip"
+  },
+  {
     "id": "tone-foundry",
     "uuid": "681b691b-2316-4b45-8154-bfbb0325d387",
     "name": "Tone Foundry",
