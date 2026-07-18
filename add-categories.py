@@ -146,6 +146,7 @@ CATEGORIES = {
     'tone-foundry': 'tool',
 
     # Other — FMV interactive narrative (V1 / v2 / v3)
+    'ume-last-cup': 'other',
     'last-pour': 'other',
     'going-down': 'other',
     'last-train': 'other',

@@ -1,5 +1,15 @@
 [
   {
+    "id": "ume-last-cup",
+    "uuid": "d54e9dfe-8b91-4752-9e8b-4e266d33c699",
+    "name": "UMe: The Last Cup Run",
+    "category": "other",
+    "description": "UMe Family 欢乐互动视频游戏：在奶茶配送车里点击五件异常线索，逐一召唤吉祥物家族接力救杯；看完五段闹剧后帮助粉色兔子稳稳送出最后一杯。",
+    "url": "https://yinxinghuan.github.io/ume-last-cup/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-last-cup.png",
+    "zipurl": "https://github.com/yinxinghuan/ume-last-cup/archive/refs/heads/master.zip"
+  },
+  {
     "id": "dungeon-shift",
     "uuid": "cb284177-9fff-4e40-9ed7-8381be7b365b",
     "name": "Dungeon Shift",
