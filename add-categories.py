@@ -38,6 +38,7 @@ ALLOWED = {
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
     'anomaly-hand': 'strategy',
+    'dungeon-shift': 'strategy',
     'midnight-verdict': 'puzzle',
     'lost-time-bureau': 'strategy',
     'autumn-lost-found': 'strategy',

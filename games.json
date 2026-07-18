@@ -1,5 +1,15 @@
 [
   {
+    "id": "dungeon-shift",
+    "uuid": "cb284177-9fff-4e40-9ed7-8381be7b365b",
+    "name": "Dungeon Shift",
+    "category": "strategy",
+    "description": "AlterU 异步非对称 3D 潜入。地牢主用 12 点预算布置石墙、尖刺、符文与巡逻守卫并发布关卡；潜入者挑战真实玩家的地牢，在 75 秒内夺宝并撤回入口。社区挑战墙、作者结果通知与最高分排行榜形成换班式攻防闭环。",
+    "url": "https://yinxinghuan.github.io/dungeon-shift/",
+    "poster": "https://yinxinghuan.github.io/games/posters/dungeon-shift.png",
+    "zipurl": "https://github.com/yinxinghuan/dungeon-shift/archive/refs/heads/master.zip"
+  },
+  {
     "id": "anomaly-hand",
     "uuid": "af20953f-3abf-4d7f-b7f3-042b3a6dd51e",
     "name": "Anomaly Hand",
