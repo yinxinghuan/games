@@ -1,5 +1,15 @@
 [
   {
+    "id": "ume-midnight-premiere",
+    "uuid": "9317f0eb-3bb3-44b2-89ac-0b2dc8a3c3fd",
+    "name": "UMe: The Midnight Premiere",
+    "category": "other",
+    "description": "UMe Family 欢乐互动视频游戏：在深夜电影院点击五处异常，依次触发吉祥物家族的爆米花、冰面、幕布、票根和胶片闹剧；集齐五段胶片后，帮助粉色兔子用奶茶杯放出一场珍珠星空首映。",
+    "url": "https://yinxinghuan.github.io/ume-midnight-premiere/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-midnight-premiere.png",
+    "zipurl": "https://github.com/yinxinghuan/ume-midnight-premiere/archive/refs/heads/master.zip"
+  },
+  {
     "id": "get-off-the-train",
     "uuid": "7cc693d3-6ca5-414e-8dbe-7fb66de752f2",
     "name": "Get Off the Train!",
