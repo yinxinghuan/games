@@ -1,5 +1,15 @@
 [
   {
+    "id": "get-off-the-train",
+    "uuid": "7cc693d3-6ca5-414e-8dbe-7fb66de752f2",
+    "name": "Get Off the Train!",
+    "category": "action",
+    "description": "美式漫画风 3D 早高峰物理逃脱：在车门关闭前穿过会移动、碰撞和摔倒的乘客；观察吊环预判周期性车厢晃动，松手站稳或借冲量持续挑战无限车厢，后期还会混入怪兽乘客。",
+    "url": "https://yinxinghuan.github.io/get-off-the-train/",
+    "poster": "https://yinxinghuan.github.io/games/posters/get-off-the-train.png",
+    "zipurl": "https://github.com/yinxinghuan/get-off-the-train/archive/refs/heads/master.zip"
+  },
+  {
     "id": "ume-last-cup",
     "uuid": "d54e9dfe-8b91-4752-9e8b-4e266d33c699",
     "name": "UMe: The Last Cup Run",
