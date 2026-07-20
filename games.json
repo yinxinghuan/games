@@ -4,7 +4,7 @@
     "uuid": "5cc524e5-8b5b-48a2-bc0d-e8ecd80fa30a",
     "name": "Edge Brake",
     "category": "action",
-    "description": "低多边形 3D 极地急停挑战：按住为企鹅刹车，在滑出冰崖前尽可能贴边停下；距离越险得分越高，连续完美停车还能累积贴边连击。",
+    "description": "低多边形 3D 极地急停挑战：看准悬崖逼近的时机，点击一次锁定急停；距离越险得分越高，连续完美停车还能累积贴边连击。",
     "url": "https://yinxinghuan.github.io/edge-brake/",
     "poster": "https://yinxinghuan.github.io/games/posters/edge-brake.png",
     "zipurl": "https://github.com/yinxinghuan/edge-brake/archive/refs/heads/master.zip"
