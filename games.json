@@ -1,5 +1,15 @@
 [
   {
+    "id": "ume-order-panic",
+    "uuid": "af2fcdbf-3148-4954-889f-6f7ca14de7b2",
+    "name": "UMe Order Panic",
+    "category": "action",
+    "description": "帮助 UMe Family 在 35 秒奶茶高峰中看清配方、快速点选原料并连续正确出杯；随着关卡推进，六位吉祥物顾客会轮流带着不同表情登场。",
+    "url": "https://yinxinghuan.github.io/ume-order-panic/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ume-order-panic.png",
+    "zipurl": "https://github.com/yinxinghuan/ume-order-panic/archive/refs/heads/master.zip"
+  },
+  {
     "id": "ume-midnight-premiere",
     "uuid": "9317f0eb-3bb3-44b2-89ac-0b2dc8a3c3fd",
     "name": "UMe: The Midnight Premiere",
