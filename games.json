@@ -1,5 +1,15 @@
 [
   {
+    "id": "noodle-panic",
+    "uuid": "4a1897bd-8012-45c2-93b1-2a1909911ad0",
+    "name": "Colony Lockdown",
+    "category": "action",
+    "description": "在圆形培养皿中部署净化球，躲避由随机 DNA 组合出的移动菌株；每次成功都会生成新的色素、形体、轨迹与分裂规则，并与全球玩家争夺净化点纪录。",
+    "url": "https://yinxinghuan.github.io/noodle-panic/",
+    "poster": "https://yinxinghuan.github.io/games/posters/noodle-panic.png",
+    "zipurl": "https://github.com/yinxinghuan/noodle-panic/archive/refs/heads/main.zip"
+  },
+  {
     "id": "edge-brake",
     "uuid": "5cc524e5-8b5b-48a2-bc0d-e8ecd80fa30a",
     "name": "Edge Brake",
