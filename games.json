@@ -1,5 +1,15 @@
 [
   {
+    "id": "noodle-panic",
+    "uuid": "4a1897bd-8012-45c2-93b1-2a1909911ad0",
+    "name": "Colony Lockdown",
+    "category": "action",
+    "description": "培养皿即时反应挑战：在 20 秒内连续点亮净化球、避开不断移动与可能分裂的菌株；每次培养成功都会从 DNA 基因池生成新的颜色、形态、动态和路线组合，并可在排行榜追逐净化点纪录。",
+    "url": "https://yinxinghuan.github.io/noodle-panic/",
+    "poster": "https://yinxinghuan.github.io/games/posters/noodle-panic.png",
+    "zipurl": "https://github.com/yinxinghuan/noodle-panic/archive/refs/heads/main.zip"
+  },
+  {
     "id": "edge-brake",
     "uuid": "5cc524e5-8b5b-48a2-bc0d-e8ecd80fa30a",
     "name": "Edge Brake",
