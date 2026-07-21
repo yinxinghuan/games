@@ -1,5 +1,15 @@
 [
   {
+    "id": "liquid-memory",
+    "uuid": "ee45cf53-9438-4fa8-af7b-13bd9d241e84",
+    "name": "Liquid Memory",
+    "category": "casual",
+    "description": "在一面破碎月亮倒映的黑水镜里导流，带回六枚发光记忆墨滴；每次修补都会改变水面，最后让整片暗水翻成一朵潮汐玻璃花。",
+    "url": "https://yinxinghuan.github.io/liquid-memory/",
+    "poster": "https://yinxinghuan.github.io/games/posters/liquid-memory.png",
+    "zipurl": "https://github.com/yinxinghuan/liquid-memory/archive/refs/heads/main.zip"
+  },
+  {
     "id": "crystal-swarm-reawakened",
     "uuid": "8537223f-408e-4d24-90d6-b38beaaf1fd9",
     "name": "Crystal Swarm: Reawakened",
