@@ -37,6 +37,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'crystal-swarm-reawakened': 'casual',
     'edge-brake': 'action',
     'noodle-panic': 'action',
     'ume-order-panic': 'action',

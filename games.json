@@ -1,5 +1,15 @@
 [
   {
+    "id": "crystal-swarm-reawakened",
+    "uuid": "8537223f-408e-4d24-90d6-b38beaaf1fd9",
+    "name": "Crystal Swarm: Reawakened",
+    "category": "casual",
+    "description": "一段随手势苏醒的晶体感官体验：划开暗场，牵引棱晶与折射轨迹，在短暂聚合后留下独属于这一刻的星云花。",
+    "url": "https://yinxinghuan.github.io/crystal-swarm-reawakened/",
+    "poster": "https://yinxinghuan.github.io/games/posters/crystal-swarm-reawakened.png",
+    "zipurl": "https://github.com/yinxinghuan/crystal-swarm-reawakened/archive/refs/heads/main.zip"
+  },
+  {
     "id": "noodle-panic",
     "uuid": "4a1897bd-8012-45c2-93b1-2a1909911ad0",
     "name": "Colony Lockdown",
