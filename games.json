@@ -1,5 +1,15 @@
 [
   {
+    "id": "serpent-orbit",
+    "uuid": "04fa9e4d-89af-4205-9487-a8fd684be11c",
+    "name": "Serpent Halo",
+    "category": "casual",
+    "description": "拖动一颗青蓝光珠绕成一环，让由数百枚 GPU 实例鳞片组成的灵蛇沿无尽曲线真实追随；闭环时银白高光从蛇尾扫向蛇头，随后自动复原。",
+    "url": "https://yinxinghuan.github.io/serpent-orbit/",
+    "poster": "https://yinxinghuan.github.io/games/posters/serpent-orbit.png",
+    "zipurl": "https://github.com/yinxinghuan/serpent-orbit/archive/refs/heads/main.zip"
+  },
+  {
     "id": "glass-tide",
     "uuid": "9da401c4-d546-457c-b19d-028faec0f69c",
     "name": "Glass Tide",
