@@ -1,5 +1,15 @@
 [
   {
+    "id": "swish-orbit",
+    "uuid": "067ef09a-a91f-4aa7-ac9f-f24dd471fe5b",
+    "name": "Swish Orbit",
+    "category": "visual",
+    "description": "一只橙色篮球在可自由环绕的深色球场中反复起飞，穿过由 84 个物理粒子编成的软网。球上单指拖拽投篮，空白处单指旋转，双指继续缩放观察入网形变。",
+    "url": "https://yinxinghuan.github.io/swish-orbit/",
+    "poster": "https://yinxinghuan.github.io/games/posters/swish-orbit.png",
+    "zipurl": "https://github.com/yinxinghuan/swish-orbit/archive/refs/heads/main.zip"
+  },
+  {
     "id": "tile-vortex",
     "uuid": "db6681df-8ab1-47b6-bcb8-596b96a3f90c",
     "name": "Tile Vortex",
