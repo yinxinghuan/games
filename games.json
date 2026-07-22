@@ -1,5 +1,15 @@
 [
   {
+    "id": "lightstroke",
+    "uuid": "028ddc63-b825-4039-abe6-e30be246e28c",
+    "name": "Lightstroke",
+    "category": "visual",
+    "description": "在 WebGPU SSGI+SSR 白色光场里，用单指画出会随速度变粗、沿色环变色并反射环境的三维金属管；双指可绕作品旋转缩放，松手后同一笔触完成一次镜面固化。",
+    "url": "https://yinxinghuan.github.io/lightstroke/",
+    "poster": "https://yinxinghuan.github.io/games/posters/lightstroke.png",
+    "zipurl": "https://github.com/yinxinghuan/lightstroke/archive/refs/heads/main.zip"
+  },
+  {
     "id": "orbital-traffic",
     "uuid": "027698f2-3ef4-43f4-9124-29bf5ce9c878",
     "name": "Orbital Traffic",
