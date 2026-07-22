@@ -1,5 +1,15 @@
 [
   {
+    "id": "breath-loom",
+    "uuid": "5eeb1dc6-a744-4dc4-a4b2-944c30f0e84d",
+    "name": "Breath Loom",
+    "category": "visual",
+    "description": "16,080 个顶点编成一枚会呼吸的黑白纤维体。单指拖动可收紧、撑开并扭转同一组镜像线，松手完成一次收束—外扩—复原的完整呼吸。",
+    "url": "https://yinxinghuan.github.io/breath-loom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/breath-loom.png",
+    "zipurl": "https://github.com/yinxinghuan/breath-loom/archive/refs/heads/main.zip"
+  },
+  {
     "id": "fractal-lens",
     "uuid": "eb5183eb-2303-4210-b159-1e50438a218d",
     "name": "Fractal Lens",
