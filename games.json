@@ -1,5 +1,15 @@
 [
   {
+    "id": "fractal-lens",
+    "uuid": "eb5183eb-2303-4210-b159-1e50438a218d",
+    "name": "Fractal Lens",
+    "category": "visual",
+    "description": "五次反演递归的全屏 GLSL 色谱镜面持续自我折叠。单指把奇点拖到指尖并蓄积形变，松手让同一方程完成一次高亮收束，再自动回到原始无限循环。",
+    "url": "https://yinxinghuan.github.io/fractal-lens/",
+    "poster": "https://yinxinghuan.github.io/games/posters/fractal-lens.png",
+    "zipurl": "https://github.com/yinxinghuan/fractal-lens/archive/refs/heads/main.zip"
+  },
+  {
     "id": "lightstroke",
     "uuid": "028ddc63-b825-4039-abe6-e30be246e28c",
     "name": "Lightstroke",
