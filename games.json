@@ -1,5 +1,15 @@
 [
   {
+    "id": "name-bloom",
+    "uuid": "062bb0b2-f05e-4c02-a9a8-987dead627a9",
+    "name": "Name Bloom",
+    "category": "casual",
+    "description": "触摸自己的名字，看旧金竖排铭文被风逐块侵蚀，释放深红与灰白三维花瓣；六秒风化后自动复原。",
+    "url": "https://yinxinghuan.github.io/name-bloom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/name-bloom.png",
+    "zipurl": "https://github.com/yinxinghuan/name-bloom/archive/refs/heads/main.zip"
+  },
+  {
     "id": "liquid-memory",
     "uuid": "ee45cf53-9438-4fa8-af7b-13bd9d241e84",
     "name": "Liquid Memory",
