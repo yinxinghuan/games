@@ -1,5 +1,15 @@
 [
   {
+    "id": "tide-fold",
+    "uuid": "cb46d67d-0529-44c5-bb26-4860f3bb7757",
+    "name": "Tide Fold",
+    "category": "visual",
+    "description": "AlterU 感官 · 折叠海潮。左右拖动，把原作 70,000 个 WebGPU MLS‑MPM 水粒子的无形容器折向中央；松手后同一块有厚度的深蓝水体反冲、回落并自动恢复。",
+    "url": "https://yinxinghuan.github.io/tide-fold/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tide-fold.png",
+    "zipurl": "https://github.com/yinxinghuan/tide-fold/archive/refs/heads/main.zip"
+  },
+  {
     "id": "brew-pressure",
     "uuid": "f6ff5258-16e2-4b51-ad9c-5862ab620517",
     "name": "Brew Pressure",
