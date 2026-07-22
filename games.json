@@ -1,5 +1,15 @@
 [
   {
+    "id": "soft-knot",
+    "uuid": "d95f7eaf-027d-4c4b-9712-d11bc74d743b",
+    "name": "Soft Knot",
+    "category": "visual",
+    "description": "WebGPU 四面体 FEM 软体结。紫色生物、粗麻绳、金属骷髅和弹性球持续撞进中央球；按住将射线附近的软体压入结团，松手让整团反向回弹。",
+    "url": "https://yinxinghuan.github.io/soft-knot/",
+    "poster": "https://yinxinghuan.github.io/games/posters/soft-knot.png",
+    "zipurl": "https://github.com/yinxinghuan/soft-knot/archive/refs/heads/main.zip"
+  },
+  {
     "id": "galaxy-well",
     "uuid": "4cd7f142-b590-4d4c-b261-867ddae79a13",
     "name": "Galaxy Well",
