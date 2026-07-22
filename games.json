@@ -1,5 +1,15 @@
 [
   {
+    "id": "dither-field",
+    "uuid": "43dd6f87-c702-4335-ae25-d0daeb1e161a",
+    "name": "Dither Field",
+    "category": "visual",
+    "description": "一张黑白人像由 Bayer 抖动矩阵中的 51,200 个立方像素逐行显影。单指旋转整块像素织物，双指把照片层与阈值层拉开，并直接倒放或推进同一段显影过程。",
+    "url": "https://yinxinghuan.github.io/dither-field/",
+    "poster": "https://yinxinghuan.github.io/games/posters/dither-field.png",
+    "zipurl": "https://github.com/yinxinghuan/dither-field/archive/refs/heads/main.zip"
+  },
+  {
     "id": "timewell",
     "uuid": "c68390a0-fe65-411b-98cc-02474d14a534",
     "name": "Timewell",
