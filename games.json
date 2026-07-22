@@ -1,5 +1,15 @@
 [
   {
+    "id": "tile-vortex",
+    "uuid": "db6681df-8ab1-47b6-bcb8-596b96a3f90c",
+    "name": "Tile Vortex",
+    "category": "visual",
+    "description": "红、橙、蓝和白色方块在全屏离散漩涡里连续呼吸。单指拖动涡心并压紧网格，松手让同一尺寸方程从触点发出一圈冲击波后回到中心。",
+    "url": "https://yinxinghuan.github.io/tile-vortex/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tile-vortex.png",
+    "zipurl": "https://github.com/yinxinghuan/tile-vortex/archive/refs/heads/main.zip"
+  },
+  {
     "id": "breath-loom",
     "uuid": "5eeb1dc6-a744-4dc4-a4b2-944c30f0e84d",
     "name": "Breath Loom",
