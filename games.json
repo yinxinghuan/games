@@ -1,5 +1,15 @@
 [
   {
+    "id": "flow-loom",
+    "uuid": "7987f937-b5b7-4aa2-bf15-f5d6804f7094",
+    "name": "Flow Loom",
+    "category": "visual",
+    "description": "4096 个 WebGPU MLS-MPM 金属短条组成一块活的流体织物。拖动手指雕刻速度场，完成长轨迹后松手，整幅织物会折向中央，再由背向重力重新铺开。",
+    "url": "https://yinxinghuan.github.io/flow-loom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/flow-loom.png",
+    "zipurl": "https://github.com/yinxinghuan/flow-loom/archive/refs/heads/main.zip"
+  },
+  {
     "id": "halftone-soundfield",
     "uuid": "e04077ac-bef8-47a3-adaa-1dee050daec8",
     "name": "Boing Sound Box",
