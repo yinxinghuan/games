@@ -1,5 +1,15 @@
 [
   {
+    "id": "galaxy-well",
+    "uuid": "4cd7f142-b590-4d4c-b261-867ddae79a13",
+    "name": "Galaxy Well",
+    "category": "visual",
+    "description": "75 万颗 WebGPU 星粒组成的可触摸星系。按住在星盘中描出引力空洞，松手让同一批星尘先坍缩、再释放，最后沿原作弹簧力场长回双旋臂。",
+    "url": "https://yinxinghuan.github.io/galaxy-well/",
+    "poster": "https://yinxinghuan.github.io/games/posters/galaxy-well.png",
+    "zipurl": "https://github.com/yinxinghuan/galaxy-well/archive/refs/heads/main.zip"
+  },
+  {
     "id": "serpent-orbit",
     "uuid": "04fa9e4d-89af-4205-9487-a8fd684be11c",
     "name": "Serpent Halo",
