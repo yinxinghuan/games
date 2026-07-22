@@ -1,5 +1,15 @@
 [
   {
+    "id": "halftone-soundfield",
+    "uuid": "e04077ac-bef8-47a3-adaa-1dee050daec8",
+    "name": "Boing Sound Box",
+    "category": "casual",
+    "description": "按住录下一小段声音，把它装进透明软盒的七颗弹性声音体里；倾斜、碰撞和滑块会实时改变颗粒节奏、音高与空间。",
+    "url": "https://yinxinghuan.github.io/halftone-soundfield/",
+    "poster": "https://yinxinghuan.github.io/games/posters/halftone-soundfield.png",
+    "zipurl": "https://github.com/yinxinghuan/halftone-soundfield/archive/refs/heads/main.zip"
+  },
+  {
     "id": "soft-knot",
     "uuid": "d95f7eaf-027d-4c4b-9712-d11bc74d743b",
     "name": "Soft Knot",
