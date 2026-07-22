@@ -1,5 +1,15 @@
 [
   {
+    "id": "glass-tide",
+    "uuid": "9da401c4-d546-457c-b19d-028faec0f69c",
+    "name": "Glass Tide",
+    "category": "casual",
+    "description": "按住并拖动一颗由 33 块真实玻璃刚体维持的活晶球，松手掀开一次银白玻璃潮汐，看它在数秒内自动闭合。",
+    "url": "https://yinxinghuan.github.io/glass-tide/",
+    "poster": "https://yinxinghuan.github.io/games/posters/glass-tide.png",
+    "zipurl": "https://github.com/yinxinghuan/glass-tide/archive/refs/heads/main.zip"
+  },
+  {
     "id": "sound-bloom",
     "uuid": "cdc8a1fb-04a8-45cc-8a7c-f25e372545d6",
     "name": "Sound Bloom",

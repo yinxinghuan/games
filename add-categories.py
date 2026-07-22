@@ -37,6 +37,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'glass-tide': 'casual',
     'sound-bloom': 'casual',
     'name-bloom': 'casual',
     'liquid-memory': 'casual',
