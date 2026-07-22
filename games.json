@@ -1,5 +1,15 @@
 [
   {
+    "id": "sound-bloom",
+    "uuid": "cdc8a1fb-04a8-45cc-8a7c-f25e372545d6",
+    "name": "Sound Bloom",
+    "category": "casual",
+    "description": "录下 1–4 秒声音，让它长成一座会旋转、呼吸并演奏旋律的几何植物花园。",
+    "url": "https://yinxinghuan.github.io/sound-bloom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/sound-bloom.png",
+    "zipurl": "https://github.com/yinxinghuan/sound-bloom/archive/refs/heads/main.zip"
+  },
+  {
     "id": "name-bloom",
     "uuid": "062bb0b2-f05e-4c02-a9a8-987dead627a9",
     "name": "Name Bloom",
