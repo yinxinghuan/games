@@ -1,5 +1,15 @@
 [
   {
+    "id": "vortex-core",
+    "uuid": "d9be7fb9-bc15-46ff-a265-f72c0f70a8ae",
+    "name": "Vortex Core",
+    "category": "visual",
+    "description": "26 万个 TSL 粒子被封在高色散玻璃球里。按住把黑金星云压成暗核，松手让同一批粒子打开阈值、加速并点亮，随后重新封存回原始涡旋。",
+    "url": "https://yinxinghuan.github.io/vortex-core/",
+    "poster": "https://yinxinghuan.github.io/games/posters/vortex-core.png",
+    "zipurl": "https://github.com/yinxinghuan/vortex-core/archive/refs/heads/main.zip"
+  },
+  {
     "id": "flow-loom",
     "uuid": "7987f937-b5b7-4aa2-bf15-f5d6804f7094",
     "name": "Flow Loom",
