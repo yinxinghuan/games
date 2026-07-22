@@ -1,5 +1,15 @@
 [
   {
+    "id": "timewell",
+    "uuid": "c68390a0-fe65-411b-98cc-02474d14a534",
+    "name": "Timewell",
+    "category": "visual",
+    "description": "30 万颗金色粒子组成一座可旋转的时间沙漏。双指按住中心火核，让整条沙流逆转；松手后同一批粒子沿上下两端释放白热脉冲，再自动回到原来的时间流。",
+    "url": "https://yinxinghuan.github.io/timewell/",
+    "poster": "https://yinxinghuan.github.io/games/posters/timewell.png",
+    "zipurl": "https://github.com/yinxinghuan/timewell/archive/refs/heads/main.zip"
+  },
+  {
     "id": "tide-fold",
     "uuid": "cb46d67d-0529-44c5-bb26-4860f3bb7757",
     "name": "Tide Fold",

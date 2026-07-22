@@ -4,6 +4,7 @@
 Category values (English lowercase, matching the platform UI rule that
 end-user-visible content defaults to English):
 
+    visual      视觉      shader / particle / physics visual experiences
     casual      休闲      sensory toys, daily rituals, instant-play ambient
     puzzle      益智      merge/match, memory, spot-diff, word, deduction
     social      社交      cross-user wall-first / friend-targeted games
@@ -31,12 +32,13 @@ from collections import OrderedDict
 PATH = Path('/Users/yin/code/games/games/games.json')
 
 ALLOWED = {
-    'casual', 'puzzle', 'social', 'action', 'shooter',
+    'visual', 'casual', 'puzzle', 'social', 'action', 'shooter',
     'racing', 'strategy', 'simulation', 'tool', 'other',
 }
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'timewell': 'visual',
     'halftone-soundfield': 'casual',
     'serpent-orbit': 'casual',
     'glass-tide': 'casual',
