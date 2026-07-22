@@ -1,5 +1,15 @@
 [
   {
+    "id": "orbital-traffic",
+    "uuid": "027698f2-3ef4-43f4-9124-29bf5ce9c878",
+    "name": "Orbital Traffic",
+    "category": "visual",
+    "description": "数千架实例化飞机沿真实全球航线掠过昼夜交界的地球。单指自由旋转、双指缩放；双指静止按住可冻结整个空域，松手释放一轮加速航班潮汐。",
+    "url": "https://yinxinghuan.github.io/orbital-traffic/",
+    "poster": "https://yinxinghuan.github.io/games/posters/orbital-traffic.png",
+    "zipurl": "https://github.com/yinxinghuan/orbital-traffic/archive/refs/heads/main.zip"
+  },
+  {
     "id": "dither-field",
     "uuid": "43dd6f87-c702-4335-ae25-d0daeb1e161a",
     "name": "Dither Field",
