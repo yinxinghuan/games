@@ -13,8 +13,8 @@
     "id": "last-liberty",
     "uuid": "c7b71961-798c-4d2c-95c1-d1a44b5a78bf",
     "name": "Last Liberty",
-    "category": "visual",
-    "description": "在立体木质棋盘上落下最后一颗黑子，让被围住的白棋沿原作动画连续崩解，完成一场极短的吃子仪式。原作署名：Marc Bechara。",
+    "category": "strategy",
+    "description": "在纯 CSS 立体木盘上执黑先手，与会取胜、封堵的白棋电脑完成一局 9×9 五子棋。原作署名：Marc Bechara。",
     "url": "https://yinxinghuan.github.io/last-liberty/",
     "poster": "https://yinxinghuan.github.io/games/posters/last-liberty.png",
     "zipurl": "https://github.com/yinxinghuan/last-liberty/archive/refs/heads/master.zip"
