@@ -1,5 +1,75 @@
 [
   {
+    "id": "knot-runner",
+    "uuid": "b86d2f29-83e3-4350-aeec-8bc12a9d0e97",
+    "name": "Knot Runner",
+    "category": "visual",
+    "description": "驾驶飞船穿过不可能的结形宇宙航道，拖动转向、点按开火，在光环、岩石与行星之间完成一次曲率跃迁。原作署名：TresJS contributors / R3F original by 0xca0a。",
+    "url": "https://yinxinghuan.github.io/knot-runner/",
+    "poster": "https://yinxinghuan.github.io/games/posters/knot-runner.png",
+    "zipurl": "https://github.com/yinxinghuan/knot-runner/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "last-liberty",
+    "uuid": "c7b71961-798c-4d2c-95c1-d1a44b5a78bf",
+    "name": "Last Liberty",
+    "category": "visual",
+    "description": "在立体木质棋盘上落下最后一颗黑子，让被围住的白棋沿原作动画连续崩解，完成一场极短的吃子仪式。原作署名：Marc Bechara。",
+    "url": "https://yinxinghuan.github.io/last-liberty/",
+    "poster": "https://yinxinghuan.github.io/games/posters/last-liberty.png",
+    "zipurl": "https://github.com/yinxinghuan/last-liberty/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "css-robot-reactor",
+    "uuid": "0d3d0e47-86a6-4dff-ba27-77f0b3a98939",
+    "name": "Robot Reactor",
+    "category": "visual",
+    "description": "按住纯 CSS 立体机器人为反应堆蓄能，连续三次让舞台塌缩、核心放大并释放一轮机械高潮。原作署名：Marc Bechara。",
+    "url": "https://yinxinghuan.github.io/css-robot-reactor/",
+    "poster": "https://yinxinghuan.github.io/games/posters/css-robot-reactor.png",
+    "zipurl": "https://github.com/yinxinghuan/css-robot-reactor/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "ascii-aura",
+    "uuid": "27eb319f-b141-464e-ab89-a1f19cd774c8",
+    "name": "ASCII Aura",
+    "category": "visual",
+    "description": "把用户头像送入原版 ASCII 生成器，触摸切换 Floyd、Atkinson、Noise 与 Ordered 四种抖动算法。原作署名：Mike Bespalov。",
+    "url": "https://yinxinghuan.github.io/ascii-aura/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ascii-aura.png",
+    "zipurl": "https://github.com/yinxinghuan/ascii-aura/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "cylinder-tide",
+    "uuid": "5ec8940f-e0ea-4391-b87b-75ce7eb77bf4",
+    "name": "Cylinder Tide",
+    "category": "visual",
+    "description": "触摸一片由发光圆柱构成的无尽潮汐，让高度、光线与色彩沿指尖扩散，并以四点触控唤醒黑白钴蓝高潮。原作署名：Kevin Levron（soju22）。",
+    "url": "https://yinxinghuan.github.io/cylinder-tide/",
+    "poster": "https://yinxinghuan.github.io/games/posters/cylinder-tide.png",
+    "zipurl": "https://github.com/yinxinghuan/cylinder-tide/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "waterball-touch",
+    "uuid": "d417c821-950c-473e-bc8d-0d2f887ef8e4",
+    "name": "Waterball Touch",
+    "category": "visual",
+    "description": "用单指环绕一颗由 WebGPU 粒子构成的透明水球，以双指搅动、压缩并连续掀起三次液态潮汐。原作署名：matsuoka-601。",
+    "url": "https://yinxinghuan.github.io/waterball-touch/",
+    "poster": "https://yinxinghuan.github.io/games/posters/waterball-touch.png",
+    "zipurl": "https://github.com/yinxinghuan/waterball-touch/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "name-relief",
+    "uuid": "2ebb3cc6-d61a-4a2a-9aa3-ff5a407edaa6",
+    "name": "Name Relief",
+    "category": "visual",
+    "description": "让用户名字成为一块会被手指顶起、压弯并留下真实阴影的浅浮雕表面，逐区唤醒后完成一次整体呼吸。原作署名：Paola Demichelis。",
+    "url": "https://yinxinghuan.github.io/name-relief/",
+    "poster": "https://yinxinghuan.github.io/games/posters/name-relief.png",
+    "zipurl": "https://github.com/yinxinghuan/name-relief/archive/refs/heads/master.zip"
+  },
+  {
     "id": "six-hid-it",
     "uuid": "f114b765-6d1e-4db6-98e1-76ee16ca10f6",
     "name": "Six Hid It",
