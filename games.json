@@ -1,5 +1,15 @@
 [
   {
+    "id": "six-hid-it",
+    "uuid": "f114b765-6d1e-4db6-98e1-76ee16ca10f6",
+    "name": "Six Hid It",
+    "category": "puzzle",
+    "description": "跟住 Little 6 的白爪与视线，在三只真实比例的 4oz 钛杯之间追踪冰花；连续找对三轮后进入产品购买页。",
+    "url": "https://yinxinghuan.github.io/six-hid-it/play.html",
+    "poster": "https://yinxinghuan.github.io/games/posters/six-hid-it.png",
+    "zipurl": "https://github.com/yinxinghuan/six-hid-it/archive/refs/heads/master.zip"
+  },
+  {
     "id": "swish-orbit",
     "uuid": "067ef09a-a91f-4aa7-ac9f-f24dd471fe5b",
     "name": "Swish Orbit",

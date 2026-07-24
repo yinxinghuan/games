@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'six-hid-it': 'puzzle',
     'dither-field': 'visual',
     'timewell': 'visual',
     'halftone-soundfield': 'casual',
