@@ -10,6 +10,66 @@
     "zipurl": "https://github.com/yinxinghuan/six-hid-it/archive/refs/heads/master.zip"
   },
   {
+    "id": "carnival-spinner",
+    "uuid": "ccf5fbef-ae5a-4e54-9999-2fd24c786fc2",
+    "name": "Carnival Spinner",
+    "category": "visual",
+    "description": "在一座午夜嘉年华里拉下真实杠杆，让复古转盘带着惯性、灯光与结果牌连续旋转；空白处仍可自由环绕观察整座手工场景。",
+    "url": "https://yinxinghuan.github.io/carnival-spinner/",
+    "poster": "https://yinxinghuan.github.io/games/posters/carnival-spinner.png",
+    "zipurl": "https://github.com/yinxinghuan/carnival-spinner/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "matrix-sentinels",
+    "uuid": "5db541c4-24c8-4e71-b474-89e51666f333",
+    "name": "Luminous Sentinels",
+    "category": "visual",
+    "description": "两千段 WebGPU 光轨组成三座无脸哨兵。单指自由旋转，双指按住可让流场收束、爆发，再沿同一条发光历史重新生长。",
+    "url": "https://yinxinghuan.github.io/matrix-sentinels/",
+    "poster": "https://yinxinghuan.github.io/games/posters/matrix-sentinels.png",
+    "zipurl": "https://github.com/yinxinghuan/matrix-sentinels/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "aurelia",
+    "uuid": "f02c99ae-d637-4f48-8079-adaac55a6a2d",
+    "name": "Aurelia Chorus",
+    "category": "visual",
+    "description": "一群程序化水母在 WebGPU 深海中以真实 Verlet 触须游动。自由环绕群体，双指召集它们完成一次发光合唱。",
+    "url": "https://yinxinghuan.github.io/aurelia/",
+    "poster": "https://yinxinghuan.github.io/games/posters/aurelia.png",
+    "zipurl": "https://github.com/yinxinghuan/aurelia/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "rain-puddle",
+    "uuid": "778490f2-403e-4f37-8882-c9c68a914099",
+    "name": "Rain Mirror",
+    "category": "visual",
+    "description": "雨滴、飞溅和水坑法线把夜路变成一面会呼吸的镜子。单指环绕观察，双指召来一场短暂雷暴，再看水面慢慢归于平静。",
+    "url": "https://yinxinghuan.github.io/rain-puddle/",
+    "poster": "https://yinxinghuan.github.io/games/posters/rain-puddle.png",
+    "zipurl": "https://github.com/yinxinghuan/rain-puddle/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "dither-reveal",
+    "uuid": "f3872ad7-9f69-4e3a-aa74-838456b99d78",
+    "name": "Dither Reveal",
+    "category": "visual",
+    "description": "一顶银色骑士头盔在 Bayer 网点与真实金属之间逐层显影。单指自由旋转，双指拉开四档像素尺度并推进同一场材质揭幕。",
+    "url": "https://yinxinghuan.github.io/dither-reveal/",
+    "poster": "https://yinxinghuan.github.io/games/posters/dither-reveal.png",
+    "zipurl": "https://github.com/yinxinghuan/dither-reveal/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "morph-field",
+    "uuid": "9566ea9a-dd85-4245-8a5d-319d32615781",
+    "name": "Morph Field",
+    "category": "visual",
+    "description": "两万四千颗粒子在环面结、双螺旋和混沌吸引子之间变形。保留自由相机，双指可让当前形态解体并重新收束。",
+    "url": "https://yinxinghuan.github.io/morph-field/",
+    "poster": "https://yinxinghuan.github.io/games/posters/morph-field.png",
+    "zipurl": "https://github.com/yinxinghuan/morph-field/archive/refs/heads/master.zip"
+  },
+  {
     "id": "swish-orbit",
     "uuid": "067ef09a-a91f-4aa7-ac9f-f24dd471fe5b",
     "name": "Swish Orbit",
