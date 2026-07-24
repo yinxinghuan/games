@@ -3,8 +3,8 @@
     "id": "knot-runner",
     "uuid": "b86d2f29-83e3-4350-aeec-8bc12a9d0e97",
     "name": "Knot Runner",
-    "category": "visual",
-    "description": "驾驶飞船穿过不可能的结形宇宙航道，拖动转向、点按开火，在光环、岩石与行星之间完成一次曲率跃迁。原作署名：TresJS contributors / R3F original by 0xca0a。",
+    "category": "shooter",
+    "description": "40 秒轨道拦截射击：拖动瞄准、点按开火，击毁敌机与岩石累积连击；漏过敌机损失护盾，最终分进入排行榜。原作署名：TresJS contributors / R3F original by 0xca0a。",
     "url": "https://yinxinghuan.github.io/knot-runner/",
     "poster": "https://yinxinghuan.github.io/games/posters/knot-runner.png",
     "zipurl": "https://github.com/yinxinghuan/knot-runner/archive/refs/heads/master.zip"
