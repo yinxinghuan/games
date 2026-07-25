@@ -234,7 +234,7 @@
     "uuid": "f6ff5258-16e2-4b51-ad9c-5862ab620517",
     "name": "Brew Pressure",
     "category": "visual",
-    "description": "AlterU 感官 · 绿色蒸汽瓶。左右拖动摇晃瓶身，压力沿弧线蓄积；松手时让原作的 TSL 蒸汽、瓶身发光与扭曲一起爆发，再安静冷却。保留 BeerJS 原始视觉，只增加一个一看就懂的动作闭环。",
+    "description": "AlterU 感官 · 绿色蒸汽瓶。保留自动环绕与单指自由相机；双指左右摇瓶让压力沿弧线蓄积，松开一指触发原作 TSL 蒸汽、瓶身发光与扭曲一起爆发。原作署名：Paul / prisoner849。",
     "url": "https://yinxinghuan.github.io/brew-pressure/",
     "poster": "https://yinxinghuan.github.io/games/posters/brew-pressure.png",
     "zipurl": "https://github.com/yinxinghuan/brew-pressure/archive/refs/heads/main.zip"
