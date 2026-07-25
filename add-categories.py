@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'skybound-aviator': 'action',
     'marble-pulse': 'visual',
     'physarum-oracle': 'visual',
     'turing-bloom': 'visual',

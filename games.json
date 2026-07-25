@@ -1,5 +1,15 @@
 [
   {
+    "id": "skybound-aviator",
+    "uuid": "3b0a3b68-fa53-49ba-8bd8-5927b49f43df",
+    "name": "Skybound Aviator",
+    "category": "action",
+    "description": "直接迁入 The Aviator 2 的程序化双翼机、动态海面、云环、硬币、敌人与枪械；单指引导飞行并射击，双指切换追尾镜头，短航线后结算。原作署名：Michel Helms、Karim Maaloul / Codrops。",
+    "url": "https://yinxinghuan.github.io/skybound-aviator/",
+    "poster": "https://yinxinghuan.github.io/games/posters/skybound-aviator.png",
+    "zipurl": "https://github.com/yinxinghuan/skybound-aviator/archive/refs/heads/master.zip"
+  },
+  {
     "id": "marble-pulse",
     "uuid": "fc1e89c6-cd32-4eee-b284-2e445083ec6b",
     "name": "Marble Pulse",
