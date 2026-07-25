@@ -1106,7 +1106,8 @@
     "category": "social",
     "description": "A candlelit medium reads your face and recalls the life your soul lived before this one — your name, your trade, your city, and how you died — then paints the period portrait. AlterU After Dark.",
     "url": "https://yinxinghuan.github.io/past-life/",
-    "poster": "https://yinxinghuan.github.io/games/posters/past-life.png"
+    "poster": "https://yinxinghuan.github.io/games/posters/past-life.png",
+    "zipurl": "https://github.com/yinxinghuan/past-life/archive/refs/heads/master.zip"
   },
   {
     "id": "frost-crystals",
