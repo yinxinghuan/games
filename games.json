@@ -1,5 +1,15 @@
 [
   {
+    "id": "living-grid",
+    "uuid": "2f2a9737-db37-4e47-a5c1-946bcfa8351e",
+    "name": "Living Grid",
+    "category": "visual",
+    "description": "点击后才载入原作的 3025 个蓝色实例场，单指拖动压出有惯性的活体沟槽，达到 100% 后唤醒整片网格。原作署名：Daniel Velasquez / Anemolo。",
+    "url": "https://yinxinghuan.github.io/living-grid/",
+    "poster": "https://yinxinghuan.github.io/games/posters/living-grid.png",
+    "zipurl": "https://github.com/yinxinghuan/living-grid/archive/refs/heads/master.zip"
+  },
+  {
     "id": "reaction-name",
     "uuid": "a0d9dc7d-a5b1-41fc-beff-b29abbed762a",
     "name": "Reaction Name",
