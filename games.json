@@ -1,5 +1,15 @@
 [
   {
+    "id": "fluid-signature",
+    "uuid": "e484c282-d5ac-49ec-b2e3-b55fbcef46aa",
+    "name": "Fluid Signature",
+    "category": "visual",
+    "description": "让玩家用户名成为原作 WebGL 流体求解器里的压力与颜料记忆区域，三笔搅动后凝结成一次签名。原作署名：Ksenia Kondrashova / ksenia-k。",
+    "url": "https://yinxinghuan.github.io/fluid-signature/",
+    "poster": "https://yinxinghuan.github.io/games/posters/fluid-signature.png",
+    "zipurl": "https://github.com/yinxinghuan/fluid-signature/archive/refs/heads/master.zip"
+  },
+  {
     "id": "water-veil",
     "uuid": "e4d798b6-86b9-42a4-b56c-41f180d98c03",
     "name": "Water Veil",
