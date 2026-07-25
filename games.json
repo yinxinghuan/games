@@ -1,5 +1,15 @@
 [
   {
+    "id": "iridescent-core",
+    "uuid": "e7c29cae-33c2-41cd-8abe-acaf0628fab1",
+    "name": "Iridescent Core",
+    "category": "visual",
+    "description": "点击后才唤醒原作紫色虹彩位移核心；单指自由旋转，双指收束形变，完成三次后稳定结算。原作署名：Pavel Mazhuga for Codrops。",
+    "url": "https://yinxinghuan.github.io/iridescent-core/",
+    "poster": "https://yinxinghuan.github.io/games/posters/iridescent-core.png",
+    "zipurl": "https://github.com/yinxinghuan/iridescent-core/archive/refs/heads/master.zip"
+  },
+  {
     "id": "fluid-signature",
     "uuid": "e484c282-d5ac-49ec-b2e3-b55fbcef46aa",
     "name": "Fluid Signature",
