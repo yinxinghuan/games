@@ -1,5 +1,15 @@
 [
   {
+    "id": "reaction-name",
+    "uuid": "a0d9dc7d-a5b1-41fc-beff-b29abbed762a",
+    "name": "Reaction Name",
+    "category": "visual",
+    "description": "点击后才唤醒 WebGPU 反应扩散场，让当前 AlterU 用户名生长成珍珠浮雕般的活体表面，单指拖动改变其流向。原作署名：Robert Leitl / Codrops。",
+    "url": "https://yinxinghuan.github.io/reaction-name/",
+    "poster": "https://yinxinghuan.github.io/games/posters/reaction-name.png",
+    "zipurl": "https://github.com/yinxinghuan/reaction-name/archive/refs/heads/master.zip"
+  },
+  {
     "id": "runic-name",
     "uuid": "bfd3c8d9-0137-47db-916f-f407a735ce24",
     "name": "Runic Name",
