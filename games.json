@@ -1,5 +1,15 @@
 [
   {
+    "id": "ink-water",
+    "uuid": "52e57bdb-cf90-4e57-b01b-6258f6d0b884",
+    "name": "Ink & Water",
+    "category": "visual",
+    "description": "点击后才载入原作的双 FBO 水墨模拟；单指让实体笔尖落下会自行扩散的彩墨，双指开合改变水量，完成一段流场后结算。原作署名：Karim Maaloul / Yakudoo。",
+    "url": "https://yinxinghuan.github.io/ink-water/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ink-water.png",
+    "zipurl": "https://github.com/yinxinghuan/ink-water/archive/refs/heads/master.zip"
+  },
+  {
     "id": "portal-relic",
     "uuid": "2089c4e7-90b2-4410-8ad3-a084367f2ca4",
     "name": "Portal Relic",
