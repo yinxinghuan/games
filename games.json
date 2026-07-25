@@ -1,5 +1,15 @@
 [
   {
+    "id": "marble-pulse",
+    "uuid": "fc1e89c6-cd32-4eee-b284-2e445083ec6b",
+    "name": "Marble Pulse",
+    "category": "visual",
+    "description": "完整保留 Magical Marbles 的 48 层体积 ray-march 玻璃球；按住蓄力、松开让内部流体跃迁，单指仍可自由旋转观察，20 秒后结算连击。原作署名：Matt Rossman / Codrops。",
+    "url": "https://yinxinghuan.github.io/marble-pulse/",
+    "poster": "https://yinxinghuan.github.io/games/posters/marble-pulse.png",
+    "zipurl": "https://github.com/yinxinghuan/marble-pulse/archive/refs/heads/master.zip"
+  },
+  {
     "id": "physarum-oracle",
     "uuid": "68c4bb3e-9ddb-4cff-aa2b-93597f52c24c",
     "name": "Physarum Oracle",
