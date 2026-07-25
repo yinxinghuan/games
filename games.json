@@ -1,5 +1,15 @@
 [
   {
+    "id": "physarum-oracle",
+    "uuid": "68c4bb3e-9ddb-4cff-aa2b-93597f52c24c",
+    "name": "Physarum Oracle",
+    "category": "visual",
+    "description": "在原作 Physarum 粒子与化学扩散 shader 上用手指喂养活体运输网络；24 秒后结算连通度，双指可切换三种生长法则。原作署名：Amanda Ghassaei / gpu-io。",
+    "url": "https://yinxinghuan.github.io/physarum-oracle/",
+    "poster": "https://yinxinghuan.github.io/games/posters/physarum-oracle.png",
+    "zipurl": "https://github.com/yinxinghuan/physarum-oracle/archive/refs/heads/master.zip"
+  },
+  {
     "id": "turing-bloom",
     "uuid": "1c7c7b79-583d-4b6f-b325-a6699c613a4d",
     "name": "Turing Bloom",
