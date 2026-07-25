@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'scroll-king': 'visual',
     'iridescent-core': 'visual',
     'fluid-signature': 'visual',
     'water-veil': 'visual',

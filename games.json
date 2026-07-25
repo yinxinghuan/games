@@ -1,5 +1,15 @@
 [
   {
+    "id": "scroll-king",
+    "uuid": "8f2a210a-60f2-4ef3-90e7-0ba7a23af141",
+    "name": "Scroll King",
+    "category": "visual",
+    "description": "单指原生滚动，让原作完全由 CSS 绘制的红心国王在 3D 空间翻转一周并完成终点结算。原作署名：Ben Evans / Ivorjetski。",
+    "url": "https://yinxinghuan.github.io/scroll-king/",
+    "poster": "https://yinxinghuan.github.io/games/posters/scroll-king.png",
+    "zipurl": "https://github.com/yinxinghuan/scroll-king/archive/refs/heads/master.zip"
+  },
+  {
     "id": "iridescent-core",
     "uuid": "e7c29cae-33c2-41cd-8abe-acaf0628fab1",
     "name": "Iridescent Core",
