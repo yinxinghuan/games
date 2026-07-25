@@ -1,5 +1,15 @@
 [
   {
+    "id": "silk-orbit",
+    "uuid": "d3b156cf-ec1a-4474-b51b-89c9c255801a",
+    "name": "Silk Orbit",
+    "category": "visual",
+    "description": "直接移植 Sheen 的 GPU 布料模拟与金色丝绸球体；点击后才唤醒渲染，单指或多指拉扯布面，在 22 秒内制造更深的褶皱与更长的牵引轨迹。原作署名：ScieCode。",
+    "url": "https://yinxinghuan.github.io/silk-orbit/",
+    "poster": "https://yinxinghuan.github.io/games/posters/silk-orbit.png",
+    "zipurl": "https://github.com/yinxinghuan/silk-orbit/archive/refs/heads/master.zip"
+  },
+  {
     "id": "skybound-aviator",
     "uuid": "3b0a3b68-fa53-49ba-8bd8-5927b49f43df",
     "name": "Skybound Aviator",
