@@ -1,5 +1,15 @@
 [
   {
+    "id": "skating-bunny",
+    "uuid": "5a83f854-3f47-4c00-9a24-d7e91de58d22",
+    "name": "Skating Bunny",
+    "category": "casual",
+    "description": "在深色镜面冰场上用单指引导青色滑冰兔，点按跳跃、追逐 5 根红色胡萝卜；双缓冲着色器会把每一次滑行真实刻成红青冰痕。原作署名：Karim Maaloul / Yakudoo。",
+    "url": "https://yinxinghuan.github.io/skating-bunny/",
+    "poster": "https://yinxinghuan.github.io/games/posters/skating-bunny.png",
+    "zipurl": "https://github.com/yinxinghuan/skating-bunny/archive/refs/heads/master.zip"
+  },
+  {
     "id": "gorilla-skyline",
     "uuid": "332cc83c-703e-47df-a15c-34b9c1fa67be",
     "name": "Skyline Gorillas",
