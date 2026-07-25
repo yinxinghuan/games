@@ -1,5 +1,15 @@
 [
   {
+    "id": "runic-name",
+    "uuid": "bfd3c8d9-0137-47db-916f-f407a735ce24",
+    "name": "Runic Name",
+    "category": "visual",
+    "description": "把当前 AlterU 用户名稳定转写为 12–24 个冰蓝点云符文，单指翻阅并在末端完成一次封名仪式。原作署名：Anton Bobrov。",
+    "url": "https://yinxinghuan.github.io/runic-name/",
+    "poster": "https://yinxinghuan.github.io/games/posters/runic-name.png",
+    "zipurl": "https://github.com/yinxinghuan/runic-name/archive/refs/heads/master.zip"
+  },
+  {
     "id": "scroll-king",
     "uuid": "8f2a210a-60f2-4ef3-90e7-0ba7a23af141",
     "name": "Scroll King",
