@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'fracture-portrait': 'visual',
     'knot-runner': 'shooter',
     'last-liberty': 'strategy',
     'css-robot-reactor': 'visual',

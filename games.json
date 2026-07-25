@@ -1,5 +1,15 @@
 [
   {
+    "id": "fracture-portrait",
+    "uuid": "c8ed6c03-7f9d-492d-8bbb-8b4972d97863",
+    "name": "Fracture Portrait",
+    "category": "visual",
+    "description": "轻触自己的头像，让原作 WebGL 玻璃裂纹从真实触点贯穿肖像，短暂停留后自动复原。原作署名：Ksenia Kondrashova / ksenia-k。",
+    "url": "https://yinxinghuan.github.io/fracture-portrait/",
+    "poster": "https://yinxinghuan.github.io/games/posters/fracture-portrait.png",
+    "zipurl": "https://github.com/yinxinghuan/fracture-portrait/archive/refs/heads/master.zip"
+  },
+  {
     "id": "knot-runner",
     "uuid": "b86d2f29-83e3-4350-aeec-8bc12a9d0e97",
     "name": "Knot Runner",
