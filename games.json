@@ -1,5 +1,15 @@
 [
   {
+    "id": "water-veil",
+    "uuid": "e4d798b6-86b9-42a4-b56c-41f180d98c03",
+    "name": "Water Veil",
+    "category": "visual",
+    "description": "单指划过玩家头像，让原作十层 WebGL 水面噪声和真实触点波纹搅动倒影，松手后水面重新平静。原作署名：Ksenia Kondrashova / ksenia-k。",
+    "url": "https://yinxinghuan.github.io/water-veil/",
+    "poster": "https://yinxinghuan.github.io/games/posters/water-veil.png",
+    "zipurl": "https://github.com/yinxinghuan/water-veil/archive/refs/heads/master.zip"
+  },
+  {
     "id": "fracture-portrait",
     "uuid": "c8ed6c03-7f9d-492d-8bbb-8b4972d97863",
     "name": "Fracture Portrait",
