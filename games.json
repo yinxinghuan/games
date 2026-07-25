@@ -1,5 +1,15 @@
 [
   {
+    "id": "gorilla-skyline",
+    "uuid": "332cc83c-703e-47df-a15c-34b9c1fa67be",
+    "name": "Skyline Gorillas",
+    "category": "action",
+    "description": "在真实风速下拖拽香蕉炸弹，越过月光城市击中屋顶电脑猩猩；建筑会被逐步炸穿，命中效率结算积分并进入 AlterU 排行榜。原作署名：Hunor Marton Borbely。",
+    "url": "https://yinxinghuan.github.io/gorilla-skyline/",
+    "poster": "https://yinxinghuan.github.io/games/posters/gorilla-skyline.png",
+    "zipurl": "https://github.com/yinxinghuan/gorilla-skyline/archive/refs/heads/master.zip"
+  },
+  {
     "id": "ink-water",
     "uuid": "52e57bdb-cf90-4e57-b01b-6258f6d0b884",
     "name": "Ink & Water",
