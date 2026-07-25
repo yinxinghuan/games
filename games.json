@@ -1,5 +1,15 @@
 [
   {
+    "id": "turing-bloom",
+    "uuid": "1c7c7b79-583d-4b6f-b325-a6699c613a4d",
+    "name": "Turing Bloom",
+    "category": "visual",
+    "description": "在同一块活体参数地图上划出化学种子，看斑点、迷宫与细胞纹样连续生长；25 秒后结算生命力，双指可探索 K/F 空间。原作署名：Amanda Ghassaei / gpu-io。",
+    "url": "https://yinxinghuan.github.io/turing-bloom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/turing-bloom.png",
+    "zipurl": "https://github.com/yinxinghuan/turing-bloom/archive/refs/heads/master.zip"
+  },
+  {
     "id": "jelly-signal",
     "uuid": "192abf85-f383-410c-97a3-15120e38f861",
     "name": "Jelly Signal",
