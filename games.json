@@ -1,5 +1,15 @@
 [
   {
+    "id": "jelly-signal",
+    "uuid": "192abf85-f383-410c-97a3-15120e38f861",
+    "name": "Jelly Signal",
+    "category": "casual",
+    "description": "按住由 22 个青蓝/洋红同心环生成的发光水母蓄能，松手释放真实声呐脉冲；连续发送 3 次，让深海信号完成一次绽放。原作署名：ninecodes。",
+    "url": "https://yinxinghuan.github.io/jelly-signal/",
+    "poster": "https://yinxinghuan.github.io/games/posters/jelly-signal.png",
+    "zipurl": "https://github.com/yinxinghuan/jelly-signal/archive/refs/heads/master.zip"
+  },
+  {
     "id": "skating-bunny",
     "uuid": "5a83f854-3f47-4c00-9a24-d7e91de58d22",
     "name": "Skating Bunny",
