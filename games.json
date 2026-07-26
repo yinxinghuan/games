@@ -1,5 +1,15 @@
 [
   {
+    "id": "chrono-collapse",
+    "uuid": "2b451e91-f242-4f5e-9b22-992e3dc1a6b6",
+    "name": "Chrono Collapse",
+    "category": "casual",
+    "description": "直接承载 Oimo Clock 的逐秒物理数字、雾与镜面场景；点击后才启动计算，在 12 个整秒里用触屏追赶数字坍塌，按毫秒误差与连续精准点击结算。原作署名：saharan / oimo.io。",
+    "url": "https://yinxinghuan.github.io/chrono-collapse/",
+    "poster": "https://yinxinghuan.github.io/games/posters/chrono-collapse.png",
+    "zipurl": "https://github.com/yinxinghuan/chrono-collapse/archive/refs/heads/master.zip"
+  },
+  {
     "id": "silk-orbit",
     "uuid": "d3b156cf-ec1a-4474-b51b-89c9c255801a",
     "name": "Silk Orbit",
