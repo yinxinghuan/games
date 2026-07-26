@@ -13,8 +13,8 @@
     "id": "tide-signal",
     "uuid": "826a11a3-3539-44ec-a798-cdc724e8b741",
     "name": "Tide Signal",
-    "category": "casual",
-    "description": "在夜海中引导无线电浮标，用可见的水波捕捉三枚漂流回声；持续的推进器与海风环境层会随首次触摸淡入。",
+    "category": "action",
+    "description": "《极光信使》的深海姊妹作：驾驶黄铜蝠鲼潜航器收集声呐回波，躲避水雷与鱼雷；撞击或中弹即沉。原作署名：Michel Helms《The Aviator 2》，基于 Karim Maaloul / Codrops《The Aviator》。",
     "url": "https://yinxinghuan.github.io/tide-signal/",
     "poster": "https://yinxinghuan.github.io/games/posters/tide-signal.png",
     "zipurl": "https://github.com/yinxinghuan/tide-signal/archive/refs/heads/master.zip"

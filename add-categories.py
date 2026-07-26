@@ -38,7 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
-    'tide-signal': 'casual',
+    'tide-signal': 'action',
     'skybound-aviator': 'action',
     'marble-pulse': 'visual',
     'physarum-oracle': 'visual',
