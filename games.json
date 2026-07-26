@@ -1,5 +1,15 @@
 [
   {
+    "id": "cloud-loom",
+    "uuid": "d5f9ce66-7845-4549-9fb7-f85a64a9a8ba",
+    "name": "Cloud Loom",
+    "category": "visual",
+    "description": "在原版 Procedural Clouds 的 Sprite、FBM 与 simplex shader 上按住绕行，依次凝结三层水汽，织成一枚持续呼吸的云标本。原作署名：Robert Borghesi / Codrops。",
+    "url": "https://yinxinghuan.github.io/cloud-loom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/cloud-loom.png",
+    "zipurl": "https://github.com/yinxinghuan/cloud-loom/archive/refs/heads/master.zip"
+  },
+  {
     "id": "horizon-drift",
     "uuid": "3d3b0c5c-a757-41de-a4e7-ce88e25710ea",
     "name": "Horizon Drift",
