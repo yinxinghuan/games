@@ -1,5 +1,15 @@
 [
   {
+    "id": "tide-signal",
+    "uuid": "826a11a3-3539-44ec-a798-cdc724e8b741",
+    "name": "Tide Signal",
+    "category": "casual",
+    "description": "在夜海中引导无线电浮标，用可见的水波捕捉三枚漂流回声；持续的推进器与海风环境层会随首次触摸淡入。",
+    "url": "https://yinxinghuan.github.io/tide-signal/",
+    "poster": "https://yinxinghuan.github.io/games/posters/tide-signal.png",
+    "zipurl": "https://github.com/yinxinghuan/tide-signal/archive/refs/heads/master.zip"
+  },
+  {
     "id": "kinetic-name",
     "uuid": "4cbf59ad-2ddf-4b4a-b1d7-0dd3c4de2f4d",
     "name": "Kinetic Name",
