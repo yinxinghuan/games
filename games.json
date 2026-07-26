@@ -4,7 +4,7 @@
     "uuid": "2b451e91-f242-4f5e-9b22-992e3dc1a6b6",
     "name": "Chrono Collapse",
     "category": "casual",
-    "description": "直接承载 Oimo Clock 的逐秒物理数字、雾与镜面场景；点击后才启动计算，在 12 个整秒里用触屏追赶数字坍塌，按毫秒误差与连续精准点击结算。原作署名：saharan / oimo.io。",
+    "description": "直接承载 Oimo Clock 的逐秒物理数字、雾与镜面场景；点击后快照当前时间，跟随真实整秒逐位重建 HH:MM:SS，没有倒计时，按六位平均同步率结算。原作署名：saharan / oimo.io。",
     "url": "https://yinxinghuan.github.io/chrono-collapse/",
     "poster": "https://yinxinghuan.github.io/games/posters/chrono-collapse.png",
     "zipurl": "https://github.com/yinxinghuan/chrono-collapse/archive/refs/heads/master.zip"
@@ -14,7 +14,7 @@
     "uuid": "d3b156cf-ec1a-4474-b51b-89c9c255801a",
     "name": "Silk Orbit",
     "category": "visual",
-    "description": "直接移植 Sheen 的 GPU 布料模拟与金色丝绸球体；点击后才唤醒渲染，单指或多指拉扯布面，在 22 秒内制造更深的褶皱与更长的牵引轨迹。原作署名：ScieCode。",
+    "description": "直接移植 Sheen 的 GPU 布料模拟与金色丝绸球体；单指或多指拉扯布面，每次有效释放固定一枚磁性针脚，三针后形成独特丝绸雕塑。原作署名：ScieCode。",
     "url": "https://yinxinghuan.github.io/silk-orbit/",
     "poster": "https://yinxinghuan.github.io/games/posters/silk-orbit.png",
     "zipurl": "https://github.com/yinxinghuan/silk-orbit/archive/refs/heads/master.zip"
@@ -34,7 +34,7 @@
     "uuid": "fc1e89c6-cd32-4eee-b284-2e445083ec6b",
     "name": "Marble Pulse",
     "category": "visual",
-    "description": "完整保留 Magical Marbles 的 48 层体积 ray-march 玻璃球；按住蓄力、松开让内部流体跃迁，单指仍可自由旋转观察，20 秒后结算连击。原作署名：Matt Rossman / Codrops。",
+    "description": "完整保留 Magical Marbles 的 48 层体积 ray-march 玻璃球；按住蓄力、松开让内部流体跃迁，自定节奏点亮三层谐波并触发共振相变，始终可自由旋转观察。原作署名：Matt Rossman / Codrops。",
     "url": "https://yinxinghuan.github.io/marble-pulse/",
     "poster": "https://yinxinghuan.github.io/games/posters/marble-pulse.png",
     "zipurl": "https://github.com/yinxinghuan/marble-pulse/archive/refs/heads/master.zip"
@@ -44,7 +44,7 @@
     "uuid": "68c4bb3e-9ddb-4cff-aa2b-93597f52c24c",
     "name": "Physarum Oracle",
     "category": "visual",
-    "description": "在原作 Physarum 粒子与化学扩散 shader 上用手指喂养活体运输网络；24 秒后结算连通度，双指可切换三种生长法则。原作署名：Amanda Ghassaei / gpu-io。",
+    "description": "在原作 Physarum 粒子与化学扩散 shader 上用手指喂养活体运输网络；依次连接四个发光信标完成网络，双指可切换三种生长法则。原作署名：Amanda Ghassaei / gpu-io。",
     "url": "https://yinxinghuan.github.io/physarum-oracle/",
     "poster": "https://yinxinghuan.github.io/games/posters/physarum-oracle.png",
     "zipurl": "https://github.com/yinxinghuan/physarum-oracle/archive/refs/heads/master.zip"
@@ -54,7 +54,7 @@
     "uuid": "1c7c7b79-583d-4b6f-b325-a6699c613a4d",
     "name": "Turing Bloom",
     "category": "visual",
-    "description": "在同一块活体参数地图上划出化学种子，看斑点、迷宫与细胞纹样连续生长；25 秒后结算生命力，双指可探索 K/F 空间。原作署名：Amanda Ghassaei / gpu-io。",
+    "description": "在活体参数地图上划出化学种子，看斑点、迷宫与细胞纹样连续生长；轨迹覆盖与区域多样性共同推进成熟度，最终生成一种活体标本。原作署名：Amanda Ghassaei / gpu-io。",
     "url": "https://yinxinghuan.github.io/turing-bloom/",
     "poster": "https://yinxinghuan.github.io/games/posters/turing-bloom.png",
     "zipurl": "https://github.com/yinxinghuan/turing-bloom/archive/refs/heads/master.zip"
