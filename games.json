@@ -1,5 +1,15 @@
 [
   {
+    "id": "bokeh-web",
+    "uuid": "51ab8830-d8f3-4776-bbb7-e394396076a4",
+    "name": "Bokeh Web",
+    "category": "visual",
+    "description": "在原版 Blurry 浮点累积渲染器中旋转一枚发光蛛网，依次轻触锁定近、中、远三层焦面，让红白粒子与五边形散景逐层显影。原作署名：Domenico Bruzzese。",
+    "url": "https://yinxinghuan.github.io/bokeh-web/",
+    "poster": "https://yinxinghuan.github.io/games/posters/bokeh-web.png",
+    "zipurl": "https://github.com/yinxinghuan/bokeh-web/archive/refs/heads/master.zip"
+  },
+  {
     "id": "tide-signal",
     "uuid": "826a11a3-3539-44ec-a798-cdc724e8b741",
     "name": "Tide Signal",
