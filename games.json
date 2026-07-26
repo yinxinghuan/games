@@ -1,5 +1,15 @@
 [
   {
+    "id": "horizon-drift",
+    "uuid": "3d3b0c5c-a757-41de-a4e7-ce88e25710ea",
+    "name": "Horizon Drift",
+    "category": "visual",
+    "description": "拖动手指改变原版 Interactive Landscape 的程序山谷中心与宽度，依次穿过三枚地平线信标，让当前玩家用户名签署一条持续流动的路线。原作署名：André Mattos / Codrops。",
+    "url": "https://yinxinghuan.github.io/horizon-drift/",
+    "poster": "https://yinxinghuan.github.io/games/posters/horizon-drift.png",
+    "zipurl": "https://github.com/yinxinghuan/horizon-drift/archive/refs/heads/master.zip"
+  },
+  {
     "id": "bokeh-web",
     "uuid": "51ab8830-d8f3-4776-bbb7-e394396076a4",
     "name": "Bokeh Web",
