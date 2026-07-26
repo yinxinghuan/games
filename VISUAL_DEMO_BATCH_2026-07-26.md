@@ -32,3 +32,21 @@
 - 图像驱动的 Portrait Current 默认读取当前玩家头像；文字驱动的 Kinetic Name
   默认读取当前玩家用户名，示例输入仅保留在 `?baseline=1`。
 - 5 个正式技能均通过 `skill-creator` 的 `quick_validate.py`。
+
+## 2026-07-27 启动连续性回归
+
+针对“点击进入后出现空挡和视觉落差”，五个项目统一改为真实第一帧握手，但各自
+保留不同的低成本睡眠画面：字形轮廓、失焦光圈、程序山形、柔化云核和头像点阵。
+桥接层不依赖固定倒计时，只有对应 mesh、纹理和 WebGL 输出已经绘制才淡出。
+
+`qa-visual-batch-startup.mjs` 在所有 JS、字体和纹理额外延迟 420ms 的条件下验证：
+
+| 项目 | 启动桥可见 | 真实第一帧（390×844 / 320×568） |
+|---|---:|---:|
+| Kinetic Name | 54–115ms | 2306ms / 2141ms |
+| Bokeh Web | 59–60ms | 1876ms / 1875ms；顺序为 `frame-ready → cover-release` |
+| Horizon Drift | 54–55ms | 1211ms / 1200ms |
+| Cloud Loom | 51–55ms | 1016ms / 983ms |
+| Portrait Current | 52–54ms | 1487ms / 1481ms |
+
+五项均无 page error 或 shader 编译错误；原双尺寸完整玩法 QA 同步复验通过。
