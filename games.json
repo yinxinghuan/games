@@ -1,5 +1,15 @@
 [
   {
+    "id": "kinetic-name",
+    "uuid": "4cbf59ad-2ddf-4b4a-b1d7-0dd3c4de2f4d",
+    "name": "Kinetic Name",
+    "category": "visual",
+    "description": "把当前玩家用户名送入四套原版 Three.js 动态字形 shader；依次触碰锁定结绳、球体、扭曲块面与浮雕平面，完成后自由拖动观看。原作署名：Mario Carrillo / Codrops。",
+    "url": "https://yinxinghuan.github.io/kinetic-name/",
+    "poster": "https://yinxinghuan.github.io/games/posters/kinetic-name.png",
+    "zipurl": "https://github.com/yinxinghuan/kinetic-name/archive/refs/heads/master.zip"
+  },
+  {
     "id": "chrono-collapse",
     "uuid": "2b451e91-f242-4f5e-9b22-992e3dc1a6b6",
     "name": "Chrono Collapse",
