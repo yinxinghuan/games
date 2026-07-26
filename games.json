@@ -4,7 +4,7 @@
     "uuid": "788f549a-c79f-45ce-a9c6-67318b717bdb",
     "name": "Portrait Current",
     "category": "visual",
-    "description": "把当前玩家头像送入原版 Interactive Particles 的实例化粒子场；触摸覆盖十二格中的九格，让散乱肖像逐步收束成可辨识的个人粒子标本。原作署名：Domenico Bruzzese / Codrops。",
+    "description": "把当前玩家头像送入原版 Interactive Particles 的实例化粒子场；触摸覆盖十二格中的九格，让散乱肖像逐步收束成可辨识的个人粒子标本。原作署名：Bruno Imbrizi / Codrops。",
     "url": "https://yinxinghuan.github.io/portrait-current/",
     "poster": "https://yinxinghuan.github.io/games/posters/portrait-current.png",
     "zipurl": "https://github.com/yinxinghuan/portrait-current/archive/refs/heads/master.zip"
