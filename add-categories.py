@@ -38,6 +38,11 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'portrait-current': 'visual',
+    'cloud-loom': 'visual',
+    'horizon-drift': 'visual',
+    'bokeh-web': 'visual',
+    'kinetic-name': 'visual',
     'tide-signal': 'action',
     'skybound-aviator': 'action',
     'marble-pulse': 'visual',
