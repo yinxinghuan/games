@@ -1,5 +1,15 @@
 [
   {
+    "id": "signal-bloom",
+    "uuid": "0ce34c15-f613-4330-b24c-516d9abdddba",
+    "name": "Signal Bloom",
+    "category": "visual",
+    "description": "保留原版 Arcade 的 raymarch 玻璃体、指针流场、FFT 卷积光斑与 CRT 后处理；沿光体完成三次触摸回路，让复古声像机进入共振终态。原作署名：Robert Leitl。",
+    "url": "https://yinxinghuan.github.io/signal-bloom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/signal-bloom.png",
+    "zipurl": "https://github.com/yinxinghuan/signal-bloom/archive/refs/heads/master.zip"
+  },
+  {
     "id": "portrait-current",
     "uuid": "788f549a-c79f-45ce-a9c6-67318b717bdb",
     "name": "Portrait Current",
