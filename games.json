@@ -1,5 +1,15 @@
 [
   {
+    "id": "touch-rain",
+    "uuid": "57375e6c-1930-42e5-9a02-498dffe4d4b4",
+    "name": "Touch Rain",
+    "category": "visual",
+    "description": "用一根手指牵引并握合一只 SDF 手掌，让 16,384 枚银色粒子在掌面与指骨间真实分流、反弹并凝成触感印记。原作署名：Edan Kwan《TOUCH with Leap Motion》。",
+    "url": "https://yinxinghuan.github.io/touch-rain/",
+    "poster": "https://yinxinghuan.github.io/games/posters/touch-rain.png",
+    "zipurl": "https://github.com/yinxinghuan/touch-rain/archive/refs/heads/master.zip"
+  },
+  {
     "id": "lion-breeze",
     "uuid": "85dfb927-faca-42b8-84b5-f609ddbfd6f5",
     "name": "Lion Breeze",
