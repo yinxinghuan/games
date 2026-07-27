@@ -1,5 +1,15 @@
 [
   {
+    "id": "spirit-trace",
+    "uuid": "49ff08f2-a145-40cc-81be-ff4797d74c39",
+    "name": "Spirit Trace",
+    "category": "visual",
+    "description": "牵引 65,536 枚 curl-noise 三角粒子组成的白色灵体，依次穿过三枚回声印记，留下可继续凝视的个人路径标本。原作署名：Edan Kwan《The Spirit》。",
+    "url": "https://yinxinghuan.github.io/spirit-trace/",
+    "poster": "https://yinxinghuan.github.io/games/posters/spirit-trace.png",
+    "zipurl": "https://github.com/yinxinghuan/spirit-trace/archive/refs/heads/master.zip"
+  },
+  {
     "id": "pocket-drum-lab",
     "uuid": "ac9e85f3-cd20-47a5-9890-794b04bad38f",
     "name": "Pocket Drum Lab",
