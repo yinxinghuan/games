@@ -1,5 +1,45 @@
 [
   {
+    "id": "recoil-bloom",
+    "uuid": "e9accc12-59d8-4ae4-9927-431018d6012e",
+    "name": "Recoil Bloom",
+    "category": "visual",
+    "description": "按住喷射彩色弹丸，借后坐力漂移并在画布四边留下持续飞溅；四边签署后保留独一无二的最终构图。原作署名：David Aerne（meodai）。",
+    "url": "https://yinxinghuan.github.io/recoil-bloom/",
+    "poster": "https://yinxinghuan.github.io/games/posters/recoil-bloom.png",
+    "zipurl": "https://github.com/yinxinghuan/recoil-bloom/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "skyline-span",
+    "uuid": "2f817db3-d779-45ae-900a-1047c1d7b643",
+    "name": "Skyline Span",
+    "category": "action",
+    "description": "按住伸长桥杆、松手落桥，在极简山岭间连续跨过五座随机平台，留下完整天际路线。原作署名：Hunor Marton Borbely。",
+    "url": "https://yinxinghuan.github.io/skyline-span/",
+    "poster": "https://yinxinghuan.github.io/games/posters/skyline-span.png",
+    "zipurl": "https://github.com/yinxinghuan/skyline-span/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "kinetic-balance",
+    "uuid": "3397c770-509f-4870-9911-1ee288aa6b71",
+    "name": "Kinetic Balance",
+    "category": "visual",
+    "description": "把当前玩家用户名铸成三行铰链立体字，逐行拨动并等待真实 Cannon 动能平息，完成个人物理标本。原作署名：Arno Di Nunzio / Codrops。",
+    "url": "https://yinxinghuan.github.io/kinetic-balance/",
+    "poster": "https://yinxinghuan.github.io/games/posters/kinetic-balance.png",
+    "zipurl": "https://github.com/yinxinghuan/kinetic-balance/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "city-atlas",
+    "uuid": "5a4a9dc1-4646-4e13-934b-26b7fe24d509",
+    "name": "City Atlas",
+    "category": "visual",
+    "description": "在真实地图上挑选三个不同坐标，让建筑、道路、水面与云朵逐次生长为可旋转的球形城市图册。原作署名：pissang。",
+    "url": "https://yinxinghuan.github.io/city-atlas/",
+    "poster": "https://yinxinghuan.github.io/games/posters/city-atlas.png",
+    "zipurl": "https://github.com/yinxinghuan/city-atlas/archive/refs/heads/master.zip"
+  },
+  {
     "id": "signal-bloom",
     "uuid": "0ce34c15-f613-4330-b24c-516d9abdddba",
     "name": "Signal Bloom",
