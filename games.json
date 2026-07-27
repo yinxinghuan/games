@@ -4,7 +4,7 @@
     "uuid": "ac9e85f3-cd20-47a5-9890-794b04bad38f",
     "name": "Pocket Drum Lab",
     "category": "casual",
-    "description": "直接敲击会弹性变形的 SVG 鼓组，把八次触碰录成可循环、可叠加、可编辑的个人节拍。原作署名：Josh Ellis / Codrops。",
+    "description": "直接敲击会弹性变形的 SVG 鼓组，把八次触碰录成可循环、可叠加、可发表的个人节拍，并在作品墙试听其他玩家的创作。原作署名：Josh Ellis / Codrops。",
     "url": "https://yinxinghuan.github.io/pocket-drum-lab/",
     "poster": "https://yinxinghuan.github.io/games/posters/pocket-drum-lab.png",
     "zipurl": "https://github.com/yinxinghuan/pocket-drum-lab/archive/refs/heads/master.zip"
