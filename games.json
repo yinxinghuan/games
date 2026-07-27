@@ -40,6 +40,16 @@
     "zipurl": "https://github.com/yinxinghuan/city-atlas/archive/refs/heads/master.zip"
   },
   {
+    "id": "valorous-rabbit",
+    "uuid": "c4489aba-61f1-45f4-aea6-c217e798462a",
+    "name": "Valorous Rabbit",
+    "category": "action",
+    "description": "在旋转的低多边形球面原野上轻触起跳，收集胡萝卜、躲开刺猬，在狼追上之前跑得更远。原作署名：Karim Maaloul（Yakudoo）。",
+    "url": "https://yinxinghuan.github.io/valorous-rabbit/",
+    "poster": "https://yinxinghuan.github.io/games/posters/valorous-rabbit.png",
+    "zipurl": "https://github.com/yinxinghuan/valorous-rabbit/archive/refs/heads/master.zip"
+  },
+  {
     "id": "signal-bloom",
     "uuid": "0ce34c15-f613-4330-b24c-516d9abdddba",
     "name": "Signal Bloom",
