@@ -1,5 +1,15 @@
 [
   {
+    "id": "lion-breeze",
+    "uuid": "85dfb927-faca-42b8-84b5-f609ddbfd6f5",
+    "name": "Lion Breeze",
+    "category": "visual",
+    "description": "按住并拖动一台低多边形风扇，让狮子的表情、胡须与方块鬃毛随风舒展，完成一幅可继续凝视的凉爽定格。原作署名：Karim Maaloul（Yakudoo）《Chill the lion》。",
+    "url": "https://yinxinghuan.github.io/lion-breeze/",
+    "poster": "https://yinxinghuan.github.io/games/posters/lion-breeze.png",
+    "zipurl": "https://github.com/yinxinghuan/lion-breeze/archive/refs/heads/master.zip"
+  },
+  {
     "id": "spirit-trace",
     "uuid": "49ff08f2-a145-40cc-81be-ff4797d74c39",
     "name": "Spirit Trace",
