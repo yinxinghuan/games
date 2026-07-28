@@ -1,5 +1,15 @@
 [
   {
+    "id": "rainline",
+    "uuid": "13fd84e9-0d92-48a3-8693-2f1fc0a1b570",
+    "name": "Rainline",
+    "category": "strategy",
+    "description": "在 75 秒暴雨中拖出发光路径，权衡小圈的安全与大圈的高收益，在风暴切线前围出领地并逐步显出自己的雨中肖像。",
+    "url": "https://yinxinghuan.github.io/rainline/",
+    "poster": "https://yinxinghuan.github.io/games/posters/rainline.png",
+    "zipurl": "https://github.com/yinxinghuan/rainline/archive/refs/heads/master.zip"
+  },
+  {
     "id": "touch-rain",
     "uuid": "57375e6c-1930-42e5-9a02-498dffe4d4b4",
     "name": "Touch Rain",
