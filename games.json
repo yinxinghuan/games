@@ -1,5 +1,15 @@
 [
   {
+    "id": "oracle-protocol",
+    "uuid": "6c0e2a8d-a814-4de8-bf4a-c61ac04fdf1e",
+    "name": "Oracle Protocol",
+    "category": "casual",
+    "description": "从 12 张 AI 大阿尔卡那中抽取过去、现在与未来，在正逆位和全息特殊牌之间得到一份面向当下的反思性神谕。原作机制署名：Codrops / Manoela Ilic《Baraja》；全息机制：Christian Alder《CSS Holographic Masks》。",
+    "url": "https://yinxinghuan.github.io/oracle-protocol/",
+    "poster": "https://yinxinghuan.github.io/games/posters/oracle-protocol.png",
+    "zipurl": "https://github.com/yinxinghuan/oracle-protocol/archive/refs/heads/master.zip"
+  },
+  {
     "id": "rainline",
     "uuid": "13fd84e9-0d92-48a3-8693-2f1fc0a1b570",
     "name": "Rainline",
