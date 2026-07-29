@@ -39,7 +39,7 @@ ALLOWED = {
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
     'oracle-protocol': 'casual',
-    'rainline': 'strategy',
+    'splatterdrift': 'shooter',
     'lion-breeze': 'visual',
     'spirit-trace': 'visual',
     'pocket-drum-lab': 'casual',

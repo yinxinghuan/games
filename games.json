@@ -1,5 +1,15 @@
 [
   {
+    "id": "splatterdrift",
+    "uuid": "13fd84e9-0d92-48a3-8693-2f1fc0a1b570",
+    "name": "Splatterdrift",
+    "category": "shooter",
+    "description": "在 45 秒小行星风暴中只靠开火产生反冲漂移，连续命中升级穿透与双发 CORE，穿过粒子涡旋主动刹车并争取推进更多扇区。原作视觉机制署名：David Aerne（meodai）《CSS Splatters》。",
+    "url": "https://yinxinghuan.github.io/splatterdrift/",
+    "poster": "https://yinxinghuan.github.io/games/posters/splatterdrift.png",
+    "zipurl": "https://github.com/yinxinghuan/splatterdrift/archive/refs/heads/master.zip"
+  },
+  {
     "id": "oracle-protocol",
     "uuid": "6c0e2a8d-a814-4de8-bf4a-c61ac04fdf1e",
     "name": "Oracle Protocol",
@@ -8,16 +18,6 @@
     "url": "https://yinxinghuan.github.io/oracle-protocol/",
     "poster": "https://yinxinghuan.github.io/games/posters/oracle-protocol.png",
     "zipurl": "https://github.com/yinxinghuan/oracle-protocol/archive/refs/heads/master.zip"
-  },
-  {
-    "id": "rainline",
-    "uuid": "13fd84e9-0d92-48a3-8693-2f1fc0a1b570",
-    "name": "Rainline",
-    "category": "strategy",
-    "description": "在 75 秒暴雨中拖出发光路径，权衡小圈的安全与大圈的高收益，在风暴切线前围出领地并逐步显出自己的雨中肖像。",
-    "url": "https://yinxinghuan.github.io/rainline/",
-    "poster": "https://yinxinghuan.github.io/games/posters/rainline.png",
-    "zipurl": "https://github.com/yinxinghuan/rainline/archive/refs/heads/master.zip"
   },
   {
     "id": "touch-rain",
