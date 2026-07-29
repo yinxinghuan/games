@@ -1,5 +1,25 @@
 [
   {
+    "id": "living-byline",
+    "uuid": "8988197c-0f5b-4384-9841-06ea166314fe",
+    "name": "Living Byline",
+    "category": "visual",
+    "description": "触碰九枚发光字钉，让当前玩家用户名与 ALTERU 平台名穿过门廊、折页剧场和轨道印刷机，最终套准成可旋转观看的立体署名。概念参考：Cullen Webber《three-html-to-canvas》；未复制其代码与资产。",
+    "url": "https://yinxinghuan.github.io/living-byline/",
+    "poster": "https://yinxinghuan.github.io/games/posters/living-byline.png",
+    "zipurl": "https://github.com/yinxinghuan/living-byline/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "pulse-pelt",
+    "uuid": "ec4c882a-1305-4c62-8f52-129054301b45",
+    "name": "Pulse Pelt",
+    "category": "visual",
+    "description": "用单指在虹彩纤维星体上播种六个共振点，让局部波纹汇成全局呼吸；双指可自由旋转并保留亲手织成的最终星体。",
+    "url": "https://yinxinghuan.github.io/pulse-pelt/",
+    "poster": "https://yinxinghuan.github.io/games/posters/pulse-pelt.png",
+    "zipurl": "https://github.com/yinxinghuan/pulse-pelt/archive/refs/heads/master.zip"
+  },
+  {
     "id": "splatterdrift",
     "uuid": "13fd84e9-0d92-48a3-8693-2f1fc0a1b570",
     "name": "Splatterdrift",
