@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'inkbreak': 'action',
     'living-byline': 'visual',
     'pulse-pelt': 'visual',
     'oracle-protocol': 'casual',
