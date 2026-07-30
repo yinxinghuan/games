@@ -1,5 +1,35 @@
 [
   {
+    "id": "circuit-serpent",
+    "uuid": "49d815c9-fc9b-4949-9747-b306ddc36499",
+    "name": "Circuit Serpent",
+    "category": "action",
+    "description": "在 70 秒电路网格中用单指改向，让不断增长的自身线路成为障碍；每第四枚节点充能断路器，双击切尾换取生路与分数。",
+    "url": "https://yinxinghuan.github.io/circuit-serpent/",
+    "poster": "https://yinxinghuan.github.io/games/posters/circuit-serpent.png",
+    "zipurl": "https://github.com/yinxinghuan/circuit-serpent/archive/refs/heads/main.zip"
+  },
+  {
+    "id": "intercept-array",
+    "uuid": "d4375875-5ecd-47f3-947f-71214e8c9659",
+    "name": "Intercept Array",
+    "category": "strategy",
+    "description": "在 75 秒来袭中轻点布置真实截击范围，用有限充能和爆炸连锁守住五座地面信标。",
+    "url": "https://yinxinghuan.github.io/intercept-array/",
+    "poster": "https://yinxinghuan.github.io/games/posters/intercept-array.png",
+    "zipurl": "https://github.com/yinxinghuan/intercept-array/archive/refs/heads/main.zip"
+  },
+  {
+    "id": "recoil-vector",
+    "uuid": "1fbaf7a0-265e-4f6e-aebf-bf96f1c49940",
+    "name": "Recoil Vector",
+    "category": "shooter",
+    "description": "在 60 秒小行星场中只靠开火反冲移动；弹丸越界留下的红色边界印记既能击碎敌人，也会反噬飞船。",
+    "url": "https://yinxinghuan.github.io/recoil-vector/",
+    "poster": "https://yinxinghuan.github.io/games/posters/recoil-vector.png",
+    "zipurl": "https://github.com/yinxinghuan/recoil-vector/archive/refs/heads/main.zip"
+  },
+  {
     "id": "ume-boba-baggage",
     "uuid": "d536ade5-997d-4e65-a980-ffb60523dc11",
     "name": "UMe: Boba Baggage",
