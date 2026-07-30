@@ -38,6 +38,8 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'ume-boba-baggage': 'other',
+    'ume-parade-panic': 'other',
     'inkbreak': 'action',
     'living-byline': 'visual',
     'pulse-pelt': 'visual',
