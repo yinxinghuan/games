@@ -34,7 +34,7 @@
     "uuid": "8988197c-0f5b-4384-9841-06ea166314fe",
     "name": "Living Byline",
     "category": "visual",
-    "description": "触碰九枚发光字钉，让当前玩家用户名与 ALTERU 平台名穿过门廊、折页剧场和轨道印刷机，最终套准成可旋转观看的立体署名。概念参考：Cullen Webber《three-html-to-canvas》；未复制其代码与资产。",
+    "description": "自由旋转三座层次悬殊的投影雕塑，在唯一正确视角中拼出 AlterU 水印、玩家用户名与头像构成的完整平面设计。概念参考：Cullen Webber《three-html-to-canvas》；未复制其代码与资产。",
     "url": "https://yinxinghuan.github.io/living-byline/",
     "poster": "https://yinxinghuan.github.io/games/posters/living-byline.png",
     "zipurl": "https://github.com/yinxinghuan/living-byline/archive/refs/heads/master.zip"
