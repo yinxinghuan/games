@@ -1,5 +1,15 @@
 [
   {
+    "id": "paper-strike",
+    "uuid": "c267b4bc-bc03-4346-96a3-39d01576def2",
+    "name": "Paper Strike",
+    "category": "other",
+    "description": "老板只想要一份报告，纸张却成立了工会。用三个荒谬答案把普通办公室事故升级成打印机升职、反向面试和九个可收集结局。",
+    "url": "https://yinxinghuan.github.io/paper-strike/",
+    "poster": "https://yinxinghuan.github.io/games/posters/paper-strike.png",
+    "zipurl": "https://github.com/yinxinghuan/paper-strike/archive/refs/heads/master.zip"
+  },
+  {
     "id": "wedding-disaster-bureau",
     "uuid": "ace2b161-079f-4bc5-85a6-e55d2fae6ad2",
     "name": "Wedding Disaster Bureau",
