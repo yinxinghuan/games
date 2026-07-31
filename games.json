@@ -1,5 +1,25 @@
 [
   {
+    "id": "wedding-disaster-bureau",
+    "uuid": "ace2b161-079f-4bc5-85a6-e55d2fae6ad2",
+    "name": "Wedding Disaster Bureau",
+    "category": "other",
+    "description": "面对柯基吞下婚戒的同一场婚礼事故，选择三种荒诞应急方案，观看逐拍升级的手绘喜剧演出并收集全部结局。",
+    "url": "https://yinxinghuan.github.io/wedding-disaster-bureau/",
+    "poster": "https://yinxinghuan.github.io/games/posters/wedding-disaster-bureau.png",
+    "zipurl": "https://github.com/yinxinghuan/wedding-disaster-bureau/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "midnight-hotel-ledger",
+    "uuid": "03b3aa05-0634-47d8-bab6-4effc6271007",
+    "name": "The Midnight Hotel Ledger",
+    "category": "other",
+    "description": "在 02:17 接管酒店 307 号房的超现实投诉，为浴缸里的海浪声选择三种处理代码，观看并收集三个生成式影像结局。",
+    "url": "https://yinxinghuan.github.io/midnight-hotel-ledger/",
+    "poster": "https://yinxinghuan.github.io/games/posters/midnight-hotel-ledger.png",
+    "zipurl": "https://github.com/yinxinghuan/midnight-hotel-ledger/archive/refs/heads/master.zip"
+  },
+  {
     "id": "thrustline",
     "uuid": "67bc0e3f-ac83-410f-a802-f4a01d177528",
     "name": "Thrustline",
