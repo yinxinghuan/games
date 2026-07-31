@@ -1,5 +1,15 @@
 [
   {
+    "id": "kilnfall",
+    "uuid": "e9f617de-b5ba-44fd-97af-0c467363e13a",
+    "name": "Kilnfall",
+    "category": "visual",
+    "description": "在深墨陶瓷工作台上拖动、旋转并落下九组四连块，再主动释放倾斜台面，让 36 个刚体单元坍塌并定格成个人署名雕塑。概念参考：Kamil Macinski《Tokyo Night Tetris》；未复制其代码与资产。",
+    "url": "https://yinxinghuan.github.io/kilnfall/",
+    "poster": "https://yinxinghuan.github.io/games/posters/kilnfall.png",
+    "zipurl": "https://github.com/yinxinghuan/kilnfall/archive/refs/heads/master.zip"
+  },
+  {
     "id": "circuit-serpent",
     "uuid": "49d815c9-fc9b-4949-9747-b306ddc36499",
     "name": "Circuit Serpent",
