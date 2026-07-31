@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'thrustline': 'action',
     'kilnfall': 'visual',
     'circuit-serpent': 'action',
     'intercept-array': 'strategy',

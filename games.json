@@ -1,5 +1,15 @@
 [
   {
+    "id": "thrustline",
+    "uuid": "67bc0e3f-ac83-410f-a802-f4a01d177528",
+    "name": "Thrustline",
+    "category": "action",
+    "description": "在 30 秒内只用按住点火、松开滑行，管理燃料、横向气流和接触速度，把自动摆角的着陆器送上安全或高分平台。",
+    "url": "https://yinxinghuan.github.io/thrustline/",
+    "poster": "https://yinxinghuan.github.io/games/posters/thrustline.png",
+    "zipurl": "https://github.com/yinxinghuan/thrustline/archive/refs/heads/master.zip"
+  },
+  {
     "id": "kilnfall",
     "uuid": "e9f617de-b5ba-44fd-97af-0c467363e13a",
     "name": "Kilnfall",
