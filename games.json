@@ -1,5 +1,15 @@
 [
   {
+    "id": "fountain-regatta",
+    "uuid": "8324dca6-3b9b-4924-9886-7471be1d30d4",
+    "name": "Fountain Regatta",
+    "category": "other",
+    "description": "把开进城市喷泉的红车坚持说成一艘船，让交警认真完成船长审查和喷泉赛艇；三场生成影像喜剧包含九个完整结果与奖杯加罚单的最终反转。",
+    "url": "https://yinxinghuan.github.io/fountain-regatta/",
+    "poster": "https://yinxinghuan.github.io/games/posters/fountain-regatta.png",
+    "zipurl": "https://github.com/yinxinghuan/fountain-regatta/archive/refs/heads/master.zip"
+  },
+  {
     "id": "paper-strike",
     "uuid": "c267b4bc-bc03-4346-96a3-39d01576def2",
     "name": "Paper Strike",
