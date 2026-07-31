@@ -50,6 +50,26 @@
     "zipurl": "https://github.com/yinxinghuan/thrustline/archive/refs/heads/master.zip"
   },
   {
+    "id": "chain-command",
+    "uuid": "f34fed71-e98e-4a8c-9060-013c245ae051",
+    "name": "Chain Command",
+    "category": "strategy",
+    "description": "在老式远程防御终端上以每波三次截击构筑权威爆炸域，让有限弹药通过连锁反应守住四座地面站。",
+    "url": "https://yinxinghuan.github.io/chain-command/",
+    "poster": "https://yinxinghuan.github.io/games/posters/chain-command.png",
+    "zipurl": "https://github.com/yinxinghuan/chain-command/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "threadbreaker",
+    "uuid": "b9ea9b06-16fe-4b0c-aa9f-0927fd604080",
+    "name": "Threadbreaker",
+    "category": "action",
+    "description": "在工业污染控制终端中单指拖动巡检器，自动射击并切断持续下压的分节链体，在三十秒内阻止危险带突破。",
+    "url": "https://yinxinghuan.github.io/threadbreaker/",
+    "poster": "https://yinxinghuan.github.io/games/posters/threadbreaker.png",
+    "zipurl": "https://github.com/yinxinghuan/threadbreaker/archive/refs/heads/master.zip"
+  },
+  {
     "id": "kilnfall",
     "uuid": "e9f617de-b5ba-44fd-97af-0c467363e13a",
     "name": "Kilnfall",
