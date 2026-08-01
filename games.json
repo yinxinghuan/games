@@ -1,5 +1,15 @@
 [
   {
+    "id": "stolen-spotlight",
+    "uuid": "8760d13e-fa8f-4b3d-a6a1-94367a87d69e",
+    "name": "Stolen Spotlight",
+    "category": "other",
+    "description": "三幕互动视频短剧：Maya 的机器人和发明者身份被同事当众夺走，玩家经历公开降格、证据被抹掉与颁奖夜最低点，最终让作品亲自作证，在十秒高潮里夺回奖章、身份和全场聚光灯。",
+    "url": "https://yinxinghuan.github.io/stolen-spotlight/",
+    "poster": "https://yinxinghuan.github.io/games/posters/stolen-spotlight.png",
+    "zipurl": "https://github.com/yinxinghuan/stolen-spotlight/archive/refs/heads/main.zip"
+  },
+  {
     "id": "wrong-answer-only",
     "uuid": "0727e78c-39a8-4e95-8a50-46f45ad2ebb1",
     "name": "Wrong Answers Only",
