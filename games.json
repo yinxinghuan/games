@@ -2278,5 +2278,15 @@
     "url": "https://yinxinghuan.github.io/get-off-my-lawn/",
     "poster": "https://yinxinghuan.github.io/games/posters/get-off-my-lawn.png",
     "zipurl": "https://github.com/yinxinghuan/get-off-my-lawn/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "whos-that",
+    "uuid": "0ff60ec5-de93-4437-bb4b-b0c23212d641",
+    "name": "Who's That?",
+    "category": "social",
+    "description": "AlterU 社交身份推理 · 只显示朋友头像的 18%，从三位真实联系人中认出本人；猜错会逐步显影，最快认出会把一句温暖的确认发给对方。",
+    "url": "https://yinxinghuan.github.io/whos-that/",
+    "poster": "https://yinxinghuan.github.io/games/posters/whos-that.png",
+    "zipurl": "https://github.com/yinxinghuan/whos-that/archive/refs/heads/main.zip"
   }
 ]
