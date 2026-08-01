@@ -1,5 +1,15 @@
 [
   {
+    "id": "last-laugh-club",
+    "uuid": "cc076f20-1a8d-495c-ac0a-583ec555a475",
+    "name": "Last Laugh Club",
+    "category": "other",
+    "description": "三段独立互动视频短剧：被诬陷的服务员让香槟作证，被看低的裁缝让雨评价礼服，被婚礼抹去的父亲让旧音乐盒选择舞伴；同一套情绪机制用三种关系完成公开翻盘。",
+    "url": "https://yinxinghuan.github.io/last-laugh-club/",
+    "poster": "https://yinxinghuan.github.io/games/posters/last-laugh-club.png",
+    "zipurl": "https://github.com/yinxinghuan/last-laugh-club/archive/refs/heads/main.zip"
+  },
+  {
     "id": "stolen-spotlight",
     "uuid": "8760d13e-fa8f-4b3d-a6a1-94367a87d69e",
     "name": "Stolen Spotlight",
