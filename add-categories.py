@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'wrong-answer-only': 'other',
     'fountain-regatta': 'other',
     'paper-strike': 'other',
     'wedding-disaster-bureau': 'other',

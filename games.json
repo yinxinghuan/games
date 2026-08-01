@@ -1,5 +1,15 @@
 [
   {
+    "id": "wrong-answer-only",
+    "uuid": "0727e78c-39a8-4e95-8a50-46f45ad2ebb1",
+    "name": "Wrong Answers Only",
+    "category": "other",
+    "description": "迟到 99 分钟，老板只给最后一次解释机会。两个普通借口触发五秒反噬，最离谱的月球答案用十秒完成公开认证、撕毁最后通牒和授勋翻盘。",
+    "url": "https://yinxinghuan.github.io/wrong-answer-only/",
+    "poster": "https://yinxinghuan.github.io/games/posters/wrong-answer-only.png",
+    "zipurl": "https://github.com/yinxinghuan/wrong-answer-only/archive/refs/heads/master.zip"
+  },
+  {
     "id": "fountain-regatta",
     "uuid": "8324dca6-3b9b-4924-9886-7471be1d30d4",
     "name": "Fountain Regatta",
