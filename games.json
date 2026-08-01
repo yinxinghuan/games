@@ -1,5 +1,15 @@
 [
   {
+    "id": "guard-my-face",
+    "uuid": "a0b372fe-011a-4bcc-bb9b-c65c01c5b757",
+    "name": "Guard My Face",
+    "category": "casual",
+    "description": "只画一条线保护自己的头像：先挡住追脸蜂群，再接住老板的迟到红章，最后把两只周一闹钟导向别处；三幕共用同一套真实折线碰撞，但每幕需要不同空间解法。",
+    "url": "https://yinxinghuan.github.io/guard-my-face/",
+    "poster": "https://yinxinghuan.github.io/games/posters/guard-my-face.png",
+    "zipurl": "https://github.com/yinxinghuan/guard-my-face/archive/refs/heads/master.zip"
+  },
+  {
     "id": "last-laugh-club",
     "uuid": "cc076f20-1a8d-495c-ac0a-583ec555a475",
     "name": "Last Laugh Club",

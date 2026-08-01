@@ -128,6 +128,7 @@ CATEGORIES = {
     'frost-crystals': 'casual',
     'ferrofluid': 'casual',
     'crack-tap': 'casual',
+    'guard-my-face': 'casual',
     'liquid-drop': 'casual',
     'murmuration': 'casual',
     'frosted-window': 'casual',
