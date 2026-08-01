@@ -2298,5 +2298,15 @@
     "url": "https://yinxinghuan.github.io/takeout-alibis/",
     "poster": "https://yinxinghuan.github.io/games/posters/takeout-alibis.png",
     "zipurl": "https://github.com/yinxinghuan/takeout-alibis/archive/refs/heads/main.zip"
+  },
+  {
+    "id": "follow-my-face",
+    "uuid": "f29b1601-6ac2-4e45-bed8-65680b9f1047",
+    "name": "Follow My Face",
+    "category": "casual",
+    "description": "AlterU 单手认知干扰挑战 · 跟头像走，别信文字。玩家的真实头像向左或向右冲，写着玩家名字的巨大方向牌会故意撒谎；20 秒内识破路牌，按错时头像会被透明纸门当场拍扁。",
+    "url": "https://yinxinghuan.github.io/follow-my-face/",
+    "poster": "https://yinxinghuan.github.io/games/posters/follow-my-face.png",
+    "zipurl": "https://github.com/yinxinghuan/follow-my-face/archive/refs/heads/main.zip"
   }
 ]
