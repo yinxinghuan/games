@@ -2288,5 +2288,15 @@
     "url": "https://yinxinghuan.github.io/whos-that/",
     "poster": "https://yinxinghuan.github.io/games/posters/whos-that.png",
     "zipurl": "https://github.com/yinxinghuan/whos-that/archive/refs/heads/main.zip"
+  },
+  {
+    "id": "takeout-alibis",
+    "uuid": "64ffcc6b-af9a-420d-8077-13da6839aadc",
+    "name": "Takeout Alibis",
+    "category": "social",
+    "description": "AlterU 社交身份推理 · 三位真实朋友依次私密拿手机，选择外卖误送到自己门口时会怎么做；手机回到主人手里后，根据性格猜每张匿名小票是谁说的。答案来自朋友本人，不是系统随机。",
+    "url": "https://yinxinghuan.github.io/takeout-alibis/",
+    "poster": "https://yinxinghuan.github.io/games/posters/takeout-alibis.png",
+    "zipurl": "https://github.com/yinxinghuan/takeout-alibis/archive/refs/heads/main.zip"
   }
 ]
