@@ -129,6 +129,7 @@ CATEGORIES = {
     'ferrofluid': 'casual',
     'crack-tap': 'casual',
     'guard-my-face': 'casual',
+    'stack-the-group-chat': 'casual',
     'liquid-drop': 'casual',
     'murmuration': 'casual',
     'frosted-window': 'casual',

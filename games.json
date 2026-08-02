@@ -1,5 +1,15 @@
 [
   {
+    "id": "stack-the-group-chat",
+    "uuid": "a5d56eed-f122-4608-b144-807e55898f94",
+    "name": "Stack the Group Chat",
+    "category": "casual",
+    "description": "把真实朋友头像变成圆角拍立得刚体，点击看准吊索落点，在三个人掉队前搭出稳定三层塔；成功保留朋友互相托住的登月合影，失败留下摔出群聊的照片残片。",
+    "url": "https://yinxinghuan.github.io/stack-the-group-chat/",
+    "poster": "https://yinxinghuan.github.io/games/posters/stack-the-group-chat.png",
+    "zipurl": "https://github.com/yinxinghuan/stack-the-group-chat/archive/refs/heads/master.zip"
+  },
+  {
     "id": "guard-my-face",
     "uuid": "a0b372fe-011a-4bcc-bb9b-c65c01c5b757",
     "name": "Guard My Face",
