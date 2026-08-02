@@ -1,5 +1,15 @@
 [
   {
+    "id": "last-straw-machine",
+    "uuid": "22e23436-6656-4aa4-aa4f-c7e3672f2617",
+    "name": "Today's Last Straw",
+    "category": "casual",
+    "description": "把自己的头像投入真实 Plinko 钉阵，在老板约谈、误点全员回复和咖啡事故之间反复擦边；落袋后用一段 10 秒真人短剧先兑现熟悉的职场压力，再完成权力反转、群体站队或物理喜剧释放。",
+    "url": "https://yinxinghuan.github.io/last-straw-machine/",
+    "poster": "https://yinxinghuan.github.io/games/posters/last-straw-machine.png",
+    "zipurl": "https://github.com/yinxinghuan/last-straw-machine/archive/refs/heads/master.zip"
+  },
+  {
     "id": "stack-the-group-chat",
     "uuid": "a5d56eed-f122-4608-b144-807e55898f94",
     "name": "Stack the Group Chat",
