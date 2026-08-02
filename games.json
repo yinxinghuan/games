@@ -1,5 +1,15 @@
 [
   {
+    "id": "ring-run",
+    "uuid": "ac3ee41f-3230-44e8-83c9-624c77431481",
+    "name": "Ring Run",
+    "category": "casual",
+    "description": "婚礼马上开始，婚戒还在路上。画一条连续安全路线，让带着自己头像的天鹅绒戒指盒依次绕过横扫猫爪、扫地机器人清扫回路和香槟瓶滚动带；走错时，猫、机器人或酒瓶会当场宣布订婚。",
+    "url": "https://yinxinghuan.github.io/ring-run/",
+    "poster": "https://yinxinghuan.github.io/games/posters/ring-run.png",
+    "zipurl": "https://github.com/yinxinghuan/ring-run/archive/refs/heads/master.zip"
+  },
+  {
     "id": "dont-answer-317",
     "uuid": "e16f2669-2bbc-439f-bf99-2252f5fb03a6",
     "name": "Don't Answer at 3:17",

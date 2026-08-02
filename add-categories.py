@@ -132,6 +132,7 @@ CATEGORIES = {
     'stack-the-group-chat': 'casual',
     'last-straw-machine': 'casual',
     'dont-answer-317': 'other',
+    'ring-run': 'casual',
     'liquid-drop': 'casual',
     'murmuration': 'casual',
     'frosted-window': 'casual',
