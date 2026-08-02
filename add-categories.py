@@ -131,6 +131,7 @@ CATEGORIES = {
     'guard-my-face': 'casual',
     'stack-the-group-chat': 'casual',
     'last-straw-machine': 'casual',
+    'dont-answer-317': 'other',
     'liquid-drop': 'casual',
     'murmuration': 'casual',
     'frosted-window': 'casual',
