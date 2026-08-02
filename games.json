@@ -1,5 +1,15 @@
 [
   {
+    "id": "group-photo-panic",
+    "uuid": "2cb574e4-cb4d-4210-9fb0-bd1776e4301f",
+    "name": "Group Photo Panic",
+    "category": "casual",
+    "description": "摄影师马上按下快门，五位真实朋友却都在相框外。直接滑动头像，让零重力照片筹码互相碰撞、反弹并全部稳定入镜；成功留下统计学上不可能的合影，失败保留一张过于诚实的事故照片。物理引擎：Matter.js（Liam Brummitt 等，MIT）。",
+    "url": "https://yinxinghuan.github.io/group-photo-panic/",
+    "poster": "https://yinxinghuan.github.io/games/posters/group-photo-panic.png",
+    "zipurl": "https://github.com/yinxinghuan/group-photo-panic/archive/refs/heads/master.zip"
+  },
+  {
     "id": "ring-run",
     "uuid": "ac3ee41f-3230-44e8-83c9-624c77431481",
     "name": "Ring Run",
