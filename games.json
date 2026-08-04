@@ -2,7 +2,7 @@
   {
     "id": "group-photo-panic",
     "uuid": "2cb574e4-cb4d-4210-9fb0-bd1776e4301f",
-    "name": "Group Photo Panic",
+    "name": "[EXPERIMENT] Group Photo Panic",
     "category": "casual",
     "description": "摄影师马上按下快门，五位真实朋友却都在相框外。直接滑动头像，让零重力照片筹码互相碰撞、反弹并全部稳定入镜；成功留下统计学上不可能的合影，失败保留一张过于诚实的事故照片。物理引擎：Matter.js（Liam Brummitt 等，MIT）。",
     "url": "https://yinxinghuan.github.io/group-photo-panic/",
@@ -12,7 +12,7 @@
   {
     "id": "ring-run",
     "uuid": "ac3ee41f-3230-44e8-83c9-624c77431481",
-    "name": "Ring Run",
+    "name": "[EXPERIMENT] Ring Run",
     "category": "casual",
     "description": "婚礼马上开始，婚戒还在路上。画一条连续安全路线，让带着自己头像的天鹅绒戒指盒依次绕过横扫猫爪、扫地机器人清扫回路和香槟瓶滚动带；走错时，猫、机器人或酒瓶会当场宣布订婚。",
     "url": "https://yinxinghuan.github.io/ring-run/",
@@ -22,7 +22,7 @@
   {
     "id": "dont-answer-317",
     "uuid": "e16f2669-2bbc-439f-bf99-2252f5fb03a6",
-    "name": "Don't Answer at 3:17",
+    "name": "[EXPERIMENT] Don't Answer at 3:17",
     "category": "other",
     "description": "凌晨 3:17 有人敲门。拖动黄铜门链只开一条缝，在前任送回钥匙、朋友迟到的生日惊喜和警察送回闯祸山羊之间随机揭晓；每个 10 秒真人结局都从真实焦虑转向边界、温暖或荒诞释放。",
     "url": "https://yinxinghuan.github.io/dont-answer-317/",
@@ -32,7 +32,7 @@
   {
     "id": "last-straw-machine",
     "uuid": "22e23436-6656-4aa4-aa4f-c7e3672f2617",
-    "name": "Today's Last Straw",
+    "name": "[EXPERIMENT] Today's Last Straw",
     "category": "casual",
     "description": "把自己的头像投入真实 Plinko 钉阵，在老板约谈、误点全员回复和咖啡事故之间反复擦边；落袋后用一段 10 秒真人短剧先兑现熟悉的职场压力，再完成权力反转、群体站队或物理喜剧释放。",
     "url": "https://yinxinghuan.github.io/last-straw-machine/",
@@ -42,7 +42,7 @@
   {
     "id": "stack-the-group-chat",
     "uuid": "a5d56eed-f122-4608-b144-807e55898f94",
-    "name": "Stack the Group Chat",
+    "name": "[EXPERIMENT] Stack the Group Chat",
     "category": "casual",
     "description": "把真实朋友头像变成圆角拍立得刚体，点击看准吊索落点，在三个人掉队前搭出稳定三层塔；成功保留朋友互相托住的登月合影，失败留下摔出群聊的照片残片。",
     "url": "https://yinxinghuan.github.io/stack-the-group-chat/",
@@ -52,7 +52,7 @@
   {
     "id": "guard-my-face",
     "uuid": "a0b372fe-011a-4bcc-bb9b-c65c01c5b757",
-    "name": "Guard My Face",
+    "name": "[EXPERIMENT] Guard My Face",
     "category": "casual",
     "description": "只画一条线保护自己的头像：先挡住追脸蜂群，再接住老板的迟到红章，最后把两只周一闹钟导向别处；三幕共用同一套真实折线碰撞，但每幕需要不同空间解法。",
     "url": "https://yinxinghuan.github.io/guard-my-face/",
@@ -62,7 +62,7 @@
   {
     "id": "last-laugh-club",
     "uuid": "cc076f20-1a8d-495c-ac0a-583ec555a475",
-    "name": "Last Laugh Club",
+    "name": "[EXPERIMENT] Last Laugh Club",
     "category": "other",
     "description": "三段独立互动视频短剧：被诬陷的服务员让香槟作证，被看低的裁缝让雨评价礼服，被婚礼抹去的父亲让旧音乐盒选择舞伴；同一套情绪机制用三种关系完成公开翻盘。",
     "url": "https://yinxinghuan.github.io/last-laugh-club/",
@@ -72,7 +72,7 @@
   {
     "id": "stolen-spotlight",
     "uuid": "8760d13e-fa8f-4b3d-a6a1-94367a87d69e",
-    "name": "Stolen Spotlight",
+    "name": "[EXPERIMENT] Stolen Spotlight",
     "category": "other",
     "description": "三幕互动视频短剧：Maya 的机器人和发明者身份被同事当众夺走，玩家经历公开降格、证据被抹掉与颁奖夜最低点，最终让作品亲自作证，在十秒高潮里夺回奖章、身份和全场聚光灯。",
     "url": "https://yinxinghuan.github.io/stolen-spotlight/",
@@ -82,7 +82,7 @@
   {
     "id": "wrong-answer-only",
     "uuid": "0727e78c-39a8-4e95-8a50-46f45ad2ebb1",
-    "name": "Wrong Answers Only",
+    "name": "[EXPERIMENT] Wrong Answers Only",
     "category": "other",
     "description": "迟到 99 分钟，老板只给最后一次解释机会。两个普通借口触发五秒反噬，最离谱的月球答案用十秒完成公开认证、撕毁最后通牒和授勋翻盘。",
     "url": "https://yinxinghuan.github.io/wrong-answer-only/",
@@ -92,7 +92,7 @@
   {
     "id": "fountain-regatta",
     "uuid": "8324dca6-3b9b-4924-9886-7471be1d30d4",
-    "name": "Fountain Regatta",
+    "name": "[EXPERIMENT] Fountain Regatta",
     "category": "other",
     "description": "把开进城市喷泉的红车坚持说成一艘船，让交警认真完成船长审查和喷泉赛艇；三场生成影像喜剧包含九个完整结果与奖杯加罚单的最终反转。",
     "url": "https://yinxinghuan.github.io/fountain-regatta/",
@@ -102,7 +102,7 @@
   {
     "id": "paper-strike",
     "uuid": "c267b4bc-bc03-4346-96a3-39d01576def2",
-    "name": "Paper Strike",
+    "name": "[EXPERIMENT] Paper Strike",
     "category": "other",
     "description": "老板只想要一份报告，纸张却成立了工会。用三个荒谬答案把普通办公室事故升级成打印机升职、反向面试和九个可收集结局。",
     "url": "https://yinxinghuan.github.io/paper-strike/",
@@ -112,7 +112,7 @@
   {
     "id": "wedding-disaster-bureau",
     "uuid": "ace2b161-079f-4bc5-85a6-e55d2fae6ad2",
-    "name": "Wedding Disaster Bureau",
+    "name": "[EXPERIMENT] Wedding Disaster Bureau",
     "category": "other",
     "description": "柯基吞下婚戒后，把它任命为戒童、把红毯搬到它面前，再让它主持整场婚礼；三场手绘选择喜剧包含九个逐拍演出的荒诞结果。",
     "url": "https://yinxinghuan.github.io/wedding-disaster-bureau/",
@@ -122,7 +122,7 @@
   {
     "id": "midnight-hotel-ledger",
     "uuid": "03b3aa05-0634-47d8-bab6-4effc6271007",
-    "name": "The Midnight Hotel Ledger",
+    "name": "[EXPERIMENT] The Midnight Hotel Ledger",
     "category": "other",
     "description": "从 307 号房的浴缸海浪一路处理到章鱼入住和八路客房服务；三场生成影像喜剧包含九个完整结果，最后把夜班前台交给八只触手。",
     "url": "https://yinxinghuan.github.io/midnight-hotel-ledger/",
@@ -2342,7 +2342,7 @@
   {
     "id": "whos-that",
     "uuid": "0ff60ec5-de93-4437-bb4b-b0c23212d641",
-    "name": "Who's That?",
+    "name": "[EXPERIMENT] Who's That?",
     "category": "social",
     "description": "AlterU 社交身份推理 · 只显示朋友头像的 18%，从三位真实联系人中认出本人；猜错会逐步显影，最快认出会把一句温暖的确认发给对方。",
     "url": "https://yinxinghuan.github.io/whos-that/",
@@ -2352,7 +2352,7 @@
   {
     "id": "takeout-alibis",
     "uuid": "64ffcc6b-af9a-420d-8077-13da6839aadc",
-    "name": "Takeout Alibis",
+    "name": "[EXPERIMENT] Takeout Alibis",
     "category": "social",
     "description": "AlterU 社交身份推理 · 三位真实朋友依次私密拿手机，选择外卖误送到自己门口时会怎么做；手机回到主人手里后，根据性格猜每张匿名小票是谁说的。答案来自朋友本人，不是系统随机。",
     "url": "https://yinxinghuan.github.io/takeout-alibis/",
@@ -2362,7 +2362,7 @@
   {
     "id": "follow-my-face",
     "uuid": "f29b1601-6ac2-4e45-bed8-65680b9f1047",
-    "name": "Follow My Face",
+    "name": "[EXPERIMENT] Follow My Face",
     "category": "casual",
     "description": "AlterU 单手认知干扰挑战 · 跟头像走，别信文字。玩家的真实头像向左或向右冲，写着玩家名字的巨大方向牌会故意撒谎；20 秒内识破路牌，按错时头像会被透明纸门当场拍扁。",
     "url": "https://yinxinghuan.github.io/follow-my-face/",
