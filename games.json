@@ -1,5 +1,15 @@
 [
   {
+    "id": "stateful-story-template",
+    "uuid": "6375516d-0361-41ed-b086-176bbad05b46",
+    "name": "Seventh Dock: Stateful Story",
+    "category": "strategy",
+    "description": "一个可长期继续的有状态 AI 对话世界模板：在第七码头或屋顶公寓中选择行动、经历检定，管理风险、资源、关系、地图与物品；生成场景图会留在触发它的对话位置，Cartridge 可替换整套题材与规则。技术组件：React（Meta，MIT）。",
+    "url": "https://yinxinghuan.github.io/stateful-story-template/",
+    "poster": "https://yinxinghuan.github.io/games/posters/stateful-story-template.png",
+    "zipurl": "https://github.com/yinxinghuan/stateful-story-template/archive/refs/heads/master.zip"
+  },
+  {
     "id": "group-photo-panic",
     "uuid": "2cb574e4-cb4d-4210-9fb0-bd1776e4301f",
     "name": "[EXPERIMENT] Group Photo Panic",
