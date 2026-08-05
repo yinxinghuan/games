@@ -1,13 +1,23 @@
 [
   {
-    "id": "stateful-story-template",
-    "uuid": "6375516d-0361-41ed-b086-176bbad05b46",
-    "name": "Seventh Dock: Stateful Story",
+    "id": "rooftop-apartment",
+    "uuid": "929af687-289a-4712-b8fb-77a21fbe506f",
+    "name": "Rooftop Apartment",
     "category": "strategy",
-    "description": "一个可长期继续的有状态 AI 对话世界模板：在第七码头或屋顶公寓中选择行动、经历检定，管理风险、资源、关系、地图与物品；生成场景图会留在触发它的对话位置，Cartridge 可替换整套题材与规则。技术组件：React（Meta，MIT）。",
-    "url": "https://yinxinghuan.github.io/stateful-story-template/",
-    "poster": "https://yinxinghuan.github.io/games/posters/stateful-story-template.png",
-    "zipurl": "https://github.com/yinxinghuan/stateful-story-template/archive/refs/heads/master.zip"
+    "description": "一款可长期继续的有状态 AI 多人关系模拟：以自己的 AlterU 身份加入屋顶合租公寓，在租金压力、公共秩序与邻里声誉之间处理会被住户记住的生活冲突。技术组件：React（Meta，MIT）。",
+    "url": "https://yinxinghuan.github.io/rooftop-apartment/",
+    "poster": "https://yinxinghuan.github.io/games/posters/rooftop-apartment.png",
+    "zipurl": "https://github.com/yinxinghuan/rooftop-apartment/archive/refs/heads/master.zip"
+  },
+  {
+    "id": "seventh-dock",
+    "uuid": "80a488ee-f6c9-4de5-a7a6-b2a9b9e88401",
+    "name": "Seventh Dock",
+    "category": "strategy",
+    "description": "一款可长期继续的有状态 AI 小队冒险：以自己的 AlterU 身份进入风暴前港区，通过对话、检定与资源取舍管理潮位、补给、警戒和同行者关系。技术组件：React（Meta，MIT）。",
+    "url": "https://yinxinghuan.github.io/seventh-dock/",
+    "poster": "https://yinxinghuan.github.io/games/posters/seventh-dock.png",
+    "zipurl": "https://github.com/yinxinghuan/seventh-dock/archive/refs/heads/master.zip"
   },
   {
     "id": "group-photo-panic",
