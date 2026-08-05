@@ -1,5 +1,15 @@
 [
   {
+    "id": "the-wild-road",
+    "uuid": "74321214-0f37-4654-9faa-1d22a7f08ecd",
+    "name": "The Wild Road",
+    "category": "strategy",
+    "description": "一款自由探索的有状态 AI 开放世界冒险：从旧十字路口出发，自由旅行、交涉、经商或追逐自己的目标；地点、人物、物资、宝物代价与世界关系会持续生成并长期保存。技术组件：React（Meta，MIT）。",
+    "url": "https://yinxinghuan.github.io/the-wild-road/",
+    "poster": "https://yinxinghuan.github.io/games/posters/the-wild-road.png",
+    "zipurl": "https://github.com/yinxinghuan/the-wild-road/archive/refs/heads/master.zip"
+  },
+  {
     "id": "rooftop-apartment",
     "uuid": "929af687-289a-4712-b8fb-77a21fbe506f",
     "name": "Rooftop Apartment",
