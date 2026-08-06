@@ -1,5 +1,15 @@
 [
   {
+    "id": "city-of-tides",
+    "uuid": "1a2916b0-8751-4e5d-9f9b-92daf5f7c96f",
+    "name": "[EXPERIMENT] City of Tides",
+    "category": "social",
+    "description": "一个异步共享世界实验：不同时抵达的玩家在同一座潮汐城市留下限时留言、路线与公共援助，共同推进季节工程，并让少量改变成为永久城市历史。技术组件：React（Meta，MIT）。",
+    "url": "https://yinxinghuan.github.io/city-of-tides/",
+    "poster": "https://yinxinghuan.github.io/games/posters/city-of-tides.png",
+    "zipurl": "https://github.com/yinxinghuan/city-of-tides/archive/refs/heads/master.zip"
+  },
+  {
     "id": "the-wild-road",
     "uuid": "74321214-0f37-4654-9faa-1d22a7f08ecd",
     "name": "The Wild Road",
