@@ -7,7 +7,7 @@
     "description": "一个异步共享世界实验：不同时抵达的玩家在同一座潮汐城市留下限时留言、路线与公共援助，共同推进季节工程，并让少量改变成为永久城市历史。技术组件：React（Meta，MIT）。",
     "url": "https://game.aiwaves.tech/1a2916b0-8751-4e5d-9f9b-92daf5f7c96f/",
     "poster": "https://yinxinghuan.github.io/games/posters/city-of-tides.png",
-    "zipurl": "https://game.aiwaves.tech/1a2916b0-8751-4e5d-9f9b-92daf5f7c96f/source.zip"
+    "zipurl": "https://github.com/yinxinghuan/city-of-tides/archive/refs/heads/master.zip"
   },
   {
     "id": "the-wild-road",
