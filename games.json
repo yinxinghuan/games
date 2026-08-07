@@ -15,7 +15,7 @@
     "name": "The Wild Road",
     "category": "strategy",
     "description": "一款自由探索的有状态 AI 开放世界冒险：从旧十字路口出发，自由旅行、交涉、经商或追逐自己的目标；地点、人物、物资、宝物代价与世界关系会持续生成并长期保存。技术组件：React（Meta，MIT）。",
-    "url": "https://yinxinghuan.github.io/the-wild-road/",
+    "url": "https://game.aiwaves.tech/74321214-0f37-4654-9faa-1d22a7f08ecd/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-wild-road.png",
     "zipurl": "https://github.com/yinxinghuan/the-wild-road/archive/refs/heads/master.zip"
   },
@@ -25,7 +25,7 @@
     "name": "Rooftop Apartment",
     "category": "strategy",
     "description": "一款可长期继续的有状态 AI 多人关系模拟：以自己的 AlterU 身份加入屋顶合租公寓，在租金压力、公共秩序与邻里声誉之间处理会被住户记住的生活冲突。技术组件：React（Meta，MIT）。",
-    "url": "https://yinxinghuan.github.io/rooftop-apartment/",
+    "url": "https://game.aiwaves.tech/929af687-289a-4712-b8fb-77a21fbe506f/",
     "poster": "https://yinxinghuan.github.io/games/posters/rooftop-apartment.png",
     "zipurl": "https://github.com/yinxinghuan/rooftop-apartment/archive/refs/heads/master.zip"
   },
@@ -35,7 +35,7 @@
     "name": "Seventh Dock",
     "category": "strategy",
     "description": "一款可长期继续的有状态 AI 小队冒险：以自己的 AlterU 身份进入风暴前港区，通过对话、检定与资源取舍管理潮位、补给、警戒和同行者关系。技术组件：React（Meta，MIT）。",
-    "url": "https://yinxinghuan.github.io/seventh-dock/",
+    "url": "https://game.aiwaves.tech/80a488ee-f6c9-4de5-a7a6-b2a9b9e88401/",
     "poster": "https://yinxinghuan.github.io/games/posters/seventh-dock.png",
     "zipurl": "https://github.com/yinxinghuan/seventh-dock/archive/refs/heads/master.zip"
   },
