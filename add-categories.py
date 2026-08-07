@@ -126,7 +126,7 @@ CATEGORIES = {
     'the-daily-arcana': 'casual',
     'bell-tower': 'social',
     'bubble-wrap-eternal': 'casual',
-    'static-channel': 'casual',
+    'static-channel': 'social',
     'pebble-pocket': 'casual',
     'ink-of-fate': 'social',
     'frost-crystals': 'casual',

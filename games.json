@@ -1603,9 +1603,9 @@
     "id": "static-channel",
     "uuid": "863f612f-b48e-407a-9b26-fd977321c758",
     "name": "Static Channel",
-    "category": "casual",
-    "description": "An old CRT TV. Drag to tune 88–108 MHz — each frequency an AI channel: a weird VHS still + a one-line chyron, like mom rolling dumplings in 1994. Heart to keep a channel; open the wall.",
-    "url": "https://yinxinghuan.github.io/static-channel/",
+    "category": "social",
+    "description": "拖动老式 CRT 的 88–108 MHz 调频刻度，发现并保留陌生人的画面频道，也可以接着他们的作品生成下一段，让每条广播成为多人共同完成的视觉接龙。",
+    "url": "https://game.aiwaves.tech/863f612f-b48e-407a-9b26-fd977321c758/",
     "poster": "https://yinxinghuan.github.io/games/posters/static-channel.png",
     "zipurl": "https://github.com/yinxinghuan/static-channel/archive/refs/heads/master.zip"
   },
