@@ -38,7 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
-    'city-of-tides': 'social',
+    'city-of-tides': 'strategy',
     'the-wild-road': 'strategy',
     'rooftop-apartment': 'strategy',
     'seventh-dock': 'strategy',
