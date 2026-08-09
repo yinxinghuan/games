@@ -1,5 +1,15 @@
 [
   {
+    "id": "afterlight-district",
+    "uuid": "bed12ecd-15e6-4ba1-b1dc-a406374806b9",
+    "name": "Afterlight District",
+    "category": "strategy",
+    "description": "一款竖屏 3D 生存经营游戏：跟随人物演出逐步救出居民、分配生产任务，在有限电力与废料中修筑防线，并守住刚刚恢复光明的街区。技术组件：React、Three.js、React Three Fiber 与 Drei（MIT）。",
+    "url": "https://game.aiwaves.tech/bed12ecd-15e6-4ba1-b1dc-a406374806b9/",
+    "poster": "https://yinxinghuan.github.io/games/posters/afterlight-district.png",
+    "zipurl": "https://github.com/yinxinghuan/afterlight-district/archive/refs/heads/master.zip"
+  },
+  {
     "id": "jungle-trail",
     "uuid": "8962baf6-4b6a-4ddc-892c-19252c297200",
     "name": "Jungle Trail",
