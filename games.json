@@ -1,5 +1,15 @@
 [
   {
+    "id": "before-we-get-home",
+    "uuid": "ce2b7231-7996-430d-85f6-8fdf184acf3d",
+    "name": "Before We Get Home",
+    "category": "strategy",
+    "description": "一款完整的双语竖屏城市归途冒险：地震与暴雨切断交通后，在天亮前穿越八章连续旅程寻找母亲与弟弟；体力、时间、电量、伙伴、物资与承诺持续影响危险、路线和动态结局。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/ce2b7231-7996-430d-85f6-8fdf184acf3d/",
+    "poster": "https://yinxinghuan.github.io/games/posters/before-we-get-home.png",
+    "zipurl": "https://github.com/yinxinghuan/before-we-get-home/archive/refs/heads/master.zip"
+  },
+  {
     "id": "the-erased-kingdom",
     "uuid": "0a86a3a1-9328-406a-955f-8a2a8d7e704c",
     "name": "The Erased Kingdom",
