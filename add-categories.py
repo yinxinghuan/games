@@ -42,6 +42,7 @@ CATEGORIES = {
     'jungle-trail': 'visual',
     'city-of-tides': 'strategy',
     'the-wild-road': 'strategy',
+    'the-erased-kingdom': 'strategy',
     'rooftop-apartment': 'strategy',
     'seventh-dock': 'strategy',
     'last-laugh-club': 'other',
