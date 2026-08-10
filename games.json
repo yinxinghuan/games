@@ -215,7 +215,7 @@
     "name": "Thrustline",
     "category": "action",
     "description": "在 30 秒内只用按住点火、松开滑行，管理燃料、横向气流和接触速度，把自动摆角的着陆器送上安全或高分平台。",
-    "url": "https://yinxinghuan.github.io/thrustline/",
+    "url": "https://game.aiwaves.tech/67bc0e3f-ac83-410f-a802-f4a01d177528/",
     "poster": "https://yinxinghuan.github.io/games/posters/thrustline.png",
     "zipurl": "https://github.com/yinxinghuan/thrustline/archive/refs/heads/master.zip"
   },
@@ -225,7 +225,7 @@
     "name": "Chain Command",
     "category": "strategy",
     "description": "在老式远程防御终端上以每波三次截击构筑权威爆炸域，让有限弹药通过连锁反应守住四座地面站。",
-    "url": "https://yinxinghuan.github.io/chain-command/",
+    "url": "https://game.aiwaves.tech/f34fed71-e98e-4a8c-9060-013c245ae051/",
     "poster": "https://yinxinghuan.github.io/games/posters/chain-command.png",
     "zipurl": "https://github.com/yinxinghuan/chain-command/archive/refs/heads/master.zip"
   },
@@ -235,7 +235,7 @@
     "name": "Threadbreaker",
     "category": "action",
     "description": "在工业污染控制终端中单指拖动巡检器，自动射击并切断持续下压的分节链体，在三十秒内阻止危险带突破。",
-    "url": "https://yinxinghuan.github.io/threadbreaker/",
+    "url": "https://game.aiwaves.tech/b9ea9b06-16fe-4b0c-aa9f-0927fd604080/",
     "poster": "https://yinxinghuan.github.io/games/posters/threadbreaker.png",
     "zipurl": "https://github.com/yinxinghuan/threadbreaker/archive/refs/heads/master.zip"
   },
@@ -245,7 +245,7 @@
     "name": "Kilnfall",
     "category": "visual",
     "description": "在深墨陶瓷工作台上拖动、旋转并落下九组四连块，再主动释放倾斜台面，让 36 个刚体单元坍塌并定格成个人署名雕塑。概念参考：Kamil Macinski《Tokyo Night Tetris》；未复制其代码与资产。",
-    "url": "https://yinxinghuan.github.io/kilnfall/",
+    "url": "https://game.aiwaves.tech/e9f617de-b5ba-44fd-97af-0c467363e13a/",
     "poster": "https://yinxinghuan.github.io/games/posters/kilnfall.png",
     "zipurl": "https://github.com/yinxinghuan/kilnfall/archive/refs/heads/master.zip"
   },
