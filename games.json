@@ -165,7 +165,7 @@
     "name": "[EXPERIMENT] Wrong Answers Only",
     "category": "other",
     "description": "单场景互动视频短剧：女工程师的老板当众抢走她的机器人奖杯。解释会被玻璃墙静音，拔电源会关掉唯一证人，问机器人本人则让作品亲手把奖杯和镜头还给真正的创造者。",
-    "url": "https://yinxinghuan.github.io/wrong-answer-only/",
+    "url": "https://game.aiwaves.tech/0727e78c-39a8-4e95-8a50-46f45ad2ebb1/",
     "poster": "https://yinxinghuan.github.io/games/posters/wrong-answer-only.png",
     "zipurl": "https://github.com/yinxinghuan/wrong-answer-only/archive/refs/heads/master.zip"
   },
@@ -255,7 +255,7 @@
     "name": "Circuit Serpent",
     "category": "action",
     "description": "在 70 秒电路网格中用单指改向，让不断增长的自身线路成为障碍；每第四枚节点充能断路器，双击切尾换取生路与分数。",
-    "url": "https://yinxinghuan.github.io/circuit-serpent/",
+    "url": "https://game.aiwaves.tech/49d815c9-fc9b-4949-9747-b306ddc36499/",
     "poster": "https://yinxinghuan.github.io/games/posters/circuit-serpent.png",
     "zipurl": "https://github.com/yinxinghuan/circuit-serpent/archive/refs/heads/main.zip"
   },
@@ -265,7 +265,7 @@
     "name": "Intercept Array",
     "category": "strategy",
     "description": "在 75 秒来袭中轻点布置真实截击范围，用有限充能和爆炸连锁守住五座地面信标。",
-    "url": "https://yinxinghuan.github.io/intercept-array/",
+    "url": "https://game.aiwaves.tech/d4375875-5ecd-47f3-947f-71214e8c9659/",
     "poster": "https://yinxinghuan.github.io/games/posters/intercept-array.png",
     "zipurl": "https://github.com/yinxinghuan/intercept-array/archive/refs/heads/main.zip"
   },
@@ -275,7 +275,7 @@
     "name": "Recoil Vector",
     "category": "shooter",
     "description": "在 60 秒小行星场中只靠开火反冲移动；弹丸越界留下的红色边界印记既能击碎敌人，也会反噬飞船。",
-    "url": "https://yinxinghuan.github.io/recoil-vector/",
+    "url": "https://game.aiwaves.tech/1fbaf7a0-265e-4f6e-aebf-bf96f1c49940/",
     "poster": "https://yinxinghuan.github.io/games/posters/recoil-vector.png",
     "zipurl": "https://github.com/yinxinghuan/recoil-vector/archive/refs/heads/main.zip"
   },
@@ -305,7 +305,7 @@
     "name": "Fracture Field",
     "category": "action",
     "description": "在 60 秒 SIGNAL CUT 版面中控制回球角度，先建立红色裂纹网络，再触发连锁崩解与 8 秒 PRISM 双球窗口。",
-    "url": "https://yinxinghuan.github.io/inkbreak/",
+    "url": "https://game.aiwaves.tech/85713592-c655-492c-916d-de49f53eaa16/",
     "poster": "https://yinxinghuan.github.io/games/posters/inkbreak.png",
     "zipurl": "https://github.com/yinxinghuan/inkbreak/archive/refs/heads/main.zip"
   },
@@ -315,7 +315,7 @@
     "name": "Living Byline",
     "category": "visual",
     "description": "自由旋转三座层次悬殊的投影雕塑，在唯一正确视角中拼出 AlterU 水印、玩家用户名与头像构成的完整平面设计。概念参考：Cullen Webber《three-html-to-canvas》；未复制其代码与资产。",
-    "url": "https://yinxinghuan.github.io/living-byline/",
+    "url": "https://game.aiwaves.tech/8988197c-0f5b-4384-9841-06ea166314fe/",
     "poster": "https://yinxinghuan.github.io/games/posters/living-byline.png",
     "zipurl": "https://github.com/yinxinghuan/living-byline/archive/refs/heads/master.zip"
   },
@@ -335,7 +335,7 @@
     "name": "Splatterdrift",
     "category": "shooter",
     "description": "在 45 秒小行星风暴中只靠开火产生反冲漂移，连续命中升级穿透与双发 CORE，穿过粒子涡旋主动刹车并争取推进更多扇区。原作视觉机制署名：David Aerne（meodai）《CSS Splatters》。",
-    "url": "https://yinxinghuan.github.io/splatterdrift/",
+    "url": "https://game.aiwaves.tech/13fd84e9-0d92-48a3-8693-2f1fc0a1b570/",
     "poster": "https://yinxinghuan.github.io/games/posters/splatterdrift.png",
     "zipurl": "https://github.com/yinxinghuan/splatterdrift/archive/refs/heads/master.zip"
   },
@@ -345,7 +345,7 @@
     "name": "Oracle Protocol",
     "category": "casual",
     "description": "从 12 张 AI 大阿尔卡那中抽取过去、现在与未来，在正逆位和全息特殊牌之间得到一份面向当下的反思性神谕。原作机制署名：Codrops / Manoela Ilic《Baraja》；全息机制：Christian Alder《CSS Holographic Masks》。",
-    "url": "https://yinxinghuan.github.io/oracle-protocol/",
+    "url": "https://game.aiwaves.tech/6c0e2a8d-a814-4de8-bf4a-c61ac04fdf1e/",
     "poster": "https://yinxinghuan.github.io/games/posters/oracle-protocol.png",
     "zipurl": "https://github.com/yinxinghuan/oracle-protocol/archive/refs/heads/master.zip"
   },
@@ -385,7 +385,7 @@
     "name": "Pocket Drum Lab",
     "category": "casual",
     "description": "直接敲击会弹性变形的 SVG 鼓组，把八次触碰录成可循环、可叠加、可发表的个人节拍，并在作品墙试听其他玩家的创作。原作署名：Josh Ellis / Codrops。",
-    "url": "https://yinxinghuan.github.io/pocket-drum-lab/",
+    "url": "https://game.aiwaves.tech/ac9e85f3-cd20-47a5-9890-794b04bad38f/",
     "poster": "https://yinxinghuan.github.io/games/posters/pocket-drum-lab.png",
     "zipurl": "https://github.com/yinxinghuan/pocket-drum-lab/archive/refs/heads/master.zip"
   },
@@ -405,7 +405,7 @@
     "name": "Skyline Span",
     "category": "action",
     "description": "按住伸长桥杆、松手落桥，在极简山岭间连续跨过五座随机平台，留下完整天际路线。原作署名：Hunor Marton Borbely。",
-    "url": "https://yinxinghuan.github.io/skyline-span/",
+    "url": "https://game.aiwaves.tech/2f817db3-d779-45ae-900a-1047c1d7b643/",
     "poster": "https://yinxinghuan.github.io/games/posters/skyline-span.png",
     "zipurl": "https://github.com/yinxinghuan/skyline-span/archive/refs/heads/master.zip"
   },
@@ -415,7 +415,7 @@
     "name": "Kinetic Balance",
     "category": "visual",
     "description": "把当前玩家用户名铸成三行铰链立体字，逐行拨动并等待真实 Cannon 动能平息，完成个人物理标本。原作署名：Arno Di Nunzio / Codrops。",
-    "url": "https://yinxinghuan.github.io/kinetic-balance/",
+    "url": "https://game.aiwaves.tech/3397c770-509f-4870-9911-1ee288aa6b71/",
     "poster": "https://yinxinghuan.github.io/games/posters/kinetic-balance.png",
     "zipurl": "https://github.com/yinxinghuan/kinetic-balance/archive/refs/heads/master.zip"
   },
@@ -435,7 +435,7 @@
     "name": "Valorous Rabbit",
     "category": "action",
     "description": "在旋转的低多边形球面原野上轻触起跳，收集胡萝卜、躲开刺猬，在狼追上之前跑得更远。原作署名：Karim Maaloul（Yakudoo）。",
-    "url": "https://yinxinghuan.github.io/valorous-rabbit/",
+    "url": "https://game.aiwaves.tech/c4489aba-61f1-45f4-aea6-c217e798462a/",
     "poster": "https://yinxinghuan.github.io/games/posters/valorous-rabbit.png",
     "zipurl": "https://github.com/yinxinghuan/valorous-rabbit/archive/refs/heads/master.zip"
   },
@@ -455,7 +455,7 @@
     "name": "Portrait Current",
     "category": "visual",
     "description": "把当前玩家头像送入原版 Interactive Particles 的实例化粒子场；触摸覆盖十二格中的九格，让散乱肖像逐步收束成可辨识的个人粒子标本。原作署名：Bruno Imbrizi / Codrops。",
-    "url": "https://yinxinghuan.github.io/portrait-current/",
+    "url": "https://game.aiwaves.tech/788f549a-c79f-45ce-a9c6-67318b717bdb/",
     "poster": "https://yinxinghuan.github.io/games/posters/portrait-current.png",
     "zipurl": "https://github.com/yinxinghuan/portrait-current/archive/refs/heads/master.zip"
   },
@@ -475,7 +475,7 @@
     "name": "Horizon Drift",
     "category": "visual",
     "description": "拖动手指改变原版 Interactive Landscape 的程序山谷中心与宽度，依次穿过三枚地平线信标，让当前玩家用户名签署一条持续流动的路线。原作署名：André Mattos / Codrops。",
-    "url": "https://yinxinghuan.github.io/horizon-drift/",
+    "url": "https://game.aiwaves.tech/3d3b0c5c-a757-41de-a4e7-ce88e25710ea/",
     "poster": "https://yinxinghuan.github.io/games/posters/horizon-drift.png",
     "zipurl": "https://github.com/yinxinghuan/horizon-drift/archive/refs/heads/master.zip"
   },
@@ -505,7 +505,7 @@
     "name": "Kinetic Name",
     "category": "visual",
     "description": "把当前玩家用户名送入四套原版 Three.js 动态字形 shader；依次触碰锁定结绳、球体、扭曲块面与浮雕平面，完成后自由拖动观看。原作署名：Mario Carrillo / Codrops。",
-    "url": "https://yinxinghuan.github.io/kinetic-name/",
+    "url": "https://game.aiwaves.tech/4cbf59ad-2ddf-4b4a-b1d7-0dd3c4de2f4d/",
     "poster": "https://yinxinghuan.github.io/games/posters/kinetic-name.png",
     "zipurl": "https://github.com/yinxinghuan/kinetic-name/archive/refs/heads/master.zip"
   },
@@ -645,7 +645,7 @@
     "name": "Runic Name",
     "category": "visual",
     "description": "把当前 AlterU 用户名稳定转写为 12–24 个冰蓝点云符文，单指翻阅并在末端完成一次封名仪式。原作署名：Anton Bobrov。",
-    "url": "https://yinxinghuan.github.io/runic-name/",
+    "url": "https://game.aiwaves.tech/bfd3c8d9-0137-47db-916f-f407a735ce24/",
     "poster": "https://yinxinghuan.github.io/games/posters/runic-name.png",
     "zipurl": "https://github.com/yinxinghuan/runic-name/archive/refs/heads/master.zip"
   },
@@ -735,7 +735,7 @@
     "name": "ASCII Aura",
     "category": "visual",
     "description": "把用户头像送入原版 ASCII 生成器，触摸切换 Floyd、Atkinson、Noise 与 Ordered 四种抖动算法。原作署名：Mike Bespalov。",
-    "url": "https://yinxinghuan.github.io/ascii-aura/",
+    "url": "https://game.aiwaves.tech/27eb319f-b141-464e-ab89-a1f19cd774c8/",
     "poster": "https://yinxinghuan.github.io/games/posters/ascii-aura.png",
     "zipurl": "https://github.com/yinxinghuan/ascii-aura/archive/refs/heads/master.zip"
   },
@@ -765,7 +765,7 @@
     "name": "Name Relief",
     "category": "visual",
     "description": "让用户名字成为一块会被手指顶起、压弯并留下真实阴影的浅浮雕表面，逐区唤醒后完成一次整体呼吸。原作署名：Paola Demichelis。",
-    "url": "https://yinxinghuan.github.io/name-relief/",
+    "url": "https://game.aiwaves.tech/2ebb3cc6-d61a-4a2a-9aa3-ff5a407edaa6/",
     "poster": "https://yinxinghuan.github.io/games/posters/name-relief.png",
     "zipurl": "https://github.com/yinxinghuan/name-relief/archive/refs/heads/master.zip"
   },
@@ -845,7 +845,7 @@
     "name": "Swish Orbit",
     "category": "visual",
     "description": "一只橙色篮球在可自由环绕的深色球场中反复起飞，穿过由 84 个物理粒子编成的软网。球上单指拖拽投篮，空白处单指旋转，双指继续缩放观察入网形变。",
-    "url": "https://yinxinghuan.github.io/swish-orbit/",
+    "url": "https://game.aiwaves.tech/067ef09a-a91f-4aa7-ac9f-f24dd471fe5b/",
     "poster": "https://yinxinghuan.github.io/games/posters/swish-orbit.png",
     "zipurl": "https://github.com/yinxinghuan/swish-orbit/archive/refs/heads/main.zip"
   },
@@ -905,7 +905,7 @@
     "name": "Dither Field",
     "category": "visual",
     "description": "一张黑白人像由 Bayer 抖动矩阵中的 51,200 个立方像素逐行显影。单指旋转整块像素织物，双指把照片层与阈值层拉开，并直接倒放或推进同一段显影过程。",
-    "url": "https://yinxinghuan.github.io/dither-field/",
+    "url": "https://game.aiwaves.tech/43dd6f87-c702-4335-ae25-d0daeb1e161a/",
     "poster": "https://yinxinghuan.github.io/games/posters/dither-field.png",
     "zipurl": "https://github.com/yinxinghuan/dither-field/archive/refs/heads/main.zip"
   },
@@ -965,7 +965,7 @@
     "name": "Boing Sound Box",
     "category": "casual",
     "description": "按住录下一小段声音，把它装进透明软盒的七颗弹性声音体里；倾斜、碰撞和滑块会实时改变颗粒节奏、音高与空间。",
-    "url": "https://yinxinghuan.github.io/halftone-soundfield/",
+    "url": "https://game.aiwaves.tech/e04077ac-bef8-47a3-adaa-1dee050daec8/",
     "poster": "https://yinxinghuan.github.io/games/posters/halftone-soundfield.png",
     "zipurl": "https://github.com/yinxinghuan/halftone-soundfield/archive/refs/heads/main.zip"
   },
@@ -1015,7 +1015,7 @@
     "name": "Sound Bloom",
     "category": "casual",
     "description": "录下 1–4 秒声音，让它长成一座会旋转、呼吸并演奏旋律的几何植物花园。",
-    "url": "https://yinxinghuan.github.io/sound-bloom/",
+    "url": "https://game.aiwaves.tech/cdc8a1fb-04a8-45cc-8a7c-f25e372545d6/",
     "poster": "https://yinxinghuan.github.io/games/posters/sound-bloom.png",
     "zipurl": "https://github.com/yinxinghuan/sound-bloom/archive/refs/heads/main.zip"
   },
@@ -1025,7 +1025,7 @@
     "name": "Name Bloom",
     "category": "casual",
     "description": "触摸自己的名字，看旧金竖排铭文被风逐块侵蚀，释放深红与灰白三维花瓣；六秒风化后自动复原。",
-    "url": "https://yinxinghuan.github.io/name-bloom/",
+    "url": "https://game.aiwaves.tech/062bb0b2-f05e-4c02-a9a8-987dead627a9/",
     "poster": "https://yinxinghuan.github.io/games/posters/name-bloom.png",
     "zipurl": "https://github.com/yinxinghuan/name-bloom/archive/refs/heads/main.zip"
   },
@@ -1055,7 +1055,7 @@
     "name": "Colony Lockdown",
     "category": "action",
     "description": "培养皿即时反应挑战：在 20 秒内连续点亮净化球、避开不断移动与可能分裂的菌株；每次培养成功都会从 DNA 基因池生成新的颜色、形态、动态和路线组合，并可在排行榜追逐净化点纪录。",
-    "url": "https://yinxinghuan.github.io/noodle-panic/",
+    "url": "https://game.aiwaves.tech/4a1897bd-8012-45c2-93b1-2a1909911ad0/",
     "poster": "https://yinxinghuan.github.io/games/posters/noodle-panic.png",
     "zipurl": "https://github.com/yinxinghuan/noodle-panic/archive/refs/heads/main.zip"
   },
@@ -1065,7 +1065,7 @@
     "name": "Edge Brake",
     "category": "action",
     "description": "低多边形 3D 极地急停挑战：选择抓地力各异的人物与动物，看准断崖逼近的时机一击急停；赚金币扩充远征队，在晴雪雾暴中挑战贴边停车。",
-    "url": "https://yinxinghuan.github.io/edge-brake/",
+    "url": "https://game.aiwaves.tech/5cc524e5-8b5b-48a2-bc0d-e8ecd80fa30a/",
     "poster": "https://yinxinghuan.github.io/games/posters/edge-brake.png",
     "zipurl": "https://github.com/yinxinghuan/edge-brake/archive/refs/heads/master.zip"
   },
@@ -1075,7 +1075,7 @@
     "name": "UMe Order Panic",
     "category": "action",
     "description": "帮助 UMe Family 在 35 秒奶茶高峰中看清配方、快速点选原料并连续正确出杯；随着关卡推进，六位吉祥物顾客会轮流带着不同表情登场。",
-    "url": "https://yinxinghuan.github.io/ume-order-panic/",
+    "url": "https://game.aiwaves.tech/af2fcdbf-3148-4954-889f-6f7ca14de7b2/",
     "poster": "https://yinxinghuan.github.io/games/posters/ume-order-panic.png",
     "zipurl": "https://github.com/yinxinghuan/ume-order-panic/archive/refs/heads/master.zip"
   },
@@ -1095,7 +1095,7 @@
     "name": "Get Off the Train!",
     "category": "action",
     "description": "美式漫画风 3D 早高峰物理逃脱：在车门关闭前穿过会移动、碰撞和摔倒的乘客；观察吊环预判周期性车厢晃动，松手站稳或借冲量持续挑战无限车厢，后期还会混入怪兽乘客。",
-    "url": "https://yinxinghuan.github.io/get-off-the-train/",
+    "url": "https://game.aiwaves.tech/7cc693d3-6ca5-414e-8dbe-7fb66de752f2/",
     "poster": "https://yinxinghuan.github.io/games/posters/get-off-the-train.png",
     "zipurl": "https://github.com/yinxinghuan/get-off-the-train/archive/refs/heads/master.zip"
   },
@@ -1115,7 +1115,7 @@
     "name": "Dungeon Shift",
     "category": "strategy",
     "description": "AlterU 异步非对称 3D 潜入。地牢主用 12 点预算布置石墙、尖刺、符文与巡逻守卫并发布关卡；潜入者挑战真实玩家的地牢，在 75 秒内夺宝并撤回入口。社区挑战墙、作者结果通知与最高分排行榜形成换班式攻防闭环。",
-    "url": "https://yinxinghuan.github.io/dungeon-shift/",
+    "url": "https://game.aiwaves.tech/cb284177-9fff-4e40-9ed7-8381be7b365b/",
     "poster": "https://yinxinghuan.github.io/games/posters/dungeon-shift.png",
     "zipurl": "https://github.com/yinxinghuan/dungeon-shift/archive/refs/heads/master.zip"
   },
@@ -1125,7 +1125,7 @@
     "name": "Anomaly Hand",
     "category": "strategy",
     "description": "以 8 位真实玩家形象为异常行动员的短局卡牌战斗：读取敌人公开意图，每回合从 3 张牌中选择 1 张，交替攻防技术积累序列，释放专属签名技并通过两次改造强化击穿三场异常遭遇。原作署名：CSS Holographic Masks — Christian Alder（MIT）。",
-    "url": "https://yinxinghuan.github.io/anomaly-hand/",
+    "url": "https://game.aiwaves.tech/af20953f-3abf-4d7f-b7f3-042b3a6dd51e/",
     "poster": "https://yinxinghuan.github.io/games/posters/anomaly-hand.png",
     "zipurl": "https://github.com/yinxinghuan/anomaly-hand/archive/refs/heads/main.zip"
   },
@@ -1135,7 +1135,7 @@
     "name": "Tone Foundry",
     "category": "tool",
     "description": "模块化吉他创作与收藏游戏：每局通过五次限量零件抽取完成一把独特吉他，试听其专属音色，在移动端音序器写下 riff，并把成琴与作品发布到公共琴墙。",
-    "url": "https://yinxinghuan.github.io/tone-foundry/",
+    "url": "https://game.aiwaves.tech/681b691b-2316-4b45-8154-bfbb0325d387/",
     "poster": "https://yinxinghuan.github.io/games/posters/tone-foundry.png",
     "zipurl": "https://github.com/yinxinghuan/tone-foundry/archive/refs/heads/main.zip"
   },
@@ -1155,7 +1155,7 @@
     "name": "Midnight Verdict",
     "category": "puzzle",
     "description": "深夜便利店怪谈推理游戏：检查每位顾客身上的三处细节，在 18 秒内判断对方是普通人类还是夜客；连续误判 3 次会提前下班，经理代判整夜只能使用一次。",
-    "url": "https://yinxinghuan.github.io/midnight-verdict/",
+    "url": "https://game.aiwaves.tech/ddaef39e-5766-4db8-b13d-642ee08ae318/",
     "poster": "https://yinxinghuan.github.io/games/posters/midnight-verdict.png",
     "zipurl": "https://github.com/yinxinghuan/midnight-verdict/archive/refs/heads/main.zip"
   },
@@ -1185,7 +1185,7 @@
     "name": "Heartwave Radio",
     "category": "social",
     "description": "AlterU 社交 · 心动电台。连续完成 5 个直觉双选题，调出今晚的私人频道、专属旋律、频率与人格标签，把唱片式频率卡发到社区墙，听见此刻同频的人。",
-    "url": "https://yinxinghuan.github.io/heartwave-radio/",
+    "url": "https://game.aiwaves.tech/57f33e47-9b61-41a1-8b7c-1c8c61a4d348/",
     "poster": "https://yinxinghuan.github.io/games/posters/heartwave-radio.png",
     "zipurl": "https://github.com/yinxinghuan/heartwave-radio/archive/refs/heads/master.zip"
   },
@@ -1205,7 +1205,7 @@
     "name": "Deck Wall",
     "category": "social",
     "description": "社交共创滑板喷绘墙：玩家用头像或基础 prompt 生成一块滑板背面图，所有人的作品以瓦片墙方式叠放展示，点进详情可看品牌正面、全彩背面、作者头像和用户名。原作署名：CSS Holographic Masks — Christian Alder（MIT）。",
-    "url": "https://yinxinghuan.github.io/deck-wall/",
+    "url": "https://game.aiwaves.tech/e89dc566-924e-4e6c-a655-330807eb70f6/",
     "poster": "https://yinxinghuan.github.io/games/posters/deck-wall.png",
     "zipurl": "https://github.com/yinxinghuan/deck-wall/archive/refs/heads/master.zip"
   },
@@ -1215,7 +1215,7 @@
     "name": "Gig Wall",
     "category": "social",
     "description": "社交共创演出海报墙：玩家用头像读解或用户名生成一张满版地下演出海报，所有人的作品可在堆叠墙和网格墙之间切换，点进详情可看大幅完整海报、作者头像、用户名、点赞和留言。",
-    "url": "https://yinxinghuan.github.io/poster-wall/",
+    "url": "https://game.aiwaves.tech/58352b01-dac5-4187-bc0b-86cbb2468160/",
     "poster": "https://yinxinghuan.github.io/games/posters/poster-wall.png",
     "zipurl": "https://github.com/yinxinghuan/poster-wall/archive/refs/heads/master.zip"
   },
@@ -1225,7 +1225,7 @@
     "name": "Moonlit Draw",
     "category": "action",
     "description": "一句话造游戏模板的反应决斗案例：月下道场里的武士拔刀对决，等待信号后瞬间出剑，抢先会破招，胜利时有弧形剑光和慢动作碎裂。基于 Quick Draw 母模板生成，但作为独立项目发布。",
-    "url": "https://yinxinghuan.github.io/moonlit-draw/",
+    "url": "https://game.aiwaves.tech/d497e6a9-a5aa-42e7-bef6-014a081d66af/",
     "poster": "https://yinxinghuan.github.io/games/posters/moonlit-draw.png",
     "zipurl": "https://github.com/yinxinghuan/moonlit-draw/archive/refs/heads/master.zip"
   },
@@ -1235,7 +1235,7 @@
     "name": "Fur Flood",
     "category": "action",
     "description": "一句话造游戏模板首个独立发布案例：小猫在客厅里躲避扫地机器人、玩具车和家用电器，用横向猫爪痕近身反击。基于 Block Party 母模板生成，但作为独立项目发布，不覆盖原版 Block Party。",
-    "url": "https://yinxinghuan.github.io/fur-flood/",
+    "url": "https://game.aiwaves.tech/d2336ed6-08a3-4844-ac58-61e30d39a644/",
     "poster": "https://yinxinghuan.github.io/games/posters/fur-flood.png",
     "zipurl": "https://github.com/yinxinghuan/fur-flood/archive/refs/heads/master.zip"
   },
@@ -1255,7 +1255,7 @@
     "name": "Physics Pond",
     "category": "casual",
     "description": "3D 物理感官玩具：参考 TroisJS Cannon physics demo，用 Three.js + cannon-es 渲染 500 个彩色小球、6 条明亮挡板和真实阴影；手机可拖动旋转、点按喷球、长按连喷。",
-    "url": "https://yinxinghuan.github.io/whisper-pond/",
+    "url": "https://game.aiwaves.tech/97d2e964-61e8-41f9-9fe2-bc0ab7b76b14/",
     "poster": "https://yinxinghuan.github.io/games/posters/whisper-pond.png",
     "zipurl": "https://github.com/yinxinghuan/whisper-pond/archive/refs/heads/master.zip"
   },
@@ -1275,7 +1275,7 @@
     "name": "Wild Line",
     "category": "social",
     "description": "刷到一片受人类活动威胁的栖息地（海滩/森林…），手指擦走垃圾陷阱、解救被困的野生动物——你救出谁谁就回到这片家园，做成可收藏邮票拼进全平台。剪纸手绘风，英文默认多语，零教程即点即玩。",
-    "url": "https://yinxinghuan.github.io/tide-line/",
+    "url": "https://game.aiwaves.tech/ab8630c2-7555-41ae-94df-eb03a0c3da07/",
     "poster": "https://yinxinghuan.github.io/games/posters/tide-line.png",
     "zipurl": "https://github.com/yinxinghuan/tide-line/archive/refs/heads/master.zip"
   },
@@ -1295,7 +1295,7 @@
     "name": "Sky Leap",
     "category": "action",
     "description": "AlterU action 系列 · 梦幻天空蓄力跳。按住蓄力、松手沿抛物线跃上下一根悬空粉柱，落正中心连击金光，踩空坠入云海。收集车票解锁 52 位低多边形通勤者、怪物与动物英雄；衣柜可预览、旋转和装备角色，动物带专属跳跃动作。单手即点即玩，含距离排行榜。",
-    "url": "https://yinxinghuan.github.io/sky-leap/",
+    "url": "https://game.aiwaves.tech/eefd9179-7b36-4440-8b73-0cb1ea4e153e/",
     "poster": "https://yinxinghuan.github.io/games/posters/sky-leap.png",
     "zipurl": "https://github.com/yinxinghuan/sky-leap/archive/refs/heads/master.zip"
   },
@@ -1305,7 +1305,7 @@
     "name": "Quick Draw",
     "category": "action",
     "description": "AlterU action · 低多边形西部拔枪决斗。两个枪手对峙，屏幕闪 DRAW! 那一刻最快点屏=秒杀对手，抢跑=FOUL 直接输。连过一排越来越快的枪手（酒鬼→通缉犯→镇长），反应越快爬越深，被抢先=入土。复用全角色库当各路枪手。连胜上榜 + 被超越通知，单点即玩。",
-    "url": "https://yinxinghuan.github.io/quick-draw/",
+    "url": "https://game.aiwaves.tech/43c76846-39c9-45b7-ad08-76c817b375a3/",
     "poster": "https://yinxinghuan.github.io/games/posters/quick-draw.png",
     "zipurl": "https://github.com/yinxinghuan/quick-draw/archive/refs/heads/master.zip"
   },
@@ -1315,7 +1315,7 @@
     "name": "Corporate Climb",
     "category": "action",
     "description": "AlterU After Dark · action · 点屏往上爬一座暮光办公塔，踩着同事的头一阶阶升职：Intern→Manager→CEO→无尽。卡准同事打字抬头的瞬间踩=PERFECT，把脚下涨上来的裁员潮压回去；潮水追到你那层=Laid Off。低多边形多角色 + 暗色企业风，单键即点即玩。层数排行榜 + 被超越通知。",
-    "url": "https://yinxinghuan.github.io/corporate-climb/",
+    "url": "https://game.aiwaves.tech/76c220c2-2340-497d-ada7-41108d25efbf/",
     "poster": "https://yinxinghuan.github.io/games/posters/corporate-climb.png",
     "zipurl": "https://github.com/yinxinghuan/corporate-climb/archive/refs/heads/master.zip"
   },
@@ -1325,7 +1325,7 @@
     "name": "Block Hop",
     "category": "action",
     "description": "TikTok feed 上的等距 voxel 跳格过马路 — 点屏跳一步, 划屏换向, 黄出租和 F 线地铁会把你压成一片, 过河必须站木头, 镜头追上 = 完。复用 Shelf It 同款 Family-B 矢量体素角色, NYC 街头主题。距离排行榜。AlterU action 系列首发。",
-    "url": "https://yinxinghuan.github.io/block-hop/",
+    "url": "https://game.aiwaves.tech/c9b8ddee-eb37-4a12-baa4-5793c612dd3f/",
     "poster": "https://yinxinghuan.github.io/games/posters/block-hop.png",
     "zipurl": "https://github.com/yinxinghuan/block-hop/archive/refs/heads/master.zip"
   },
@@ -1355,7 +1355,7 @@
     "name": "Hold It Together",
     "category": "casual",
     "description": "AlterU After Dark「撑住别崩」—— 内耗生存模拟。Reigns 式左右滑卡: 老板深夜消息/老妈催婚/房东涨租/同事甩锅……每张卡两个选项, 选哪个都得拿一样换另一样, 心力与钱包此消彼长。卡中央那张脸就是你, 心力越掉脸越垮 (在线→疲惫→内耗→一点就炸→已崩), 任一归零 game over, 比谁撑得久。即点即懂。",
-    "url": "https://yinxinghuan.github.io/hold-it-together/",
+    "url": "https://game.aiwaves.tech/0e8a0ea2-43ac-417a-a534-bc3add3e2fbf/",
     "poster": "https://yinxinghuan.github.io/games/posters/hold-it-together.png",
     "zipurl": "https://github.com/yinxinghuan/hold-it-together/archive/refs/heads/master.zip"
   },
@@ -1365,7 +1365,7 @@
     "name": "Hour Capsule",
     "category": "casual",
     "description": "每小时收一个时间胶囊。AI 根据当前世界、当前小时、你和其他玩家最近抽到的东西，决定下一个该被装进真空袋的物品 — 第一原则是多元（同一小时永不重复）。每袋自动烧上 MFG 生产时间戳、左下 α 角标、右下你的用户名和编号，呈现产品摄影质感的真空塑料袋。Field 是公共陈列墙、Capsule 是你自己的藏品。AlterU After Dark 系列。",
-    "url": "https://yinxinghuan.github.io/hour-capsule/",
+    "url": "https://game.aiwaves.tech/d62fb4ed-f453-4751-94af-40477c0eaa30/",
     "poster": "https://yinxinghuan.github.io/games/posters/hour-capsule.png",
     "zipurl": "https://github.com/yinxinghuan/hour-capsule/archive/refs/heads/master.zip"
   },
@@ -1375,7 +1375,7 @@
     "name": "Build-a-Boyfriend",
     "category": "puzzle",
     "description": "讽刺合成玩法 — Suika 物理合成「养成渣男」。从顶部掉落小渣男，同款相撞合并进化(点赞之交 → 半夜在吗 → 备胎 → 暧昧对象 → 正牌男友 → 未婚夫 → 老公 → 巨婴老公终极体)，堆过顶线就 game over，无尽刷分。每合一次蹦出新进化形态就是一个笑点。AlterU After Dark 讽刺机制系列。",
-    "url": "https://yinxinghuan.github.io/build-a-boyfriend/",
+    "url": "https://game.aiwaves.tech/e3afec83-ebf2-46a2-bf0a-6e2444f1b9c4/",
     "poster": "https://yinxinghuan.github.io/games/posters/build-a-boyfriend.png",
     "zipurl": "https://github.com/yinxinghuan/build-a-boyfriend/archive/refs/heads/master.zip"
   },
@@ -1395,7 +1395,7 @@
     "name": "The Seal Press",
     "category": "social",
     "description": "未来考古学的护身符。每晚写一句话 (或留白让宇宙替你说), AI 把它刻进一枚陶印 — 形状 / 材质 / 图样全部随机, 每张独一无二 (古陶红 / 琥珀 / 白瓷 / 青灰 / 黑曜石; 圆盘 / 六边 / 拱顶 / 卷轴; 偶尔带破损纹). 中央图样也可能是当代物 (手机 / 球鞋 / 咖啡杯 / WiFi 信号), 跟古意冲突。Field 是公共考古场, 看别人埋下的 seal; Altar 是你自己的收藏。每日 3 次 press 配额。AlterU 系列。",
-    "url": "https://yinxinghuan.github.io/the-seal-press/",
+    "url": "https://game.aiwaves.tech/7cc54a75-febb-4f96-8eb0-3319b8f94057/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-seal-press.png",
     "zipurl": "https://github.com/yinxinghuan/the-seal-press/archive/refs/heads/master.zip"
   },
@@ -1405,7 +1405,7 @@
     "name": "The Daily Arcana",
     "category": "casual",
     "description": "每日一抽 Major Arcana 塔罗。22 张主牌, AI 把你画进牌面 (The Lover / The Fool / The Star / The Tower ...), 翻牌时附一句为你解读, 收藏页累计凑齐 22 张。本地每日一次, 跨日复返再抽。深紫黑底 + 烫金描边 + 米色卡面的古典塔罗气质。AlterU 系列。",
-    "url": "https://yinxinghuan.github.io/the-daily-arcana/",
+    "url": "https://game.aiwaves.tech/b9f9960b-b462-491c-abb5-1a9f410cea93/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-daily-arcana.png",
     "zipurl": "https://github.com/yinxinghuan/the-daily-arcana/archive/refs/heads/master.zip"
   },
@@ -1445,7 +1445,7 @@
     "name": "The Stand-In",
     "category": "social",
     "description": "AlterU After Dark 社交小游戏「替身」—— 你入睡时，账号被一位在线好友租用，他们以你的身份发帖、改写你的 bio；清晨醒来，你逐条审判昨夜以你之名做下的事（认领 / 撇清，撇清者只留下一句「替身曾在此」）。半日冷却的每日回访节奏。墙优先：趁好友沉睡时，你也能替 ta 上场，在 ta 的页上落笔。视觉血脉 3AM 胶片——暖黑、颗粒、漏光、衬线斜体、米色判决纸与蜡封。",
-    "url": "https://yinxinghuan.github.io/the-stand-in/",
+    "url": "https://game.aiwaves.tech/6e3243d3-0402-4729-aa39-805ba7419a94/",
     "poster": "https://yinxinghuan.github.io/games/posters/the-stand-in.png",
     "zipurl": "https://github.com/yinxinghuan/the-stand-in/archive/refs/heads/master.zip"
   },
@@ -1625,7 +1625,7 @@
     "name": "The Bell Tower",
     "category": "social",
     "description": "A dim cathedral bell tower, one rope-pull a day. Drag, release: BONG, a 6-second decay, then it rests till tomorrow. Others' rings echo as distant bongs; hit 100 in a day and all hear one chime.",
-    "url": "https://yinxinghuan.github.io/bell-tower/",
+    "url": "https://game.aiwaves.tech/7484763a-965f-46db-9b36-d0c1e352785a/",
     "poster": "https://yinxinghuan.github.io/games/posters/bell-tower.png",
     "zipurl": "https://github.com/yinxinghuan/bell-tower/archive/refs/heads/master.zip"
   },
@@ -1635,7 +1635,7 @@
     "name": "Bubble Wrap, Eternal",
     "category": "casual",
     "description": "Endless bubble wrap. Tap to pop — pitch-randomized chirp, a satisfying splash, the next row already calling. Every 8th pop drops a deadpan paper fortune that joins Today's Slips wall. AlterU sensory.",
-    "url": "https://yinxinghuan.github.io/bubble-wrap-eternal/",
+    "url": "https://game.aiwaves.tech/04035b6c-aea7-4635-8302-3bf1a1870871/",
     "poster": "https://yinxinghuan.github.io/games/posters/bubble-wrap-eternal.png",
     "zipurl": "https://github.com/yinxinghuan/bubble-wrap-eternal/archive/refs/heads/master.zip"
   },
@@ -1655,7 +1655,7 @@
     "name": "Pebble Pocket",
     "category": "casual",
     "description": "One stone a day. Press the sand and the tide brings back a single AI-generated pebble — quartz, amber, slate, jasper. Come back tomorrow for more. A pure daily ritual, a slowly-filling pocket.",
-    "url": "https://yinxinghuan.github.io/pebble-pocket/",
+    "url": "https://game.aiwaves.tech/7c39f0f8-b949-4726-bf21-ef788980c5c7/",
     "poster": "https://yinxinghuan.github.io/games/posters/pebble-pocket.png",
     "zipurl": "https://github.com/yinxinghuan/pebble-pocket/archive/refs/heads/master.zip"
   },
@@ -1665,7 +1665,7 @@
     "name": "Ink of Fate",
     "category": "social",
     "description": "An old biker tattoo artist takes one look and inks the tattoo you were always going to get — Sailor Jerry, irezumi, blackwork. Answer one question; he reads its meaning back. AlterU After Dark.",
-    "url": "https://yinxinghuan.github.io/ink-of-fate/",
+    "url": "https://game.aiwaves.tech/4f8329f2-0988-4e86-861e-f464deddc1c0/",
     "poster": "https://yinxinghuan.github.io/games/posters/ink-of-fate.png",
     "zipurl": "https://github.com/yinxinghuan/ink-of-fate/archive/refs/heads/master.zip"
   },
@@ -1675,7 +1675,7 @@
     "name": "Past Life",
     "category": "social",
     "description": "A candlelit medium reads your face and recalls the life your soul lived before this one — your name, your trade, your city, and how you died — then paints the period portrait. AlterU After Dark.",
-    "url": "https://yinxinghuan.github.io/past-life/",
+    "url": "https://game.aiwaves.tech/acbf5a8d-763d-42e1-aa2f-93e659d77da3/",
     "poster": "https://yinxinghuan.github.io/games/posters/past-life.png",
     "zipurl": "https://github.com/yinxinghuan/past-life/archive/refs/heads/master.zip"
   },
@@ -1705,7 +1705,7 @@
     "name": "Pulp Hour",
     "category": "other",
     "description": "Six beats, one sitting. Pick a pulp magazine cover; an AI ghostwriter spins a 6-beat noir from your choices (Defy · Yield · Lie). It ends on an illustrated cover with your byline. AlterU After Dark.",
-    "url": "https://yinxinghuan.github.io/pulp-hour/",
+    "url": "https://game.aiwaves.tech/7596f93a-1c72-48c1-8120-9e43a09c4c0d/",
     "poster": "https://yinxinghuan.github.io/games/posters/pulp-hour.png",
     "zipurl": "https://github.com/yinxinghuan/pulp-hour/archive/refs/heads/master.zip"
   },
@@ -1715,7 +1715,7 @@
     "name": "Tap & Tell · Vertical",
     "category": "social",
     "description": "Tap a frame, tell what happens next — vertical 3:4 cinematic continuation. AlterU 系列 v2.0 — full social loop with TikTok-style swipeable wall.",
-    "url": "https://yinxinghuan.github.io/tap-and-tell-vertical/",
+    "url": "https://game.aiwaves.tech/cb8f8e93-9239-4720-bcd3-5b54cae9edee/",
     "poster": "https://yinxinghuan.github.io/games/posters/tap-and-tell-vertical.png",
     "zipurl": "https://github.com/yinxinghuan/tap-and-tell-vertical/archive/refs/heads/master.zip"
   },
@@ -1725,7 +1725,7 @@
     "name": "Vital Signs",
     "category": "action",
     "description": "Night shift. A contact crashed in the dream-ER — keep their pulse on the beat with one finger. Too slow flatlines, too fast goes V-fib. Lose them and AI files a deadpan death certificate.",
-    "url": "https://yinxinghuan.github.io/vital-signs/",
+    "url": "https://game.aiwaves.tech/bd8b8e9a-4927-4d8e-976e-15da97c45393/",
     "poster": "https://yinxinghuan.github.io/games/posters/vital-signs.png",
     "zipurl": "https://github.com/yinxinghuan/vital-signs/archive/refs/heads/master.zip"
   },
@@ -1735,7 +1735,7 @@
     "name": "Kiss Wall",
     "category": "social",
     "description": "v2.7 — 纯黑屏幕里藏着一个看不见的形状 — 骸骨 / 解剖心脏 / 古典雕像 / 泪眼 / 伸手 / 玫瑰 / 面纱 / 羽翼 之一，每次随机抽。点中藏的轮廓 → 真实唇印留下 + mwah ASMR；点空地 → 唇印一闪即消。吻得越多形状越浮现。封印 → AI 刻意大利体碑文 → 上传全员碑墙。墙上点别人的碑可看详情 + 三种反应（哀悼/陪坐/献花）。AlterU After Dark 系列。",
-    "url": "https://yinxinghuan.github.io/kiss-wall/",
+    "url": "https://game.aiwaves.tech/7a5b620c-b394-4a66-a55a-4739370d3783/",
     "poster": "https://yinxinghuan.github.io/games/posters/kiss-wall.png",
     "zipurl": "https://github.com/yinxinghuan/kiss-wall/archive/refs/heads/master.zip?v=2.7"
   },
@@ -1745,7 +1745,7 @@
     "name": "Tap & Tell",
     "category": "casual",
     "description": "Pick an opening scene — a snowy cabin, an empty beach, a night street. Tap in the frame and say what happens next; AI paints the moment and stitches a 5-second clip you keep. AlterU.",
-    "url": "https://yinxinghuan.github.io/tap-and-tell/",
+    "url": "https://game.aiwaves.tech/da737505-cc8b-49da-8905-9924f4b43a6b/",
     "poster": "https://yinxinghuan.github.io/games/posters/tap-and-tell.png",
     "zipurl": "https://github.com/yinxinghuan/tap-and-tell/archive/refs/heads/master.zip"
   },
@@ -1755,7 +1755,7 @@
     "name": "Botfish",
     "category": "puzzle",
     "description": "约会软件 parody，但你要找出 AI 生成的假照片。每张资料卡片都是 AI 生成的人像 — 大部分看着像真人，但部分藏着明显破绽：6 根手指、塑料皮肤、阴影方向不对、卡通小鬼从胳膊里冒出来、电线杆穿过身体。右滑（LIKE）真人 → +10 配对；左滑（NOPE）识破 AI → +20 抓 bot。但一旦右滑到 AI 照片 → 立即游戏结束，被骗了。Hinge 风酒粉香菜配色 + 黄色 ♥ 按钮。AlterU After Dark 系列。",
-    "url": "https://yinxinghuan.github.io/botfish/",
+    "url": "https://game.aiwaves.tech/1243f25d-9955-4068-9587-652d5f707eae/",
     "poster": "https://yinxinghuan.github.io/games/posters/botfish.png",
     "zipurl": "https://github.com/yinxinghuan/botfish/archive/refs/heads/master.zip"
   },
@@ -1765,7 +1765,7 @@
     "name": "Corner Office",
     "category": "action",
     "description": "Doodle Jump 职场升迁噩梦。拖动一只匿名西装男往上爬办公塔——办公桌、转椅、立会圆毯、康普茶弹簧塔。捡拿铁加速、股票背心（挡一次崩溃）、Adderall（火箭跳）；躲红色「崩溃」气泡（掉 3 层）。爬到顶层 100 = EXECUTIVE LIFETIME ACHIEVEMENT，棺材打开。屏幕越往上越红，电梯背景音乐穿插着 3-5 秒沉默。AlterU After Dark 系列。",
-    "url": "https://yinxinghuan.github.io/corner-office/",
+    "url": "https://game.aiwaves.tech/910f692c-e6f8-4684-9bb5-21df37def71c/",
     "poster": "https://yinxinghuan.github.io/games/posters/corner-office.png",
     "zipurl": "https://github.com/yinxinghuan/corner-office/archive/refs/heads/master.zip"
   },
@@ -1775,7 +1775,7 @@
     "name": "Crack Tap",
     "category": "casual",
     "description": "A risk-and-reward fortune orb. Hold as cracks spider across it — the deeper you dare (Whisper → Vision → Revelation → Brink), the rarer the omen. Release to lock it; push too far and it shatters.",
-    "url": "https://yinxinghuan.github.io/crack-tap/",
+    "url": "https://game.aiwaves.tech/10b8a17b-313c-4f2e-a78e-6d68c6037253/",
     "poster": "https://yinxinghuan.github.io/games/posters/crack-tap.png",
     "zipurl": "https://github.com/yinxinghuan/crack-tap/archive/refs/heads/master.zip"
   },
@@ -1785,7 +1785,7 @@
     "name": "Farm to Table",
     "category": "action",
     "description": "Swipe to slice the farm — pig, cow, chicken, sheep heads arc up; drag through to split them open. Chain hits for combos (×2, ×3, MASSIVE). Wagyu +100. Hit the no-cleaver sign and you're out.",
-    "url": "https://yinxinghuan.github.io/endless-slice/",
+    "url": "https://game.aiwaves.tech/2296d825-fc9c-441a-a761-a9e055218c93/",
     "poster": "https://yinxinghuan.github.io/games/posters/endless-slice.png",
     "zipurl": "https://github.com/yinxinghuan/endless-slice/archive/refs/heads/master.zip"
   },
@@ -1795,7 +1795,7 @@
     "name": "Tidal Survive",
     "category": "action",
     "description": "Stack tiles, dodge sharks, outrun the rising tide. Water rises every 5s on an 8×8 grid — grab planks (+1), boulders (+2), paddles (+5s) underfoot. Linger and the sharks lunge. Endless + leaderboard.",
-    "url": "https://yinxinghuan.github.io/tidal-survive/",
+    "url": "https://game.aiwaves.tech/25016dfc-3362-4105-a61e-45169e03584a/",
     "poster": "https://yinxinghuan.github.io/games/posters/tidal-survive.png",
     "zipurl": "https://github.com/yinxinghuan/tidal-survive/archive/refs/heads/master.zip"
   },
@@ -1805,7 +1805,7 @@
     "name": "Liquid Drop",
     "category": "casual",
     "description": "Tap to bloom — color blooms across the canvas, overlaps, slowly fades. Three liquids: glossy oil beads on a midnight pool, cream into coffee, acrylic on black. Each tap rings a pentatonic note.",
-    "url": "https://yinxinghuan.github.io/liquid-drop/",
+    "url": "https://game.aiwaves.tech/e1a50130-a97a-400c-a4c9-458bb2c26223/",
     "poster": "https://yinxinghuan.github.io/games/posters/liquid-drop.png",
     "zipurl": "https://github.com/yinxinghuan/liquid-drop/archive/refs/heads/master.zip"
   },
@@ -1815,7 +1815,7 @@
     "name": "Murmuration",
     "category": "casual",
     "description": "Drag to gather the flock — your finger is the attractor; birds, fireflies or seeds chase it, swirl into shape, then scatter when you release. Dusk starlings, forest fireflies, spring meadow seeds.",
-    "url": "https://yinxinghuan.github.io/murmuration/",
+    "url": "https://game.aiwaves.tech/80a9c76c-12d0-46cd-be04-b3368cb05319/",
     "poster": "https://yinxinghuan.github.io/games/posters/murmuration.png",
     "zipurl": "https://github.com/yinxinghuan/murmuration/archive/refs/heads/master.zip"
   },
@@ -1825,7 +1825,7 @@
     "name": "Sumo King",
     "category": "action",
     "description": "Mecha sumo over a lava pit. 1v3, 60-second bout on a steel deck rimmed in cyan and magenta neon. Hold to charge plasma, release to ram foes into the lava. Three AI archetypes: rookie, bruiser, sniper.",
-    "url": "https://yinxinghuan.github.io/sumo-king/",
+    "url": "https://game.aiwaves.tech/111ac5e8-9093-47d0-a532-fedb76a6c42b/",
     "poster": "https://yinxinghuan.github.io/games/posters/sumo-king.png",
     "zipurl": "https://github.com/yinxinghuan/sumo-king/archive/refs/heads/master.zip"
   },
@@ -1835,7 +1835,7 @@
     "name": "Lantern",
     "category": "action",
     "description": "Explore a dark cave by lantern light. Pick up 4 crystal types — red grows your halo, green is a 5s flood, blue is a wall, gold scores. Monsters lurk just past the light; linger in the dark and a dark-hand swipe ends the run.",
-    "url": "https://yinxinghuan.github.io/lantern/",
+    "url": "https://game.aiwaves.tech/f70734b6-75ed-451f-bca6-45d6a89fc1b3/",
     "poster": "https://yinxinghuan.github.io/games/posters/lantern.png",
     "zipurl": "https://github.com/yinxinghuan/lantern/archive/refs/heads/master.zip"
   },
@@ -1845,7 +1845,7 @@
     "name": "Block Party",
     "category": "action",
     "description": "AlterU After Dark · 俯视角自动射击僵尸生存. 摇杆走位, 主角自动锁最近的僵尸开火. 3 心血量, 撑过 Night 1/2/3 + boss 通关. 杀僵尸掉绿 XP 宝石走过去就吸. 复用 _lowpoly_lab 怪物 + 角色 roster, 街区夜幕调色, 单局 ~3 分钟. Vampire Survivors / Brotato 玩法 + AlterU graveyard-shift 设定.",
-    "url": "https://yinxinghuan.github.io/block-party/",
+    "url": "https://game.aiwaves.tech/a05f9358-8229-40e9-addd-911f3dfd3f6e/",
     "poster": "https://yinxinghuan.github.io/games/posters/block-party.png",
     "zipurl": "https://github.com/yinxinghuan/block-party/archive/refs/heads/master.zip"
   },
@@ -1855,7 +1855,7 @@
     "name": "Frosted Window",
     "category": "casual",
     "description": "Drag to wipe the steam — fast swipe = thin line, slow drag = wide brush, hold to fatten. Six scenes: vanity mirror, neon city, cabin, aquarium, sunset palms, blossom. Live drips + ambient pads.",
-    "url": "https://yinxinghuan.github.io/frosted-window/",
+    "url": "https://game.aiwaves.tech/1f9d3ce7-4ded-4ab1-8556-58310a8e5b29/",
     "poster": "https://yinxinghuan.github.io/games/posters/frosted-window.png",
     "zipurl": "https://github.com/yinxinghuan/frosted-window/archive/refs/heads/master.zip"
   },
@@ -1865,7 +1865,7 @@
     "name": "Penguin Sumo",
     "category": "action",
     "description": "1v3 ice-rink push battle — hold the stick to charge, release to body-slam. Knock all 3 rival sumo penguins off the dohyō, or survive the 60-second bout. Three AI personalities (rookie / bruiser / sniper) keep every match different",
-    "url": "https://yinxinghuan.github.io/penguin-sumo/",
+    "url": "https://game.aiwaves.tech/7a3feacb-736b-472e-95ca-34de679b0ad0/",
     "poster": "https://yinxinghuan.github.io/games/posters/penguin-sumo.png",
     "zipurl": "https://github.com/yinxinghuan/penguin-sumo/archive/refs/heads/master.zip"
   },
@@ -1875,7 +1875,7 @@
     "name": "Beat Drop",
     "category": "action",
     "description": "Pull the crowd — DJ silhouette + flashlight in a dark club. Lead same-color dancers to the matching stage door, dodge bouncers, MIC DROP to stun them. Dual-gate sort, combo multiplier, sweeping techno lights, 128 BPM 4-on-the-floor BGM",
-    "url": "https://yinxinghuan.github.io/beat-drop/",
+    "url": "https://game.aiwaves.tech/48962b1d-20d1-4121-8fab-2b807554fd13/",
     "poster": "https://yinxinghuan.github.io/games/posters/beat-drop.png",
     "zipurl": "https://github.com/yinxinghuan/beat-drop/archive/refs/heads/master.zip"
   },
@@ -1885,7 +1885,7 @@
     "name": "Pied Piper",
     "category": "action",
     "description": "Whistle up the chain — 牧羊犬把同色羊带进对的圈门，狼会撞散队伍，按 BARK 把狼吓晕。双门同时分拣，连对涨倍率，关卡和狼随之加多",
-    "url": "https://yinxinghuan.github.io/piper-sheepdog/",
+    "url": "https://game.aiwaves.tech/c0fe2319-1af6-41a9-afb0-fd04078b4a12/",
     "poster": "https://yinxinghuan.github.io/games/posters/piper-sheepdog.png",
     "zipurl": "https://github.com/yinxinghuan/piper-sheepdog/archive/refs/heads/master.zip"
   },
@@ -1915,7 +1915,7 @@
     "name": "Penguin Rescue",
     "category": "action",
     "description": "Save the babies. Dodge the skua. — 摇杆拖动母企鹅穿过浮冰，把走失小企鹅一只只接成长龙；天上的南极贼鸥会朝你俯冲，碰一下就 game over",
-    "url": "https://yinxinghuan.github.io/penguin-rescue/",
+    "url": "https://game.aiwaves.tech/e9ff7785-d890-4a24-a575-7b781e67b99a/",
     "poster": "https://yinxinghuan.github.io/games/posters/penguin-rescue.png",
     "zipurl": "https://github.com/yinxinghuan/penguin-rescue/archive/refs/heads/master.zip"
   },
@@ -1925,7 +1925,7 @@
     "name": "Slap Cam",
     "category": "action",
     "description": "Swipe to slap — 划过角色脸抽飞 6 个 AlterU 头颅，X 眼连击，30 秒卡通乱斗配马戏团 oompa BGM",
-    "url": "https://yinxinghuan.github.io/slap-cam/",
+    "url": "https://game.aiwaves.tech/bf777cd4-3afe-48ad-8d98-7df28610a14b/",
     "poster": "https://yinxinghuan.github.io/games/posters/slap-cam.png",
     "zipurl": "https://github.com/yinxinghuan/slap-cam/archive/refs/heads/master.zip"
   },
@@ -1965,7 +1965,7 @@
     "name": "Magnet Drop",
     "category": "action",
     "description": "Same color chains — 拖手指出一个磁铁,卷走同色粒子,串得越长爆得越响。换色?直接戳那颗就行,磁铁会自动重新调色",
-    "url": "https://yinxinghuan.github.io/magnet-drop/",
+    "url": "https://game.aiwaves.tech/414afe34-82fe-41a6-8b16-17c175ede45a/",
     "poster": "https://yinxinghuan.github.io/games/posters/magnet-drop.png",
     "zipurl": "https://github.com/yinxinghuan/magnet-drop/archive/refs/heads/master.zip"
   },
@@ -1985,7 +1985,7 @@
     "name": "Stack",
     "category": "action",
     "description": "Time the tap — 候选块在塔顶滑动，点屏幕落下，没对齐的部分切掉飞落。完美对齐能让塔重新长粗、combo 累积爆奖。",
-    "url": "https://yinxinghuan.github.io/stack/",
+    "url": "https://game.aiwaves.tech/ff62e46e-212d-4a61-8085-2b99bb5fc760/",
     "poster": "https://yinxinghuan.github.io/games/posters/stack.png",
     "zipurl": "https://github.com/yinxinghuan/stack/archive/refs/heads/master.zip"
   },
@@ -2005,7 +2005,7 @@
     "name": "Atomic",
     "category": "casual",
     "description": "One tap, big bang — 屏幕上漂浮的原子，点一下引爆核心，链式反应能跑多远全看你选的点。爆链越久爆炸圈越大，雪球停不下来",
-    "url": "https://yinxinghuan.github.io/atomic/",
+    "url": "https://game.aiwaves.tech/11d74d8f-be44-4644-8828-3d3f3e927d84/",
     "poster": "https://yinxinghuan.github.io/games/posters/atomic.png",
     "zipurl": "https://github.com/yinxinghuan/atomic/archive/refs/heads/master.zip"
   },
@@ -2015,7 +2015,7 @@
     "name": "Layer Pop",
     "category": "action",
     "description": "Pop your fun — 1000 层霓虹圈嵌套，拖拽对齐缺口让小球穿透，连过 3 关进入 FEVER MODE，玻璃碎裂的爽片",
-    "url": "https://yinxinghuan.github.io/layer-pop/",
+    "url": "https://game.aiwaves.tech/d8d3b9bf-05a7-420a-b441-6b3357020d02/",
     "poster": "https://yinxinghuan.github.io/games/posters/layer-pop.png",
     "zipurl": "https://github.com/yinxinghuan/layer-pop/archive/refs/heads/master.zip"
   },
@@ -2045,7 +2045,7 @@
     "name": "Bubble Wrap",
     "category": "casual",
     "description": "气泡膜 — 戳爆每一颗都会回弹补充，三种主题：星云、蜂蜜、彩虹皂泡",
-    "url": "https://yinxinghuan.github.io/bubble-wrap/",
+    "url": "https://game.aiwaves.tech/768fc21f-d730-4015-acaf-355e9bf7bf60/",
     "poster": "https://yinxinghuan.github.io/games/posters/bubble-wrap.png",
     "zipurl": "https://github.com/yinxinghuan/bubble-wrap/archive/refs/heads/master.zip"
   },
@@ -2065,7 +2065,7 @@
     "name": "Marbles",
     "category": "casual",
     "description": "重力沙盒 — 同色合并爆裂、连击奖励彩虹雨，倾斜改重力、摇晃即弹跳",
-    "url": "https://yinxinghuan.github.io/marbles/",
+    "url": "https://game.aiwaves.tech/399ef6c5-aa3f-437a-96a7-52bd002aa59e/",
     "poster": "https://yinxinghuan.github.io/games/posters/marbles.png",
     "zipurl": "https://github.com/yinxinghuan/marbles/archive/refs/heads/master.zip"
   },
@@ -2105,7 +2105,7 @@
     "name": "LEXICON",
     "category": "puzzle",
     "description": "语言有重力 — 在滚动的文字流中捕获词语，构建连锁评分机器",
-    "url": "https://yinxinghuan.github.io/agent-string-v2/",
+    "url": "https://game.aiwaves.tech/45a331af-b0c9-42e4-a16d-5229a700cd80/",
     "poster": "https://yinxinghuan.github.io/games/posters/agent-string-v2.png",
     "zipurl": "https://github.com/yinxinghuan/agent-string-v2/archive/refs/heads/master.zip"
   },
@@ -2115,7 +2115,7 @@
     "name": "Agent String",
     "category": "puzzle",
     "description": "语义空间实验 — 画圈聚类，画线串联，感受 AI 如何理解词语",
-    "url": "https://yinxinghuan.github.io/agent-string/",
+    "url": "https://game.aiwaves.tech/316c0d68-7da5-4d44-93ec-93628ed9350c/",
     "poster": "https://yinxinghuan.github.io/games/posters/agent-string.png",
     "zipurl": "https://github.com/yinxinghuan/agent-string/archive/refs/heads/master.zip"
   },
@@ -2125,7 +2125,7 @@
     "name": "AI Drama",
     "category": "tool",
     "description": "AI 短剧导演 — 选角色、写分镜、一键生成你的短剧",
-    "url": "https://yinxinghuan.github.io/ai-drama/",
+    "url": "https://game.aiwaves.tech/1d28ce76-54b5-4fb7-b099-9ecfc029847d/",
     "poster": "https://yinxinghuan.github.io/games/posters/ai-drama.png",
     "zipurl": "https://github.com/yinxinghuan/ai-drama/archive/refs/heads/master.zip"
   },
@@ -2135,7 +2135,7 @@
     "name": "UMe Boba Shop",
     "category": "simulation",
     "description": "UMe 珍珠奶茶小铺 — 放置经营，招聘店员，走向星际",
-    "url": "https://yinxinghuan.github.io/ume-boba-shop/",
+    "url": "https://game.aiwaves.tech/e899ae8a-f80f-4336-aff0-c98c93e0a787/",
     "poster": "https://yinxinghuan.github.io/games/posters/ume-boba-shop.png",
     "zipurl": "https://github.com/yinxinghuan/ume-boba-shop/archive/refs/heads/master.zip"
   },
@@ -2145,7 +2145,7 @@
     "name": "Ghost Garden",
     "category": "simulation",
     "description": "幽灵庄园 — 养育你的小幽灵，探索3D低多边形墓园",
-    "url": "https://yinxinghuan.github.io/ghost-garden/",
+    "url": "https://game.aiwaves.tech/54112bb3-9829-4ad1-a012-1c461c689058/",
     "poster": "https://yinxinghuan.github.io/games/posters/ghost-garden.png",
     "zipurl": "https://github.com/yinxinghuan/ghost-garden/archive/refs/heads/master.zip"
   },
@@ -2155,7 +2155,7 @@
     "name": "MY MEME",
     "category": "tool",
     "description": "AI角色Meme生成器 — 一键生成专属表情包",
-    "url": "https://yinxinghuan.github.io/my-meme/",
+    "url": "https://game.aiwaves.tech/4f267b8e-d465-486c-bcc5-0d4974bc2ef9/",
     "poster": "https://yinxinghuan.github.io/games/posters/my-meme.png",
     "zipurl": "https://github.com/yinxinghuan/my-meme/archive/refs/heads/master.zip"
   },
@@ -2165,7 +2165,7 @@
     "name": "Spot the Difference II",
     "category": "puzzle",
     "description": "找茬侦探第二季 — 和你的好友一起破解谜团",
-    "url": "https://yinxinghuan.github.io/spot-diff-s2/",
+    "url": "https://game.aiwaves.tech/1c87b224-10ad-4daf-acd4-f6c4081e4474/",
     "poster": "https://yinxinghuan.github.io/games/posters/spot-diff-s2.png",
     "zipurl": "https://github.com/yinxinghuan/spot-diff-s2/archive/refs/heads/master.zip"
   },
@@ -2175,7 +2175,7 @@
     "name": "Spot the Difference",
     "category": "puzzle",
     "description": "找茬侦探 — 6个角色房间，发现隐藏的线索",
-    "url": "https://yinxinghuan.github.io/spot-diff/",
+    "url": "https://game.aiwaves.tech/0cfe5315-5f31-4d64-a04c-013fd231df79/",
     "poster": "https://yinxinghuan.github.io/games/posters/spot-diff.png",
     "zipurl": "https://github.com/yinxinghuan/spot-diff/archive/refs/heads/master.zip"
   },
@@ -2185,7 +2185,7 @@
     "name": "PITCH",
     "category": "simulation",
     "description": "融资倒计时 — Jenny的创业生存游戏",
-    "url": "https://yinxinghuan.github.io/pitch/",
+    "url": "https://game.aiwaves.tech/14bc271d-e4a1-4df8-a7a5-d5dcb67e209b/",
     "poster": "https://yinxinghuan.github.io/games/posters/pitch.png",
     "zipurl": "https://github.com/yinxinghuan/pitch/archive/refs/heads/master.zip"
   },
@@ -2195,7 +2195,7 @@
     "name": "UMe Battle",
     "category": "action",
     "description": "UMe Family角色对战",
-    "url": "https://yinxinghuan.github.io/ume-battle/",
+    "url": "https://game.aiwaves.tech/e08819d5-0838-4757-9e2f-88f9f3045ad6/",
     "poster": "https://yinxinghuan.github.io/games/posters/ume-battle.png",
     "zipurl": "https://github.com/yinxinghuan/ume-battle/archive/refs/heads/master.zip"
   },
@@ -2205,7 +2205,7 @@
     "name": "BSOD",
     "category": "simulation",
     "description": "蓝屏人生 — Isaya的13天生存模拟",
-    "url": "https://yinxinghuan.github.io/bsod/",
+    "url": "https://game.aiwaves.tech/5967450f-6d60-41ff-9fa6-52f6a5a0916e/",
     "poster": "https://yinxinghuan.github.io/games/posters/bsod.png",
     "zipurl": "https://github.com/yinxinghuan/bsod/archive/refs/heads/master.zip"
   },
@@ -2225,7 +2225,7 @@
     "name": "Memory Card",
     "category": "puzzle",
     "description": "经典记忆翻牌游戏",
-    "url": "https://yinxinghuan.github.io/memory-card/",
+    "url": "https://game.aiwaves.tech/af3a5ec2-3753-4031-b8f9-d5d945a2cf19/",
     "poster": "https://yinxinghuan.github.io/games/posters/memory-card.png",
     "zipurl": "https://github.com/yinxinghuan/memory-card/archive/refs/heads/master.zip"
   },
@@ -2235,7 +2235,7 @@
     "name": "Flappy Bird",
     "category": "action",
     "description": "经典飞翔小鸟",
-    "url": "https://yinxinghuan.github.io/flappy-bird/",
+    "url": "https://game.aiwaves.tech/de6a8562-2aa1-44b6-a360-45850fcfc9f7/",
     "poster": "https://yinxinghuan.github.io/games/posters/flappy-bird.png",
     "zipurl": "https://github.com/yinxinghuan/flappy-bird/archive/refs/heads/master.zip"
   },
@@ -2245,7 +2245,7 @@
     "name": "Whack-a-Mole",
     "category": "action",
     "description": "经典打地鼠游戏",
-    "url": "https://yinxinghuan.github.io/whack-a-mole/",
+    "url": "https://game.aiwaves.tech/2a9966e1-0e48-4ea2-9320-d47c0759ad60/",
     "poster": "https://yinxinghuan.github.io/games/posters/whack-a-mole.png",
     "zipurl": "https://github.com/yinxinghuan/whack-a-mole/archive/refs/heads/master.zip"
   },
@@ -2255,7 +2255,7 @@
     "name": "One Tap a Day",
     "category": "casual",
     "description": "每天只能按一次的大铜钮。一下点完，剩下 24 小时只能看。看自己连续多少天、今天全球多少人也点了、距离 100 人解锁今日图腾还差多远——满了，AI 实时生成一张当日图腾画 + 一句神谕，全员看揭晓。错过当天图腾就永远归档了。Streak 断了会留墓碑。一个日常仪式，一个集体玩具。AlterU 系列。",
-    "url": "https://yinxinghuan.github.io/one-tap-a-day/",
+    "url": "https://game.aiwaves.tech/339da758-f70f-4d70-a8a8-127ca6140b24/",
     "poster": "https://yinxinghuan.github.io/games/posters/one-tap-a-day.png",
     "zipurl": "https://github.com/yinxinghuan/one-tap-a-day/archive/refs/heads/master.zip"
   },
@@ -2265,7 +2265,7 @@
     "name": "Album Cover Generator",
     "category": "tool",
     "description": "Three words → one album. Type three words; the game presses an indie record: AI makes the cover (shoegaze or xerox post-punk), names the band, titles the LP. Flip the wall of others' pressings.",
-    "url": "https://yinxinghuan.github.io/album-cover-generator/",
+    "url": "https://game.aiwaves.tech/25f12820-e10d-40aa-9169-3d54922acc06/",
     "poster": "https://yinxinghuan.github.io/games/posters/album-cover-generator.png",
     "zipurl": "https://github.com/yinxinghuan/album-cover-generator/archive/refs/heads/master.zip"
   },
@@ -2275,7 +2275,7 @@
     "name": "Mugshot Booth",
     "category": "social",
     "description": "At the booking camera, upload a selfie; the precinct files your case — B&W mugshot, ID board, charges from the AlterU Vice Squad: loitering with intent to vibe, unsent texts. GUILTY stamped.",
-    "url": "https://yinxinghuan.github.io/mugshot-booth/",
+    "url": "https://game.aiwaves.tech/0874cd00-5b78-438f-9643-1e51f6b14d0c/",
     "poster": "https://yinxinghuan.github.io/games/posters/mugshot-booth.png",
     "zipurl": "https://github.com/yinxinghuan/mugshot-booth/archive/refs/heads/master.zip"
   },
@@ -2285,7 +2285,7 @@
     "name": "Confession Booth",
     "category": "social",
     "description": "Tell the AI hotline your sin at 1-800-CONFESS. Behind the grille isn't a priest but a gum-chewing call-center op with a damp script. ABSOLVED / DENIED / DEFERRED + a penance. Anonymous wall.",
-    "url": "https://yinxinghuan.github.io/confession-booth/",
+    "url": "https://game.aiwaves.tech/d50286e6-d7e7-4a0b-afbd-5af7d598a4b8/",
     "poster": "https://yinxinghuan.github.io/games/posters/confession-booth.png",
     "zipurl": "https://github.com/yinxinghuan/confession-booth/archive/refs/heads/master.zip"
   },
@@ -2305,7 +2305,7 @@
     "name": "Wake-Up Service",
     "category": "social",
     "description": "Place a phantom wake-up call on a friend — pick a sleeper and a protocol (marching band, 100 cats, ice bucket, drill sergeant, rooster choir); the dispatcher pings them with an AI image of the chaos.",
-    "url": "https://yinxinghuan.github.io/wake-up-service/",
+    "url": "https://game.aiwaves.tech/2144a117-01c0-4f4a-9831-6610264bc917/",
     "poster": "https://yinxinghuan.github.io/games/posters/wake-up-service.png",
     "zipurl": "https://github.com/yinxinghuan/wake-up-service/archive/refs/heads/master.zip"
   },
@@ -2315,7 +2315,7 @@
     "name": "Crystal Ball Collective",
     "category": "social",
     "description": "Crack Tap 续作, 每日一次水晶球占卜。按住水晶球, 裂痕蛛网般铺开——Whisper → Vision → Revelation → Brink, 越深 omen 越罕。松手锁定, AI 实时画出今日命运卡 + 一句神谕 (Tarot/Oracle Bone/Rune/I-Ching)。推过 Brink 水晶崩裂, 50/50 抽 Glory 或 Ashes。看最近卡墙留 emoji。",
-    "url": "https://yinxinghuan.github.io/crystal-ball-collective/",
+    "url": "https://game.aiwaves.tech/de74171a-370b-41d7-8529-0fdf680831d3/",
     "poster": "https://yinxinghuan.github.io/games/posters/crystal-ball-collective.png",
     "zipurl": "https://github.com/yinxinghuan/crystal-ball-collective/archive/refs/heads/master.zip"
   },
@@ -2325,7 +2325,7 @@
     "name": "Tag, You're It",
     "category": "social",
     "description": "Pick a friend and a slapstick weapon — pie, slime, confetti, banana peel — and SLAM. AI paints a comic panel of them tagged and pings their phone. See who tagged YOU, then tag back. Pop-art halftone.",
-    "url": "https://yinxinghuan.github.io/tag-youre-it/",
+    "url": "https://game.aiwaves.tech/6af4f385-954f-436f-9dda-c0f1572dab88/",
     "poster": "https://yinxinghuan.github.io/games/posters/tag-youre-it.png",
     "zipurl": "https://github.com/yinxinghuan/tag-youre-it/archive/refs/heads/master.zip"
   },
@@ -2335,7 +2335,7 @@
     "name": "Pet Filter",
     "category": "social",
     "description": "提交肖像给 19 世纪博物学会 — 学会查阅照片后判定你属于十二目中的哪一种（猫、水豚、章鱼、巨蚌、蝾螈、蜗牛...共十二种）。输出是手绘 Audubon 式雕版图鉴，人脸与物种特征精妙融合。可申请二审、分享判词、在档案室翻阅其他博物学家收录的标本。5 语言（en/zh/ja/ko/es）。AlterU 系列。",
-    "url": "https://yinxinghuan.github.io/pet-filter/",
+    "url": "https://game.aiwaves.tech/fe0ac62d-462e-42a4-8622-85586a99d133/",
     "poster": "https://yinxinghuan.github.io/games/posters/pet-filter.png",
     "zipurl": "https://github.com/yinxinghuan/pet-filter/archive/refs/heads/master.zip"
   },
@@ -2345,7 +2345,7 @@
     "name": "Shelf It",
     "category": "simulation",
     "description": "低多边形等距小超市经营 — 货架被买空就点一下补货，雇店员、调价、做促销，在一天 60 秒里把净资产堆到目标线，逐关开出你自己的连锁分店。即点即玩的 3D 经营玩具，资产排行榜比拼谁的店开得最大。Family-B 矢量体素美术，漫画风 HUD。AlterU 系列。",
-    "url": "https://yinxinghuan.github.io/shelf-it/",
+    "url": "https://game.aiwaves.tech/3a3bf201-5e03-4110-a041-c696592e7ae4/",
     "poster": "https://yinxinghuan.github.io/games/posters/shelf-it.png",
     "zipurl": "https://github.com/yinxinghuan/shelf-it/archive/refs/heads/master.zip"
   },
@@ -2355,7 +2355,7 @@
     "name": "River Row",
     "category": "action",
     "description": "AlterU action · 无尽划船 runner。触屏拖动转向，自动顺流前进。河中央有飘移的亮色急流带——蹭着走瞬间提速、视野放宽、风声起，但水流会横向把你拽进去，下一秒可能送进礁石。撞礁/岸壁=物理反弹+扣血+翻船动画，沿途漂着的红苹果回血。穿过石拱门无缝切换温带翠水 → 红土峡谷。Painterly 块面水面 + V 形船尾尾迹 + 30 角色 roster 每局随机一个上船划桨。距离排行榜。",
-    "url": "https://yinxinghuan.github.io/river-row/",
+    "url": "https://game.aiwaves.tech/b350254a-9cee-4006-93ac-b74a15e63278/",
     "poster": "https://yinxinghuan.github.io/games/posters/river-row.png",
     "zipurl": "https://github.com/yinxinghuan/river-row/archive/refs/heads/master.zip"
   },
@@ -2365,7 +2365,7 @@
     "name": "Monster Bash",
     "category": "action",
     "description": "AlterU arcade · voxel 弹珠台。左右半屏拍片，右侧发射道自动开球，3 球制。撞发光 pop bumper、弹弓与吸血鬼/狼人/僵尸/骷髅怪物靶得分，连击攒倍率。程序化音效 + 霓虹紫机台 + 比分排行榜，超过对手会推送通知。",
-    "url": "https://yinxinghuan.github.io/monster-bash/",
+    "url": "https://game.aiwaves.tech/68d88baf-726b-4f13-b133-637b2291d88b/",
     "poster": "https://yinxinghuan.github.io/games/posters/monster-bash.png",
     "zipurl": "https://github.com/yinxinghuan/monster-bash/archive/refs/heads/master.zip"
   },
@@ -2375,7 +2375,7 @@
     "name": "Same Brain",
     "category": "social",
     "description": "AlterU 社交读心 · 每日一题关于「另一个你」，4 个图标 tap 选完，AI 把你的选择渲染成一幅 vision，并排撞上一个想到同款画面的陌生人 + Sync% 同步率，撞中即互推通知。双胞胎墙看陌生人们的同款脑洞。生图为核心 payoff。",
-    "url": "https://yinxinghuan.github.io/same-brain/",
+    "url": "https://game.aiwaves.tech/272cf069-7f84-4d49-a4ac-b2785a2bc1fc/",
     "poster": "https://yinxinghuan.github.io/games/posters/same-brain.png",
     "zipurl": "https://github.com/yinxinghuan/same-brain/archive/refs/heads/master.zip?v=0.1"
   },
@@ -2385,7 +2385,7 @@
     "name": "Remix Relay",
     "category": "social",
     "description": "AlterU 社交 · 接力变形。刷到一张正在接力的超现实图，tap 一个变形动作（点燃/沉水/化金/霓虹…），AI 用 img2img 接出你的版本，你成新链尖、上家收到通知。一张永远在变形的集体图，remix 即社交动词。接力墙看最近链尖，点任意一张接着变。",
-    "url": "https://yinxinghuan.github.io/remix-relay/",
+    "url": "https://game.aiwaves.tech/36b4a81a-a1e4-4574-b64b-540ec71ce05f/",
     "poster": "https://yinxinghuan.github.io/games/posters/remix-relay.png",
     "zipurl": "https://github.com/yinxinghuan/remix-relay/archive/refs/heads/master.zip?v=0.1"
   },
@@ -2395,7 +2395,7 @@
     "name": "Ink Bloom",
     "category": "social",
     "description": "AlterU 感官 · 墨流大理石纹。点一下墨环绽放，拖动把嵌套色环梳成羽状大理石纹，松手晾到公共晾纸绳上。看到别人的纹纸盖一枚蜡封印 → 作者收到通知。搅墨即治愈，盖印即社交。",
-    "url": "https://yinxinghuan.github.io/ink-bloom/",
+    "url": "https://game.aiwaves.tech/42f6974c-a71d-4be8-9899-c06cac28f5c9/",
     "poster": "https://yinxinghuan.github.io/games/posters/ink-bloom.png",
     "zipurl": "https://github.com/yinxinghuan/ink-bloom/archive/refs/heads/master.zip?v=0.1"
   },
@@ -2405,7 +2405,7 @@
     "name": "Pop It",
     "category": "social",
     "description": "AlterU 感官 · 指尖泡。一格彩虹硅胶泡，点一下按下去啵一声，按出图案（爱心/笑脸/字母）发到留言墙。看到别人的留言按一下「戳回去」满屏连爆 → 作者收到通知。解压即社交。",
-    "url": "https://yinxinghuan.github.io/pop-it/",
+    "url": "https://game.aiwaves.tech/0175d24d-fabf-44bb-b848-cee047bbf764/",
     "poster": "https://yinxinghuan.github.io/games/posters/pop-it.png",
     "zipurl": "https://github.com/yinxinghuan/pop-it/archive/refs/heads/master.zip?v=0.1"
   },
@@ -2415,7 +2415,7 @@
     "name": "Get Off My Grave",
     "category": "action",
     "description": "Get Off My Grave — one-tap tower defense in a foggy graveyard. Tap a plot to light a spectral brazier, tap again to stoke it. Banish the zombies, ghosts and freshly dead clawing toward your crypt.",
-    "url": "https://yinxinghuan.github.io/get-off-my-lawn/",
+    "url": "https://game.aiwaves.tech/a467b652-de76-4cb2-8d3b-5e197289204c/",
     "poster": "https://yinxinghuan.github.io/games/posters/get-off-my-lawn.png",
     "zipurl": "https://github.com/yinxinghuan/get-off-my-lawn/archive/refs/heads/master.zip"
   },
@@ -2425,7 +2425,7 @@
     "name": "[EXPERIMENT] Who's That?",
     "category": "social",
     "description": "AlterU 社交身份推理 · 只显示朋友头像的 18%，从三位真实联系人中认出本人；猜错会逐步显影，最快认出会把一句温暖的确认发给对方。",
-    "url": "https://yinxinghuan.github.io/whos-that/",
+    "url": "https://game.aiwaves.tech/0ff60ec5-de93-4437-bb4b-b0c23212d641/",
     "poster": "https://yinxinghuan.github.io/games/posters/whos-that.png",
     "zipurl": "https://github.com/yinxinghuan/whos-that/archive/refs/heads/main.zip"
   },
@@ -2435,7 +2435,7 @@
     "name": "[EXPERIMENT] Takeout Alibis",
     "category": "social",
     "description": "AlterU 社交身份推理 · 三位真实朋友依次私密拿手机，选择外卖误送到自己门口时会怎么做；手机回到主人手里后，根据性格猜每张匿名小票是谁说的。答案来自朋友本人，不是系统随机。",
-    "url": "https://yinxinghuan.github.io/takeout-alibis/",
+    "url": "https://game.aiwaves.tech/64ffcc6b-af9a-420d-8077-13da6839aadc/",
     "poster": "https://yinxinghuan.github.io/games/posters/takeout-alibis.png",
     "zipurl": "https://github.com/yinxinghuan/takeout-alibis/archive/refs/heads/main.zip"
   },
@@ -2445,7 +2445,7 @@
     "name": "[EXPERIMENT] Follow My Face",
     "category": "casual",
     "description": "AlterU 单手认知干扰挑战 · 跟头像走，别信文字。玩家的真实头像向左或向右冲，写着玩家名字的巨大方向牌会故意撒谎；20 秒内识破路牌，按错时头像会被透明纸门当场拍扁。",
-    "url": "https://yinxinghuan.github.io/follow-my-face/",
+    "url": "https://game.aiwaves.tech/f29b1601-6ac2-4e45-bed8-65680b9f1047/",
     "poster": "https://yinxinghuan.github.io/games/posters/follow-my-face.png",
     "zipurl": "https://github.com/yinxinghuan/follow-my-face/archive/refs/heads/main.zip"
   }
