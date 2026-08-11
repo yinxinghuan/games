@@ -2147,7 +2147,7 @@
     "description": "幽灵庄园 — 养育你的小幽灵，探索3D低多边形墓园",
     "url": "https://game.aiwaves.tech/54112bb3-9829-4ad1-a012-1c461c689058/",
     "poster": "https://yinxinghuan.github.io/games/posters/ghost-garden.png",
-    "zipurl": "https://github.com/yinxinghuan/ghost-garden/archive/refs/heads/master.zip"
+    "zipurl": "https://github.com/yinxinghuan/ghost-garden/archive/refs/heads/main.zip"
   },
   {
     "id": "my-meme",
@@ -2167,7 +2167,7 @@
     "description": "找茬侦探第二季 — 和你的好友一起破解谜团",
     "url": "https://game.aiwaves.tech/1c87b224-10ad-4daf-acd4-f6c4081e4474/",
     "poster": "https://yinxinghuan.github.io/games/posters/spot-diff-s2.png",
-    "zipurl": "https://github.com/yinxinghuan/spot-diff-s2/archive/refs/heads/master.zip"
+    "zipurl": "https://github.com/yinxinghuan/spot-diff-s2/archive/refs/heads/main.zip"
   },
   {
     "id": "spot-diff",
