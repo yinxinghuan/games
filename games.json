@@ -10,6 +10,16 @@
     "zipurl": "https://github.com/yinxinghuan/draw-me-out/archive/refs/heads/master.zip"
   },
   {
+    "id": "last-train-to-dawn",
+    "uuid": "b2f2886f-46ec-459f-a70f-ab120a7b8edd",
+    "name": "Last Train to Dawn",
+    "category": "strategy",
+    "description": "一款节奏明快的双语竖屏铁路冒险：在洪灾地区接管最后一列还能运行的柴油车，选择路线、维修列车、招募伙伴并处理沿线危险；燃料、车况、人心、物资与承诺持续影响八章主线和动态结局。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/b2f2886f-46ec-459f-a70f-ab120a7b8edd/",
+    "poster": "https://yinxinghuan.github.io/games/posters/last-train-to-dawn.png",
+    "zipurl": "https://github.com/yinxinghuan/last-train-to-dawn/archive/refs/heads/master.zip"
+  },
+  {
     "id": "before-we-get-home",
     "uuid": "ce2b7231-7996-430d-85f6-8fdf184acf3d",
     "name": "Before We Get Home",

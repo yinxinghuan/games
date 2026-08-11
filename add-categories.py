@@ -39,6 +39,7 @@ ALLOWED = {
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
     'draw-me-out': 'strategy',
+    'last-train-to-dawn': 'strategy',
     'before-we-get-home': 'strategy',
     'afterlight-district': 'strategy',
     'jungle-trail': 'visual',
