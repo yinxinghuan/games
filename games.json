@@ -1,5 +1,15 @@
 [
   {
+    "id": "draw-me-out",
+    "uuid": "c699e284-58a9-43ca-8edf-223cd69588c9",
+    "name": "Draw Me Out",
+    "category": "strategy",
+    "description": "一款双语视觉角色扮演游戏：以玩家自己的完整形象作为主角，逃离不断变换的生成图片世界，收集现实坐标、保护会看见选项的角色，并由持久选择与关系生成开放结局。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/c699e284-58a9-43ca-8edf-223cd69588c9/",
+    "poster": "https://yinxinghuan.github.io/games/posters/draw-me-out.png",
+    "zipurl": "https://github.com/yinxinghuan/draw-me-out/archive/refs/heads/master.zip"
+  },
+  {
     "id": "before-we-get-home",
     "uuid": "ce2b7231-7996-430d-85f6-8fdf184acf3d",
     "name": "Before We Get Home",
