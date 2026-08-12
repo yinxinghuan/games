@@ -1,5 +1,15 @@
 [
   {
+    "id": "night-relay",
+    "uuid": "bed67ccd-a587-4dc4-8d97-6bbb56322481",
+    "name": "Night Relay",
+    "category": "strategy",
+    "description": "一款双语竖屏实时网络优化游戏：在 24 分钟航次中连接与重构午夜中继站，让三种信号穿过持续生长的网络，并以有限线路、站点容量和局内升级化解拥堵。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/bed67ccd-a587-4dc4-8d97-6bbb56322481/",
+    "poster": "https://yinxinghuan.github.io/games/posters/night-relay.png",
+    "zipurl": "https://github.com/yinxinghuan/night-relay/archive/refs/heads/master.zip"
+  },
+  {
     "id": "draw-me-out",
     "uuid": "c699e284-58a9-43ca-8edf-223cd69588c9",
     "name": "Draw Me Out",
