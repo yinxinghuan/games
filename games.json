@@ -2,9 +2,9 @@
   {
     "id": "night-relay",
     "uuid": "bed67ccd-a587-4dc4-8d97-6bbb56322481",
-    "name": "Night Relay",
+    "name": "Fruit Sorter",
     "category": "strategy",
-    "description": "一款双语竖屏实时网络优化游戏：在 24 分钟航次中连接与重构午夜中继站，让三种信号穿过持续生长的网络，并以有限线路、站点容量和局内升级化解拥堵。技术组件：React（Meta，MIT）。",
+    "description": "一款双语竖屏实时分拣游戏：在 24 分钟班次中连接或收回有限传送带，把苹果、柠檬和蓝莓送进同类果筐；实体等待槽、最满果筐和可见疏通反馈让路线压力一眼可懂。技术组件：React（Meta，MIT）。",
     "url": "https://game.aiwaves.tech/bed67ccd-a587-4dc4-8d97-6bbb56322481/",
     "poster": "https://yinxinghuan.github.io/games/posters/night-relay.png",
     "zipurl": "https://github.com/yinxinghuan/night-relay/archive/refs/heads/master.zip"
