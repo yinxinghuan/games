@@ -1,5 +1,15 @@
 [
   {
+    "id": "wanderlight",
+    "uuid": "66263f04-c6a5-4290-85f2-1011bbccf697",
+    "name": "Wanderlight",
+    "category": "strategy",
+    "description": "一款双语持续开放世界文字 RPG：沿轻幻想海岸工作、旅行、休息并结识成年人；地点、时间、物品、承诺、关系事件和长期角色的视觉身份都会跨次保留。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/66263f04-c6a5-4290-85f2-1011bbccf697/",
+    "poster": "https://yinxinghuan.github.io/games/posters/wanderlight.png",
+    "zipurl": "https://github.com/yinxinghuan/wanderlight/archive/refs/heads/master.zip"
+  },
+  {
     "id": "night-relay",
     "uuid": "bed67ccd-a587-4dc4-8d97-6bbb56322481",
     "name": "Parcel Hub",
