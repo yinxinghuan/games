@@ -14,7 +14,7 @@
     "uuid": "bed67ccd-a587-4dc4-8d97-6bbb56322481",
     "name": "Parcel Hub",
     "category": "strategy",
-    "description": "一款双语竖屏实时快递分拣游戏：所有包裹都从一个明确进件口出现；在 24 分钟班次中连接或收回有限传送带，把带住宅、商业街或校园地址图案的纸箱送进对应收件柜，并在台位堵住前持续改线。技术组件：React（Meta，MIT）。",
+    "description": "一款双语竖屏实时传送带分拣游戏：观察住宅、商铺、校园地址，及时拨动两处黄铜挡板，让大纸箱沿滚轮进入正确出口；连续正确累积连击，4 件错分填满退件笼即结束。当前为 4 分钟核心玩法垂直切片。技术组件：React（Meta，MIT）。",
     "url": "https://game.aiwaves.tech/bed67ccd-a587-4dc4-8d97-6bbb56322481/",
     "poster": "https://yinxinghuan.github.io/games/posters/night-relay.png",
     "zipurl": "https://github.com/yinxinghuan/night-relay/archive/refs/heads/master.zip"
