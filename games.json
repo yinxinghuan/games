@@ -1,5 +1,15 @@
 [
   {
+    "id": "block-party-wechat",
+    "uuid": "f5b135ab-ee6a-4be2-bf94-37d6ac7af30d",
+    "name": "Night Shift District",
+    "category": "shooter",
+    "description": "一款中文优先的竖屏 3D 街机射击游戏：拖动保安在夜街走位并自动开火，把倒下的僵尸撞进尸潮制造连锁碰撞；探索支路电闸，在维修井预警后撤回主街领取强化。当前为微信小游戏改造纵切版。技术组件：Three.js（mrdoob 与贡献者，MIT）。",
+    "url": "https://game.aiwaves.tech/f5b135ab-ee6a-4be2-bf94-37d6ac7af30d/",
+    "poster": "https://yinxinghuan.github.io/games/posters/block-party-wechat.png",
+    "zipurl": "https://github.com/yinxinghuan/block-party-wechat/archive/refs/heads/master.zip"
+  },
+  {
     "id": "wanderlight",
     "uuid": "66263f04-c6a5-4290-85f2-1011bbccf697",
     "name": "Wanderlight",
