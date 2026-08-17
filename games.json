@@ -1,5 +1,15 @@
 [
   {
+    "id": "little6-midnight-window",
+    "uuid": "e76ab539-05be-409d-95a6-6edaeaf4b4bd",
+    "name": "Little 6: Midnight Window",
+    "category": "other",
+    "description": "一款 Little 6 单色铜版腐蚀画风格的双语互动影像游戏：在现代日式极简居家空间里寻找五个惬意瞬间，观看六支真实 10 秒影片，让猫、咖啡、窗光与室内温度共同组成 LITTLE SIX 的慢生活片刻。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/e76ab539-05be-409d-95a6-6edaeaf4b4bd/",
+    "poster": "https://yinxinghuan.github.io/games/posters/little6-midnight-window.png",
+    "zipurl": "https://github.com/yinxinghuan/little6-midnight-window/archive/refs/heads/master.zip"
+  },
+  {
     "id": "stitch-sprites",
     "uuid": "68c68c63-9eee-4ee5-a46b-f453d2e8c6bf",
     "name": "Unstitch Sprites",
