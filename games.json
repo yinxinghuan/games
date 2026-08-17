@@ -1,5 +1,15 @@
 [
   {
+    "id": "stitch-sprites",
+    "uuid": "68c68c63-9eee-4ee5-a46b-f453d2e8c6bf",
+    "name": "Unstitch Sprites",
+    "category": "puzzle",
+    "description": "一款竖屏拆线益智游戏：调度不同颜色的小精灵，从十字绣图案的外沿逐层拆除可接触针脚，并管理有限线轴位，避免错误顺序造成堵塞。",
+    "url": "https://game.aiwaves.tech/68c68c63-9eee-4ee5-a46b-f453d2e8c6bf/",
+    "poster": "https://yinxinghuan.github.io/games/posters/stitch-sprites.png",
+    "zipurl": "https://github.com/yinxinghuan/stitch-sprites/archive/refs/heads/main.zip"
+  },
+  {
     "id": "little6-six-oclock",
     "uuid": "fff64c76-eb19-4523-8218-578f748c906c",
     "name": "Little 6: Six O'Clock",

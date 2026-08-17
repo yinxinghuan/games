@@ -165,6 +165,7 @@ CATEGORIES = {
     'tap-and-tell': 'casual',
 
     # Puzzle — merge, memory, spot-diff, word capture, deduction
+    'stitch-sprites': 'puzzle',
     'build-a-boyfriend': 'puzzle',
     'botfish': 'puzzle',
     'depthy': 'puzzle',
