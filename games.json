@@ -24,7 +24,7 @@
     "uuid": "fff64c76-eb19-4523-8218-578f748c906c",
     "name": "Little 6: Six O'Clock",
     "category": "other",
-    "description": "一款 Little 6 单色铜版画风格的双语互动影像游戏：帮助黑白猫赶在六点前送达 espresso，用钛杯的钟鸣重新打开咖啡馆大门。技术组件：React（Meta，MIT）。",
+    "description": "一款 Little Six 暖棕单色铜版腐蚀画风格的双语互动影像游戏：点击五处下午的光，观看窗帘、猫眼视角、咖啡热气、叶影与玄关的十秒影片，最后与 LITTLE SIX 等到六点灯亮。技术组件：React（Meta，MIT）。",
     "url": "https://game.aiwaves.tech/fff64c76-eb19-4523-8218-578f748c906c/",
     "poster": "https://yinxinghuan.github.io/games/posters/little6-six-oclock.png",
     "zipurl": "https://github.com/yinxinghuan/little6-six-oclock/archive/refs/heads/master.zip"
@@ -34,7 +34,7 @@
     "uuid": "542db245-830f-46a9-a274-61e5e26bf12e",
     "name": "Little 6: Rings True",
     "category": "other",
-    "description": "一款 Little 6 单色铜版画风格的双语互动影像游戏：帮助黑白猫从黄铜餐罩下取回 espresso，用钛杯的清亮共振判断正确行动。技术组件：React（Meta，MIT）。",
+    "description": "一款 Little Six 暖棕单色铜版腐蚀画风格的双语互动影像游戏：点击五处生活回响，观看窗帘、咖啡匙、暖气、纸灯与木地板的十秒影片，最后让 LITTLE SIX 把整个家放回安静。技术组件：React（Meta，MIT）。",
     "url": "https://game.aiwaves.tech/542db245-830f-46a9-a274-61e5e26bf12e/",
     "poster": "https://yinxinghuan.github.io/games/posters/little6-rings-true.png",
     "zipurl": "https://github.com/yinxinghuan/little6-rings-true/archive/refs/heads/master.zip"
