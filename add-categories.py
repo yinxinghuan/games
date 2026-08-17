@@ -38,6 +38,8 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'little6-six-oclock': 'other',
+    'little6-rings-true': 'other',
     'block-party-wechat': 'shooter',
     'wanderlight': 'strategy',
     'night-relay': 'strategy',
