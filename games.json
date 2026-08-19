@@ -1,5 +1,15 @@
 [
   {
+    "id": "after-the-red-light",
+    "uuid": "0f817d1b-a6e4-4cf6-aee3-b37cd07c6bcd",
+    "name": "After the Red Light Goes Out",
+    "category": "strategy",
+    "description": "一款成年向心理恐怖双语 RPG：在一间红灯逐层熄灭的精品旅馆中调查房间、关系与欲望留下的痕迹，每次拒绝、靠近与点燃火柴都会改变持续发展的夜晚。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/0f817d1b-a6e4-4cf6-aee3-b37cd07c6bcd/",
+    "poster": "https://yinxinghuan.github.io/games/posters/after-the-red-light.png",
+    "zipurl": "https://github.com/yinxinghuan/after-the-red-light/archive/refs/heads/main.zip"
+  },
+  {
     "id": "little6-midnight-window",
     "uuid": "e76ab539-05be-409d-95a6-6edaeaf4b4bd",
     "name": "Little 6: Midnight Window",
