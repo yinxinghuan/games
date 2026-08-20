@@ -1,5 +1,15 @@
 [
   {
+    "id": "neighbor-help",
+    "uuid": "00c8cbf4-9fba-44b6-b895-03361f71ba34",
+    "name": "Neighborly Help",
+    "category": "social",
+    "description": "一款双语异步多人共享世界 RPG：在地域中性的公寓社区里认领送药、借伞、取包裹等日常委托；公共物品、委托阶段与事件由共享权威服务原子提交，个人故事和回执跨次恢复。当前身份边界为公开测试版。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/00c8cbf4-9fba-44b6-b895-03361f71ba34/",
+    "poster": "https://yinxinghuan.github.io/games/posters/neighbor-help.png",
+    "zipurl": "https://github.com/yinxinghuan/neighbor-help/archive/refs/heads/main.zip"
+  },
+  {
     "id": "after-the-red-light",
     "uuid": "0f817d1b-a6e4-4cf6-aee3-b37cd07c6bcd",
     "name": "After the Red Light Goes Out",
