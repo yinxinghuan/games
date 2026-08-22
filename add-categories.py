@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'letters-from-afar': 'strategy',
     'neighbor-help': 'social',
     'after-the-red-light': 'strategy',
     'little6-midnight-window': 'other',

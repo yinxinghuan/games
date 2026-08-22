@@ -1,5 +1,15 @@
 [
   {
+    "id": "letters-from-afar",
+    "uuid": "65b050fc-97b2-4513-b95a-a8dc25419896",
+    "name": "Letters from Afar",
+    "category": "strategy",
+    "description": "一款双语异步多人共享世界 RPG：带着一封来自未来的信穿越风暴后的大陆，探索海岸、铁路与高原，延续人物关系，并与其他旅人共同修复道路、留下路迹和接力递送信件。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/65b050fc-97b2-4513-b95a-a8dc25419896/",
+    "poster": "https://yinxinghuan.github.io/games/posters/letters-from-afar.png",
+    "zipurl": "https://github.com/yinxinghuan/letters-from-afar/archive/refs/heads/main.zip"
+  },
+  {
     "id": "neighbor-help",
     "uuid": "00c8cbf4-9fba-44b6-b895-03361f71ba34",
     "name": "Neighborly Help",
