@@ -1,5 +1,15 @@
 [
   {
+    "id": "mist-harbor-last-light",
+    "uuid": "8a51d15e-7c00-4e27-bc63-25624ee75ac1",
+    "name": "The Last Light of Mist Harbor",
+    "category": "strategy",
+    "description": "一款双语连续文字 RPG：在暴风夜接管旧港信号站，通过调查、交涉、物品组合和服务器端 Prolog 规则判定，为失联渡船恢复最后一条归航信号。技术组件：React（Meta，MIT）。",
+    "url": "https://game.aiwaves.tech/8a51d15e-7c00-4e27-bc63-25624ee75ac1/",
+    "poster": "https://yinxinghuan.github.io/games/posters/mist-harbor-last-light.png",
+    "zipurl": "https://github.com/yinxinghuan/mist-harbor-last-light/archive/refs/heads/main.zip"
+  },
+  {
     "id": "letters-from-afar",
     "uuid": "65b050fc-97b2-4513-b95a-a8dc25419896",
     "name": "Letters from Afar",

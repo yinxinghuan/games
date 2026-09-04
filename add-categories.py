@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    'mist-harbor-last-light': 'strategy',
     'letters-from-afar': 'strategy',
     'neighbor-help': 'social',
     'after-the-red-light': 'strategy',
