@@ -1,5 +1,25 @@
 [
   {
+    "id": "rpgjs-story-lab",
+    "uuid": "cb90357b-fe01-48ab-b14b-0620eb0d556e",
+    "name": "Carriage 07: A Light Left On",
+    "category": "puzzle",
+    "description": "雨夜列车上的俯视探索短篇：在客厢、行李检修车与驾驶室之间寻找备件、修复电路，为接应队留下一盏灯。包含两条救援路线；当前云端试运行采用浏览器随机凭据，暂不支持账号找回或跨设备同步。原作署名：RPG-JS，Samuel Ronce，MIT。",
+    "url": "https://game.aiwaves.tech/cb90357b-fe01-48ab-b14b-0620eb0d556e/",
+    "poster": "https://yinxinghuan.github.io/games/posters/rpgjs-story-lab.png",
+    "zipurl": "https://github.com/yinxinghuan/rpgjs-story-lab/archive/refs/heads/main.zip"
+  },
+  {
+    "id": "signal-room-story-lab",
+    "uuid": "5fe947af-88a8-4366-91d5-9c267a6f4e01",
+    "name": "Rain Signal House",
+    "category": "puzzle",
+    "description": "雨夜信号房里的俯视探索短篇：寻找备件、隔离旧回路、恢复电源，再走向站台点亮信号。设备对话只能使用已准备的观察内容；进度保存在当前浏览器。原作署名：RPG-JS，Samuel Ronce，MIT。",
+    "url": "https://game.aiwaves.tech/5fe947af-88a8-4366-91d5-9c267a6f4e01/",
+    "poster": "https://yinxinghuan.github.io/games/posters/signal-room-story-lab.png",
+    "zipurl": "https://github.com/yinxinghuan/signal-room-story-lab/archive/refs/heads/main.zip"
+  },
+  {
     "id": "mist-harbor-last-light",
     "uuid": "8a51d15e-7c00-4e27-bc63-25624ee75ac1",
     "name": "The Last Light of Mist Harbor",
