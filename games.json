@@ -2,9 +2,9 @@
   {
     "id": "rpgjs-story-lab",
     "uuid": "cb90357b-fe01-48ab-b14b-0620eb0d556e",
-    "name": "Carriage 07: A Light Left On",
+    "name": "The Last Letter · Preview",
     "category": "puzzle",
-    "description": "雨夜列车上的俯视探索短篇：在客厢、行李检修车与驾驶室之间寻找备件、修复电路，为接应队留下一盏灯。包含两条救援路线；当前云端试运行采用浏览器随机凭据，暂不支持账号找回或跨设备同步。原作署名：RPG-JS，Samuel Ronce，MIT。",
+    "description": "旧街单人探索试玩：穿过店门、屋顶与院落寻找一封遗留的信，认识居民、调查物件、解开小谜题，并选择是否帮他们找回旧物。故事随探索推进，可保存旅程继续游玩；当前采用浏览器随机凭据，暂不支持账号找回或跨设备同步。原作署名：RPG-JS，Samuel Ronce，MIT。",
     "url": "https://game.aiwaves.tech/cb90357b-fe01-48ab-b14b-0620eb0d556e/",
     "poster": "https://yinxinghuan.github.io/games/posters/rpgjs-story-lab.png",
     "zipurl": "https://github.com/yinxinghuan/rpgjs-story-lab/archive/refs/heads/main.zip"
