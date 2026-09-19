@@ -1,5 +1,15 @@
 [
   {
+    "id": "memory-margin",
+    "uuid": "b198e25d-5781-48c3-930a-143ed23a92b4",
+    "name": "Memory Margin",
+    "category": "puzzle",
+    "description": "近未来正交探索 RPG：作为刚完成意识上传的普通人，在居所、走廊与记忆服务点追查缺失的语音结尾，核对人物说法与可见记录，并决定自己的记忆能否被他人使用。进度保存在当前浏览器。原作署名：RPG-JS，Samuel Ronce，MIT。",
+    "url": "https://game.aiwaves.tech/b198e25d-5781-48c3-930a-143ed23a92b4/",
+    "poster": "https://yinxinghuan.github.io/games/posters/memory-margin.png",
+    "zipurl": "https://github.com/yinxinghuan/memory-margin/archive/refs/heads/main.zip"
+  },
+  {
     "id": "rpgjs-story-lab",
     "uuid": "cb90357b-fe01-48ab-b14b-0620eb0d556e",
     "name": "The Last Letter · Preview",
