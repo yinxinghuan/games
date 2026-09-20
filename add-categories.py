@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    "before-the-close": "puzzle",
     'rpgjs-story-lab': 'puzzle',
     'signal-room-story-lab': 'puzzle',
     'mist-harbor-last-light': 'strategy',

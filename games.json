@@ -1,5 +1,15 @@
 [
   {
+    "id": "before-the-close",
+    "uuid": "233b6970-d7f6-4d54-bc20-4213eefc6ba5",
+    "name": "Before the Close",
+    "category": "puzzle",
+    "description": "交割前夜的 VC/PE 尽调探索 RPG：走访基金、公司与客户，核对合同、回款和现金用途，与五位人物交谈，在证据与关系之间形成投委会意见。四个地点、三类结局，支持当前浏览器独立旅程恢复。",
+    "url": "https://game.aiwaves.tech/233b6970-d7f6-4d54-bc20-4213eefc6ba5/",
+    "poster": "https://yinxinghuan.github.io/games/posters/before-the-close.png",
+    "zipurl": "https://github.com/yinxinghuan/before-the-close/archive/refs/heads/main.zip"
+  },
+  {
     "id": "memory-margin",
     "uuid": "b198e25d-5781-48c3-930a-143ed23a92b4",
     "name": "Memory Margin",
