@@ -1,5 +1,15 @@
 [
   {
+    "id": "toy-rampage",
+    "uuid": "03855703-d241-4f8c-90a9-ccf0bb72972e",
+    "name": "Toy Rampage",
+    "category": "strategy",
+    "description": "Build a clockwork defense: place and fuse toy weapons, expand the board, and survive eight waves across six levels. Saves stay in this browser; no purchases.",
+    "url": "https://game.aiwaves.tech/03855703-d241-4f8c-90a9-ccf0bb72972e/",
+    "poster": "https://yinxinghuan.github.io/games/posters/toy-rampage.png",
+    "zipurl": "https://github.com/yinxinghuan/toy-rampage/archive/refs/heads/main.zip"
+  },
+  {
     "id": "before-the-close",
     "uuid": "233b6970-d7f6-4d54-bc20-4213eefc6ba5",
     "name": "Before the Close",
