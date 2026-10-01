@@ -38,6 +38,7 @@ ALLOWED = {
 
 # Canonical mapping. Keys are game ids exactly as they appear in games.json.
 CATEGORIES = {
+    "a-summer-in-harbor": "simulation",
     'toy-rampage': 'strategy',
     "before-the-close": "puzzle",
     'rpgjs-story-lab': 'puzzle',

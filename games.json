@@ -1,5 +1,15 @@
 [
   {
+    "id": "a-summer-in-harbor",
+    "uuid": "e78df027-7ef4-4d49-82eb-ea91f03d9fb3",
+    "name": "A Summer in Harbor",
+    "category": "simulation",
+    "description": "来到海湾小镇度过一个夏天：安顿租屋、认识街坊、自由探索二十处地点，用修理、垂钓、切磋和不同通路逐步开放夏日集市。支持自由提问与当前浏览器续玩。",
+    "url": "https://game.aiwaves.tech/e78df027-7ef4-4d49-82eb-ea91f03d9fb3/",
+    "poster": "https://yinxinghuan.github.io/games/posters/a-summer-in-harbor.png",
+    "zipurl": "https://github.com/yinxinghuan/a-summer-in-harbor/archive/refs/heads/master.zip"
+  },
+  {
     "id": "toy-rampage",
     "uuid": "03855703-d241-4f8c-90a9-ccf0bb72972e",
     "name": "Toy Rampage",
